@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:26:54Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14124</key>
+		<dict>
+			<key>Track ID</key><integer>14124</integer>
+			<key>Name</key><string>Single</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>1904 / Cycles</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7201149</integer>
+			<key>Total Time</key><integer>450063</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-11T16:45:53Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>680B2722B587989A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/1904%20_%20Cycles/Single.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14126</key>
+		<dict>
+			<key>Track ID</key><integer>14126</integer>
+			<key>Name</key><string>EP</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>Self Titled</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19091664</integer>
+			<key>Total Time</key><integer>1193221</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2012-08-11T16:27:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3482575761</integer>
+			<key>Play Date UTC</key><date>2014-05-10T13:09:21Z</date>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>8298868AAEDB97B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/Self%20Titled/EP.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14128</key>
+		<dict>
+			<key>Track ID</key><integer>14128</integer>
+			<key>Name</key><string>Side 1 &#38; 2</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>Shallow Grave</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>29477124</integer>
+			<key>Total Time</key><integer>1842311</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-08-11T13:42:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>EAF7B2804445E391</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/Shallow%20Grave/Side%201%20&#38;%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14130</key>
+		<dict>
+			<key>Track ID</key><integer>14130</integer>
+			<key>Name</key><string>Side 1 &#38; 2</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>Sometimes The Blues</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17029052</integer>
+			<key>Total Time</key><integer>1064306</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-08-11T16:40:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>593DC9DA78D79377</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/Sometimes%20The%20Blues/Side%201%20&#38;%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14132</key>
+		<dict>
+			<key>Track ID</key><integer>14132</integer>
+			<key>Name</key><string>EP</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>The King Of Spain</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10775536</integer>
+			<key>Total Time</key><integer>673462</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-08-03T19:38:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3509686991</integer>
+			<key>Play Date UTC</key><date>2015-03-20T08:03:11Z</date>
+			<key>Sort Album</key><string>King Of Spain</string>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>D56E7764E28A2E21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/The%20King%20Of%20Spain/EP.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14134</key>
+		<dict>
+			<key>Track ID</key><integer>14134</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>The Tallest Man on Earth</string>
+			<key>Album</key><string>The Wild Hunt</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15384790</integer>
+			<key>Total Time</key><integer>961541</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-08-12T10:35:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Wild Hunt</string>
+			<key>Sort Artist</key><string>Tallest Man on Earth</string>
+			<key>Persistent ID</key><string>20C9FAAAFE8CD0CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20on%20Earth/The%20Wild%20Hunt/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14136</key>
+		<dict>
+			<key>Track ID</key><integer>14136</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>The Wild Hunt</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17968614</integer>
+			<key>Total Time</key><integer>1123030</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-08-12T10:48:21Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Wild Hunt</string>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>A6F69677AE5BCFAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/The%20Wild%20Hunt/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14138</key>
+		<dict>
+			<key>Track ID</key><integer>14138</integer>
+			<key>Name</key><string>To Just Grow Away</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6315735</integer>
+			<key>Total Time</key><integer>197440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5959</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>F97A3774D74C3259</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/01%20To%20Just%20Grow%20Away.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14140</key>
+		<dict>
+			<key>Track ID</key><integer>14140</integer>
+			<key>Name</key><string>Revelation Blues</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7278637</integer>
+			<key>Total Time</key><integer>223213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7760</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>B577E4DC3405241B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/02%20Revelation%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14142</key>
+		<dict>
+			<key>Track ID</key><integer>14142</integer>
+			<key>Name</key><string>Leading Me Now</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6677396</integer>
+			<key>Total Time</key><integer>205000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-26T02:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5371</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>247972930E3DFC61</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/03%20Leading%20Me%20Now.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14144</key>
+		<dict>
+			<key>Track ID</key><integer>14144</integer>
+			<key>Name</key><string>1904</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7846157</integer>
+			<key>Total Time</key><integer>239733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6425</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>2855B533D9CC4E14</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/04%201904.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14146</key>
+		<dict>
+			<key>Track ID</key><integer>14146</integer>
+			<key>Name</key><string>Bright Lanterns</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7108983</integer>
+			<key>Total Time</key><integer>221533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5853</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>41C35C7FB377C204</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/05%20Bright%20Lanterns.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14148</key>
+		<dict>
+			<key>Track ID</key><integer>14148</integer>
+			<key>Name</key><string>There's No Leaving Now</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8663499</integer>
+			<key>Total Time</key><integer>269973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3330</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>213BCBA566976F25</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/06%20There's%20No%20Leaving%20Now.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14150</key>
+		<dict>
+			<key>Track ID</key><integer>14150</integer>
+			<key>Name</key><string>Wind and Walls</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8081635</integer>
+			<key>Total Time</key><integer>249586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5273</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>D976802581AA72DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/07%20Wind%20and%20Walls.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14152</key>
+		<dict>
+			<key>Track ID</key><integer>14152</integer>
+			<key>Name</key><string>Little Brother</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7755546</integer>
+			<key>Total Time</key><integer>236893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7342</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>2A79E19B9FDED4B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/08%20Little%20Brother.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14154</key>
+		<dict>
+			<key>Track ID</key><integer>14154</integer>
+			<key>Name</key><string>Criminals</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6768823</integer>
+			<key>Total Time</key><integer>209946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5722</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>C9EEA7ACFF45F8FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/09%20Criminals.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14156</key>
+		<dict>
+			<key>Track ID</key><integer>14156</integer>
+			<key>Name</key><string>On Every Page</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9612456</integer>
+			<key>Total Time</key><integer>290320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-07-25T19:31:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4307</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>716FBC66D30F5EAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/10%20On%20Every%20Page.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14158</key>
+		<dict>
+			<key>Track ID</key><integer>14158</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17455787</integer>
+			<key>Total Time</key><integer>1090977</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-16T20:22:23Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>4B97214ED021262F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14160</key>
+		<dict>
+			<key>Track ID</key><integer>14160</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>The Tallest Man On Earth</string>
+			<key>Album</key><string>There's No Leaving Now</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20097707</integer>
+			<key>Total Time</key><integer>1256097</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-16T20:30:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:27Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Artist</key><string>Tallest Man On Earth</string>
+			<key>Persistent ID</key><string>57D448E8B653F9AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/The%20Tallest%20Man%20On%20Earth/There's%20No%20Leaving%20Now/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Tallest</string>
+			<key>Playlist ID</key><integer>34663</integer>
+			<key>Playlist Persistent ID</key><string>1E308754BA03F3CB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14156</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14124</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

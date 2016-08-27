@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:23:48Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12904</key>
+		<dict>
+			<key>Track ID</key><integer>12904</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Sad Cafe</string>
+			<key>Album</key><string>Sad Cafe</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20234350</integer>
+			<key>Total Time</key><integer>1264640</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2012-12-14T21:39:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490800451</integer>
+			<key>Play Date UTC</key><date>2014-08-13T17:47:31Z</date>
+			<key>Persistent ID</key><string>D857AB733B249A22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sad%20Cafe/Sad%20Cafe/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12906</key>
+		<dict>
+			<key>Track ID</key><integer>12906</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Sad Cafe</string>
+			<key>Album</key><string>Sad Cafe</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20209690</integer>
+			<key>Total Time</key><integer>1263098</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2012-12-14T22:08:03Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490801714</integer>
+			<key>Play Date UTC</key><date>2014-08-13T18:08:34Z</date>
+			<key>Persistent ID</key><string>A0267341C8FE9993</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sad%20Cafe/Sad%20Cafe/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12990</key>
+		<dict>
+			<key>Track ID</key><integer>12990</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Shakatak</string>
+			<key>Album</key><string>Night Birds</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20754294</integer>
+			<key>Total Time</key><integer>1297136</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2012-12-14T19:59:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3525326052</integer>
+			<key>Play Date UTC</key><date>2015-09-17T08:14:12Z</date>
+			<key>Persistent ID</key><string>7469521FE4EB2240</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Shakatak/Night%20Birds/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12992</key>
+		<dict>
+			<key>Track ID</key><integer>12992</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Shakatak</string>
+			<key>Album</key><string>Night Birds</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21805879</integer>
+			<key>Total Time</key><integer>1362860</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2012-12-14T20:24:13Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3525012569</integer>
+			<key>Play Date UTC</key><date>2015-09-13T17:09:29Z</date>
+			<key>Persistent ID</key><string>647BF9547F2E19AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Shakatak/Night%20Birds/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13094</key>
+		<dict>
+			<key>Track ID</key><integer>13094</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Software</string>
+			<key>Album</key><string>Marbles</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18754565</integer>
+			<key>Total Time</key><integer>1171513</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2012-04-16T19:10:57Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490934083</integer>
+			<key>Play Date UTC</key><date>2014-08-15T06:54:43Z</date>
+			<key>Persistent ID</key><string>B2038DCB8E8D024D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Software/Marbles/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13096</key>
+		<dict>
+			<key>Track ID</key><integer>13096</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Software</string>
+			<key>Album</key><string>Marbles</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18179035</integer>
+			<key>Total Time</key><integer>1135542</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2012-04-16T12:10:53Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490965234</integer>
+			<key>Play Date UTC</key><date>2014-08-15T15:33:54Z</date>
+			<key>Persistent ID</key><string>EE3E6AF9DE2FDD94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Software/Marbles/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13156</key>
+		<dict>
+			<key>Track ID</key><integer>13156</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Spyro Gyra</string>
+			<key>Album</key><string>Breakout</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17741645</integer>
+			<key>Total Time</key><integer>1108845</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2012-04-16T12:09:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490966344</integer>
+			<key>Play Date UTC</key><date>2014-08-15T15:52:24Z</date>
+			<key>Persistent ID</key><string>D481CC368A23DC9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Spyro%20Gyra/Breakout/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13158</key>
+		<dict>
+			<key>Track ID</key><integer>13158</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Spyro Gyra</string>
+			<key>Album</key><string>Breakout</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20078455</integer>
+			<key>Total Time</key><integer>1254896</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2012-04-16T12:09:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490967598</integer>
+			<key>Play Date UTC</key><date>2014-08-15T16:13:18Z</date>
+			<key>Persistent ID</key><string>381D641DC92C62F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Spyro%20Gyra/Breakout/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13160</key>
+		<dict>
+			<key>Track ID</key><integer>13160</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Spyro Gyra</string>
+			<key>Album</key><string>Morning Dance</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20775406</integer>
+			<key>Total Time</key><integer>1297815</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2012-04-16T12:27:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490883398</integer>
+			<key>Play Date UTC</key><date>2014-08-14T16:49:58Z</date>
+			<key>Persistent ID</key><string>1E8E152556946583</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Spyro%20Gyra/Morning%20Dance/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13162</key>
+		<dict>
+			<key>Track ID</key><integer>13162</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Spyro Gyra</string>
+			<key>Album</key><string>Morning Dance</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19220598</integer>
+			<key>Total Time</key><integer>1200640</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2012-04-16T12:27:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3490932912</integer>
+			<key>Play Date UTC</key><date>2014-08-15T06:35:12Z</date>
+			<key>Persistent ID</key><string>13FACCFD8A0C915B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Spyro%20Gyra/Morning%20Dance/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Chill-1</string>
+			<key>Playlist ID</key><integer>34100</integer>
+			<key>Playlist Persistent ID</key><string>86ABD3D7B5F2462B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12904</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13156</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13158</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

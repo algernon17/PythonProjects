@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-16T18:41:11Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15382</key>
+		<dict>
+			<key>Track ID</key><integer>15382</integer>
+			<key>Name</key><string>Orange Glow (CM Dub Edit)</string>
+			<key>Artist</key><string>Glenn Morrison</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4086289</integer>
+			<key>Total Time</key><integer>123533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:41:21Z</date>
+			<key>Date Added</key><date>2014-04-28T19:40:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538900453</integer>
+			<key>Play Date UTC</key><date>2016-02-21T10:54:13Z</date>
+			<key>Normalization</key><integer>1247</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2EC7B23EE75CC3E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-01%20Orange%20Glow%20(CM%20Dub%20Edit).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15384</key>
+		<dict>
+			<key>Track ID</key><integer>15384</integer>
+			<key>Name</key><string>Avant Garde (Kim Fai Remix)</string>
+			<key>Artist</key><string>Guy J &#38; Roy Brizman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10159461</integer>
+			<key>Total Time</key><integer>307146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:42:16Z</date>
+			<key>Date Added</key><date>2014-04-28T19:41:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538900760</integer>
+			<key>Play Date UTC</key><date>2016-02-21T10:59:20Z</date>
+			<key>Normalization</key><integer>1251</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A5D05209F172C316</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-02%20Avant%20Garde%20(Kim%20Fai%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15386</key>
+		<dict>
+			<key>Track ID</key><integer>15386</integer>
+			<key>Name</key><string>It All Comes Together (Fiord Remix)</string>
+			<key>Artist</key><string>Eelke Kleijn</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9947851</integer>
+			<key>Total Time</key><integer>299320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:43:04Z</date>
+			<key>Date Added</key><date>2014-04-28T19:42:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538901059</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:04:19Z</date>
+			<key>Normalization</key><integer>1791</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2EB6BB9140575340</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-03%20It%20All%20Comes%20Together%20(Fiord%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15388</key>
+		<dict>
+			<key>Track ID</key><integer>15388</integer>
+			<key>Name</key><string>Pesadilla Hermosa (Dibby Dougherty Remix)</string>
+			<key>Artist</key><string>Erphun</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7855510</integer>
+			<key>Total Time</key><integer>229746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:43:38Z</date>
+			<key>Date Added</key><date>2014-04-28T19:43:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538901289</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:08:09Z</date>
+			<key>Normalization</key><integer>1674</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>659F7ECC4E252EBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-04%20Pesadilla%20Hermosa%20(Dibby%20Dougherty%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15390</key>
+		<dict>
+			<key>Track ID</key><integer>15390</integer>
+			<key>Name</key><string>Club 69 (Dibby Dougherty Remix)</string>
+			<key>Artist</key><string>Oliver Moldan</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9136057</integer>
+			<key>Total Time</key><integer>275106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:44:17Z</date>
+			<key>Date Added</key><date>2014-04-28T19:43:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538901564</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:12:44Z</date>
+			<key>Normalization</key><integer>1245</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2AA2E71BB9CF906F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-05%20Club%2069%20(Dibby%20Dougherty%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15392</key>
+		<dict>
+			<key>Track ID</key><integer>15392</integer>
+			<key>Name</key><string>Legacy (Simon &#38; Shaker Remix)</string>
+			<key>Artist</key><string>Infusion</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8104452</integer>
+			<key>Total Time</key><integer>244106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:44:49Z</date>
+			<key>Date Added</key><date>2014-04-28T19:44:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538901808</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:16:48Z</date>
+			<key>Normalization</key><integer>2565</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>BCC27AAB11BE6175</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-06%20Legacy%20(Simon%20&#38;%20Shaker%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15394</key>
+		<dict>
+			<key>Track ID</key><integer>15394</integer>
+			<key>Name</key><string>Dry Spell (Manuel Sofia's Deeply Quantized Remix)</string>
+			<key>Artist</key><string>Habersham</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9494142</integer>
+			<key>Total Time</key><integer>274053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:45:25Z</date>
+			<key>Date Added</key><date>2014-04-28T19:44:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3538902082</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:21:22Z</date>
+			<key>Normalization</key><integer>1474</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>92D6170FEDD29BB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-07%20Dry%20Spell%20(Manuel%20Sofia's%20Deeply%20Quantized%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15396</key>
+		<dict>
+			<key>Track ID</key><integer>15396</integer>
+			<key>Name</key><string>G Platz (James Harcourt Remix)</string>
+			<key>Artist</key><string>Nick Muir</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12084427</integer>
+			<key>Total Time</key><integer>366226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:46:08Z</date>
+			<key>Date Added</key><date>2014-04-28T19:45:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3538902449</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:27:29Z</date>
+			<key>Normalization</key><integer>1512</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>132A30AAB9793038</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-08%20G%20Platz%20(James%20Harcourt%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15398</key>
+		<dict>
+			<key>Track ID</key><integer>15398</integer>
+			<key>Name</key><string>2wo Butterflies (Quivver Remix)</string>
+			<key>Artist</key><string>Erphun</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9505612</integer>
+			<key>Total Time</key><integer>287613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:46:39Z</date>
+			<key>Date Added</key><date>2014-04-28T19:46:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3538902736</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:32:16Z</date>
+			<key>Normalization</key><integer>1649</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2269578FEF94E0C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-09%202wo%20Butterflies%20(Quivver%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15400</key>
+		<dict>
+			<key>Track ID</key><integer>15400</integer>
+			<key>Name</key><string>Striptease (m.O.D.E. Remix)</string>
+			<key>Artist</key><string>Lewie Day</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10500985</integer>
+			<key>Total Time</key><integer>317013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:47:13Z</date>
+			<key>Date Added</key><date>2014-04-28T19:46:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3538903053</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:37:33Z</date>
+			<key>Normalization</key><integer>1526</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>00F3BCC26B4C26ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-10%20Striptease%20(m.O.D.E.%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15402</key>
+		<dict>
+			<key>Track ID</key><integer>15402</integer>
+			<key>Name</key><string>Mandala (Frederico Epis Remix)</string>
+			<key>Artist</key><string>Dubfunk</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8309912</integer>
+			<key>Total Time</key><integer>248440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:47:38Z</date>
+			<key>Date Added</key><date>2014-04-28T19:47:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3538903302</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:41:42Z</date>
+			<key>Normalization</key><integer>1473</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>65E9AF7B22EB6147</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-11%20Mandala%20(Frederico%20Epis%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15404</key>
+		<dict>
+			<key>Track ID</key><integer>15404</integer>
+			<key>Name</key><string>Hayaa</string>
+			<key>Artist</key><string>Dave Seaman / Josh Gabriel</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10205426</integer>
+			<key>Total Time</key><integer>307893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:48:09Z</date>
+			<key>Date Added</key><date>2014-04-28T19:47:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3538903610</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:46:50Z</date>
+			<key>Normalization</key><integer>4349</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>29E72423DBA53DA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-12%20Hayaa.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15406</key>
+		<dict>
+			<key>Track ID</key><integer>15406</integer>
+			<key>Name</key><string>Gobbledygook (Funkagenda Repulse Mix)</string>
+			<key>Artist</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15043651</integer>
+			<key>Total Time</key><integer>453760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:48:51Z</date>
+			<key>Date Added</key><date>2014-04-28T19:48:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3538904063</integer>
+			<key>Play Date UTC</key><date>2016-02-21T11:54:23Z</date>
+			<key>Normalization</key><integer>1580</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>E989D679571EAD5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-13%20Gobbledygook%20(Funkagenda%20Repulse%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15408</key>
+		<dict>
+			<key>Track ID</key><integer>15408</integer>
+			<key>Name</key><string>Afterglow (Eelke Kleijn Remix)</string>
+			<key>Artist</key><string>Couture Feat. Rachelle</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 1]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11563818</integer>
+			<key>Total Time</key><integer>356253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:49:23Z</date>
+			<key>Date Added</key><date>2014-04-28T19:48:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3538904420</integer>
+			<key>Play Date UTC</key><date>2016-02-21T12:00:20Z</date>
+			<key>Normalization</key><integer>1250</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B1ED37F6A0EF47AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%201%5D/1-14%20Afterglow%20(Eelke%20Kleijn%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15410</key>
+		<dict>
+			<key>Track ID</key><integer>15410</integer>
+			<key>Name</key><string>Gobbledygook (Erphun Remix)</string>
+			<key>Artist</key><string>Dave Seaman</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18142778</integer>
+			<key>Total Time</key><integer>545626</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:58:40Z</date>
+			<key>Date Added</key><date>2014-04-28T19:57:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485581591</integer>
+			<key>Play Date UTC</key><date>2014-06-14T08:06:31Z</date>
+			<key>Normalization</key><integer>1946</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>62CAE967D3609C88</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-01%20Gobbledygook%20(Erphun%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15412</key>
+		<dict>
+			<key>Track ID</key><integer>15412</integer>
+			<key>Name</key><string>Emotional Distortion (Habersham's Megladon Remix)</string>
+			<key>Artist</key><string>Mos</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15776906</integer>
+			<key>Total Time</key><integer>487706</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T02:59:51Z</date>
+			<key>Date Added</key><date>2014-04-28T19:58:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485582079</integer>
+			<key>Play Date UTC</key><date>2014-06-14T08:14:39Z</date>
+			<key>Normalization</key><integer>1203</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>EAB3724D0DEF40B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-02%20Emotional%20Distortion%20(Habersham's%20Megladon%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15414</key>
+		<dict>
+			<key>Track ID</key><integer>15414</integer>
+			<key>Name</key><string>Souls (GusGus Remix)</string>
+			<key>Artist</key><string>Paul Jackson</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15019912</integer>
+			<key>Total Time</key><integer>440306</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:00:47Z</date>
+			<key>Date Added</key><date>2014-04-28T19:59:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485582519</integer>
+			<key>Play Date UTC</key><date>2014-06-14T08:21:59Z</date>
+			<key>Normalization</key><integer>1203</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>0FDF118B3330F823</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-03%20Souls%20(GusGus%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15416</key>
+		<dict>
+			<key>Track ID</key><integer>15416</integer>
+			<key>Name</key><string>Orange Glow (Robert Babicz Spaceship Remix)</string>
+			<key>Artist</key><string>Glenn Morrison</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18431290</integer>
+			<key>Total Time</key><integer>560160</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:01:52Z</date>
+			<key>Date Added</key><date>2014-04-28T20:00:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485583079</integer>
+			<key>Play Date UTC</key><date>2014-06-14T08:31:19Z</date>
+			<key>Normalization</key><integer>1889</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>BCA4C47EC519CC31</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-04%20Orange%20Glow%20(Robert%20Babicz%20Spaceship%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15418</key>
+		<dict>
+			<key>Track ID</key><integer>15418</integer>
+			<key>Name</key><string>Rekollection (Kazell's Influx Audio Dub)</string>
+			<key>Artist</key><string>Solaris Heights</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15467300</integer>
+			<key>Total Time</key><integer>447146</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:02:41Z</date>
+			<key>Date Added</key><date>2014-04-28T20:01:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485583526</integer>
+			<key>Play Date UTC</key><date>2014-06-14T08:38:46Z</date>
+			<key>Normalization</key><integer>1551</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6C1D8BD50DCFFB79</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-05%20Rekollection%20(Kazell's%20Influx%20Audio%20Dub).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15420</key>
+		<dict>
+			<key>Track ID</key><integer>15420</integer>
+			<key>Name</key><string>Brasilia (Dubfunk Melbourne's Remix)</string>
+			<key>Artist</key><string>Federico Epis</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14563873</integer>
+			<key>Total Time</key><integer>439386</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:03:26Z</date>
+			<key>Date Added</key><date>2014-04-28T20:02:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485749172</integer>
+			<key>Play Date UTC</key><date>2014-06-16T06:39:32Z</date>
+			<key>Normalization</key><integer>1203</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>27B874950976D458</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-06%20Brasilia%20(Dubfunk%20Melbourne's%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15422</key>
+		<dict>
+			<key>Track ID</key><integer>15422</integer>
+			<key>Name</key><string>Pesadilla Hermosa (Pig &#38; Dan Summershine Remix)</string>
+			<key>Artist</key><string>Erphun</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13662133</integer>
+			<key>Total Time</key><integer>406880</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:04:05Z</date>
+			<key>Date Added</key><date>2014-04-28T20:03:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485749579</integer>
+			<key>Play Date UTC</key><date>2014-06-16T06:46:19Z</date>
+			<key>Normalization</key><integer>1203</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>906F3F024987E048</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-07%20Pesadilla%20Hermosa%20(Pig%20&#38;%20Dan%20Summershine%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15424</key>
+		<dict>
+			<key>Track ID</key><integer>15424</integer>
+			<key>Name</key><string>Last Goodbye (Randall Jones Remix)</string>
+			<key>Artist</key><string>Attic Feat. Julie Thompson</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14031273</integer>
+			<key>Total Time</key><integer>424640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:04:44Z</date>
+			<key>Date Added</key><date>2014-04-28T20:04:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485750003</integer>
+			<key>Play Date UTC</key><date>2014-06-16T06:53:23Z</date>
+			<key>Normalization</key><integer>4941</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2F721BB69169AD0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-08%20Last%20Goodbye%20(Randall%20Jones%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15426</key>
+		<dict>
+			<key>Track ID</key><integer>15426</integer>
+			<key>Name</key><string>Nothing At All (Paul Thomas &#38; Myke Smith Remix)</string>
+			<key>Artist</key><string>Angelfreq</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>17006365</integer>
+			<key>Total Time</key><integer>514186</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:05:29Z</date>
+			<key>Date Added</key><date>2014-04-28T20:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3485750518</integer>
+			<key>Play Date UTC</key><date>2014-06-16T07:01:58Z</date>
+			<key>Normalization</key><integer>1877</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2447798F5D87FE84</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-09%20Nothing%20At%20All%20(Paul%20Thomas%20&#38;%20Myke%20Smith%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15428</key>
+		<dict>
+			<key>Track ID</key><integer>15428</integer>
+			<key>Name</key><string>Coming Clean (Paul Keeley Remix)</string>
+			<key>Artist</key><string>Red Jackson</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>This Is Audio Therapy, Vol. 2 [Disc 2]</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15786824</integer>
+			<key>Total Time</key><integer>473546</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-04-29T03:06:08Z</date>
+			<key>Date Added</key><date>2014-04-28T20:05:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3482762074</integer>
+			<key>Play Date UTC</key><date>2014-05-12T16:54:34Z</date>
+			<key>Normalization</key><integer>2362</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>EDFC89CC4E37B4BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/This%20Is%20Audio%20Therapy,%20Vol.%202%20%5BDisc%202%5D/2-10%20Coming%20Clean%20(Paul%20Keeley%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15430</key>
+		<dict>
+			<key>Track ID</key><integer>15430</integer>
+			<key>Name</key><string>Glow (Spirit Catcher Remix)</string>
+			<key>Artist</key><string>Satoshi Tomiie</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14644070</integer>
+			<key>Total Time</key><integer>442880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:51:57Z</date>
+			<key>Date Added</key><date>2014-04-30T19:51:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3539409403</integer>
+			<key>Play Date UTC</key><date>2016-02-27T08:16:43Z</date>
+			<key>Normalization</key><integer>1270</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A5FDE0F1797081AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-01%20Glow%20(Spirit%20Catcher%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15432</key>
+		<dict>
+			<key>Track ID</key><integer>15432</integer>
+			<key>Name</key><string>Me (Zoo Brazil Remix)</string>
+			<key>Artist</key><string>Laid</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10539673</integer>
+			<key>Total Time</key><integer>318760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:52:28Z</date>
+			<key>Date Added</key><date>2014-04-30T19:52:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3539409722</integer>
+			<key>Play Date UTC</key><date>2016-02-27T08:22:02Z</date>
+			<key>Normalization</key><integer>1786</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A20F467D27698D76</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-02%20Me%20(Zoo%20Brazil%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15434</key>
+		<dict>
+			<key>Track ID</key><integer>15434</integer>
+			<key>Name</key><string>So Get Up (Mirabeau 2006 Mix)</string>
+			<key>Artist</key><string>Underground Sound Of Lisbon</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14132106</integer>
+			<key>Total Time</key><integer>427493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:53:04Z</date>
+			<key>Date Added</key><date>2014-04-30T19:52:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3539410150</integer>
+			<key>Play Date UTC</key><date>2016-02-27T08:29:10Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>97434E394812430F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-03%20So%20Get%20Up%20(Mirabeau%202006%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15436</key>
+		<dict>
+			<key>Track ID</key><integer>15436</integer>
+			<key>Name</key><string>Is Killing Me</string>
+			<key>Artist</key><string>Nick &#38; Danny Chatelain</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>16161954</integer>
+			<key>Total Time</key><integer>480000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-05-01T02:53:41Z</date>
+			<key>Date Added</key><date>2014-04-30T19:53:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3527571643</integer>
+			<key>Play Date UTC</key><date>2015-10-13T08:00:43Z</date>
+			<key>Normalization</key><integer>2161</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F761647F1371C4C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-04%20Is%20Killing%20Me.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15438</key>
+		<dict>
+			<key>Track ID</key><integer>15438</integer>
+			<key>Name</key><string>Superflyin</string>
+			<key>Artist</key><string>Cubic</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10911241</integer>
+			<key>Total Time</key><integer>330026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:54:04Z</date>
+			<key>Date Added</key><date>2014-04-30T19:53:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3539416845</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:20:45Z</date>
+			<key>Normalization</key><integer>1984</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>0C13C06A09C69676</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-05%20Superflyin.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15440</key>
+		<dict>
+			<key>Track ID</key><integer>15440</integer>
+			<key>Name</key><string>Rej</string>
+			<key>Artist</key><string>Âme</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11797165</integer>
+			<key>Total Time</key><integer>344986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:54:27Z</date>
+			<key>Date Added</key><date>2014-04-30T19:54:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3539417190</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:26:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T17:18:50Z</date>
+			<key>Normalization</key><integer>1687</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>5E1695EE55DA5E20</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-06%20Rej.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15442</key>
+		<dict>
+			<key>Track ID</key><integer>15442</integer>
+			<key>Name</key><string>Hello There (Radio Slave Remix)</string>
+			<key>Artist</key><string>Cagedbaby</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13897887</integer>
+			<key>Total Time</key><integer>420013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:54:54Z</date>
+			<key>Date Added</key><date>2014-04-30T19:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3539417610</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:33:30Z</date>
+			<key>Normalization</key><integer>1279</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6CB69DD8A2C027C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-07%20Hello%20There%20(Radio%20Slave%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15444</key>
+		<dict>
+			<key>Track ID</key><integer>15444</integer>
+			<key>Name</key><string>Coming Clean (Lexicon Avenue Remix)</string>
+			<key>Artist</key><string>Dylan Rhymes</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11880137</integer>
+			<key>Total Time</key><integer>360000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:55:16Z</date>
+			<key>Date Added</key><date>2014-04-30T19:54:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3539417970</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:39:30Z</date>
+			<key>Normalization</key><integer>2549</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8ACA77A1B0E7DCE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-08%20Coming%20Clean%20(Lexicon%20Avenue%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15446</key>
+		<dict>
+			<key>Track ID</key><integer>15446</integer>
+			<key>Name</key><string>That Acid Track</string>
+			<key>Artist</key><string>Lexicon Avenue</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11900997</integer>
+			<key>Total Time</key><integer>359786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:55:37Z</date>
+			<key>Date Added</key><date>2014-04-30T19:55:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3539418329</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:45:29Z</date>
+			<key>Normalization</key><integer>1502</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>14EC0883A0C6112D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-09%20That%20Acid%20Track.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15448</key>
+		<dict>
+			<key>Track ID</key><integer>15448</integer>
+			<key>Name</key><string>I Want It Liquid (Acid) (Acid Crash Mix)</string>
+			<key>Artist</key><string>Peter Presta Feat. Vanitiy L</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10425303</integer>
+			<key>Total Time</key><integer>314986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-05-01T02:55:55Z</date>
+			<key>Date Added</key><date>2014-04-30T19:55:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3539418644</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:50:44Z</date>
+			<key>Normalization</key><integer>2665</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B0D555F16D511EAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-10%20I%20Want%20It%20Liquid%20(Acid)%20(Acid%20Crash%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15450</key>
+		<dict>
+			<key>Track ID</key><integer>15450</integer>
+			<key>Name</key><string>One Of Those Things</string>
+			<key>Artist</key><string>Nick-K</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11389273</integer>
+			<key>Total Time</key><integer>345240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-05-01T02:56:15Z</date>
+			<key>Date Added</key><date>2014-04-30T19:55:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3539418990</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:56:30Z</date>
+			<key>Normalization</key><integer>3028</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>268F34810B979480</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-11%20One%20Of%20Those%20Things.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15452</key>
+		<dict>
+			<key>Track ID</key><integer>15452</integer>
+			<key>Name</key><string>Spastik</string>
+			<key>Artist</key><string>Plastikman</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3473186</integer>
+			<key>Total Time</key><integer>105000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-05-01T02:56:22Z</date>
+			<key>Date Added</key><date>2014-04-30T19:56:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3539419095</integer>
+			<key>Play Date UTC</key><date>2016-02-27T10:58:15Z</date>
+			<key>Normalization</key><integer>2396</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>89D344D544A3810F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-12%20Spastik.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15454</key>
+		<dict>
+			<key>Track ID</key><integer>15454</integer>
+			<key>Name</key><string>Nocturnal (Nocturne 2)</string>
+			<key>Artist</key><string>Klement Bonelli Feat. DragonFly</string>
+			<key>Composer</key><string>Lexicon Avenue</string>
+			<key>Album</key><string>Therapy Sessions Volume Three</string>
+			<key>Genre</key><string>Dance &#38; House</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13635165</integer>
+			<key>Total Time</key><integer>416306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-05-01T02:56:45Z</date>
+			<key>Date Added</key><date>2014-04-30T19:56:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3539419511</integer>
+			<key>Play Date UTC</key><date>2016-02-27T11:05:11Z</date>
+			<key>Normalization</key><integer>2962</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6F5D41106556EC23</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions%20Volume%20Three/1-13%20Nocturnal%20(Nocturne%202).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15456</key>
+		<dict>
+			<key>Track ID</key><integer>15456</integer>
+			<key>Name</key><string>Nothing Is Real (Martin Buttrich Remix)</string>
+			<key>Artist</key><string>Klaus Schneider</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15329265</integer>
+			<key>Total Time</key><integer>463680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T19:59:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3539419975</integer>
+			<key>Play Date UTC</key><date>2016-02-27T11:12:55Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3D3DFD664D4332FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-01%20Nothing%20Is%20Real%20(Martin%20Buttrich%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15458</key>
+		<dict>
+			<key>Track ID</key><integer>15458</integer>
+			<key>Name</key><string>Aceide</string>
+			<key>Artist</key><string>Habersham</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12210442</integer>
+			<key>Total Time</key><integer>368666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:00:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3524028815</integer>
+			<key>Play Date UTC</key><date>2015-09-02T07:53:35Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>458C60D785CB4DFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-02%20Aceide.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15460</key>
+		<dict>
+			<key>Track ID</key><integer>15460</integer>
+			<key>Name</key><string>Zoom In</string>
+			<key>Artist</key><string>Kupon</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8745604</integer>
+			<key>Total Time</key><integer>260120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:01:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3524029075</integer>
+			<key>Play Date UTC</key><date>2015-09-02T07:57:55Z</date>
+			<key>Normalization</key><integer>2384</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>51D6ED59808F075A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-03%20Zoom%20In.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15462</key>
+		<dict>
+			<key>Track ID</key><integer>15462</integer>
+			<key>Name</key><string>Teething</string>
+			<key>Artist</key><string>Stelios Vassiloudis</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11098352</integer>
+			<key>Total Time</key><integer>335280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:02:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524029410</integer>
+			<key>Play Date UTC</key><date>2015-09-02T08:03:30Z</date>
+			<key>Normalization</key><integer>2397</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F1FC9B6ABAECF617</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-04%20Teething.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15464</key>
+		<dict>
+			<key>Track ID</key><integer>15464</integer>
+			<key>Name</key><string>Striptease</string>
+			<key>Artist</key><string>Lewie Day</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13569806</integer>
+			<key>Total Time</key><integer>409840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:03:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524029819</integer>
+			<key>Play Date UTC</key><date>2015-09-02T08:10:19Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>671BDB643D426A42</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-05%20Striptease.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15466</key>
+		<dict>
+			<key>Track ID</key><integer>15466</integer>
+			<key>Name</key><string>Ihre Persönliche Glücksmelodie (Freeform Five Remix)</string>
+			<key>Artist</key><string>Gabriel Ananda</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14468723</integer>
+			<key>Total Time</key><integer>437773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:04:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524030257</integer>
+			<key>Play Date UTC</key><date>2015-09-02T08:17:37Z</date>
+			<key>Normalization</key><integer>1539</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>E181FA5ABF106323</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-06%20Ihre%20Perso%CC%88nliche%20Glu%CC%88cksmelodie%20(Freeform%20Five%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15468</key>
+		<dict>
+			<key>Track ID</key><integer>15468</integer>
+			<key>Name</key><string>Eden (Shiloh Remix)</string>
+			<key>Artist</key><string>Brisker, Magitman</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11362503</integer>
+			<key>Total Time</key><integer>341800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:04:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524061012</integer>
+			<key>Play Date UTC</key><date>2015-09-02T16:50:12Z</date>
+			<key>Normalization</key><integer>2227</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>32A238647A3C411A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-07%20Eden%20(Shiloh%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15470</key>
+		<dict>
+			<key>Track ID</key><integer>15470</integer>
+			<key>Name</key><string>Café Del Mariachi</string>
+			<key>Artist</key><string>Shiloh</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13869065</integer>
+			<key>Total Time</key><integer>419986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:05:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524061431</integer>
+			<key>Play Date UTC</key><date>2015-09-02T16:57:11Z</date>
+			<key>Normalization</key><integer>2230</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>590289998273D0FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-08%20Cafe%CC%81%20Del%20Mariachi.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15472</key>
+		<dict>
+			<key>Track ID</key><integer>15472</integer>
+			<key>Name</key><string>Click</string>
+			<key>Artist</key><string>Angello &#38; Ingrosso</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6294714</integer>
+			<key>Total Time</key><integer>187506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:06:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524061619</integer>
+			<key>Play Date UTC</key><date>2015-09-02T17:00:19Z</date>
+			<key>Normalization</key><integer>1739</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>9DDF377E6BF0C74B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-09%20Click.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15474</key>
+		<dict>
+			<key>Track ID</key><integer>15474</integer>
+			<key>Name</key><string>Jet</string>
+			<key>Artist</key><string>Ellen Allien &#38; Apparat</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10178249</integer>
+			<key>Total Time</key><integer>308440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:06:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524061927</integer>
+			<key>Play Date UTC</key><date>2015-09-02T17:05:27Z</date>
+			<key>Normalization</key><integer>1622</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F985DEA8DE8130BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-10%20Jet.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15476</key>
+		<dict>
+			<key>Track ID</key><integer>15476</integer>
+			<key>Name</key><string>Big Time (Linus Loves Remix)</string>
+			<key>Artist</key><string>Dada Life</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9672381</integer>
+			<key>Total Time</key><integer>292506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:06Z</date>
+			<key>Date Added</key><date>2014-04-30T20:06:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524062220</integer>
+			<key>Play Date UTC</key><date>2015-09-02T17:10:20Z</date>
+			<key>Normalization</key><integer>2443</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>45AA9962A9A7994D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-11%20Big%20Time%20(Linus%20Loves%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15478</key>
+		<dict>
+			<key>Track ID</key><integer>15478</integer>
+			<key>Name</key><string>Gamma Radio (16 Bit Lolitas Mix)</string>
+			<key>Artist</key><string>MK Ultra Project</string>
+			<key>Composer</key><string>Dave Seaman</string>
+			<key>Album</key><string>Therapy Sessions, Vol. 3 (Dave Seaman [Disc 1])</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11383958</integer>
+			<key>Total Time</key><integer>351453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:07Z</date>
+			<key>Date Added</key><date>2014-04-30T20:07:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3524115938</integer>
+			<key>Play Date UTC</key><date>2015-09-03T08:05:38Z</date>
+			<key>Normalization</key><integer>1824</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>4C738781E8DD819A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Therapy%20Sessions,%20Vol.%203%20(Dave%20Seaman%20%5BDisc%201%5D)/1-12%20Gamma%20Radio%20(16%20Bit%20Lolitas%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Therapy</string>
+			<key>Playlist ID</key><integer>34709</integer>
+			<key>Playlist Persistent ID</key><string>D7EB700FDAE7CE7F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15428</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

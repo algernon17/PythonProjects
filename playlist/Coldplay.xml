@@ -1,0 +1,2916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:24:21Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4424</key>
+		<dict>
+			<key>Track ID</key><integer>4424</integer>
+			<key>Name</key><string>Politik</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5159945</integer>
+			<key>Total Time</key><integer>318626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-19T05:06:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4627</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>14CBE2399C66F8E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/01%20Politik.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4426</key>
+		<dict>
+			<key>Track ID</key><integer>4426</integer>
+			<key>Name</key><string>In My Place</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3672358</integer>
+			<key>Total Time</key><integer>228733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-19T05:06:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5392</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>92EEF176C172BFAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/02%20In%20My%20Place.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4428</key>
+		<dict>
+			<key>Track ID</key><integer>4428</integer>
+			<key>Name</key><string>God Put A Smile Upon Your Face</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4818956</integer>
+			<key>Total Time</key><integer>297266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:07:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4441</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>6DBA6975FD6B677B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/03%20God%20Put%20A%20Smile%20Upon%20Your%20Face.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4430</key>
+		<dict>
+			<key>Track ID</key><integer>4430</integer>
+			<key>Name</key><string>The Scientist</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5000483</integer>
+			<key>Total Time</key><integer>309200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:07:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3594</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Sort Name</key><string>Scientist</string>
+			<key>Persistent ID</key><string>FA3AD74D6C55DB85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/04%20The%20Scientist.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4432</key>
+		<dict>
+			<key>Track ID</key><integer>4432</integer>
+			<key>Name</key><string>Clocks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4967960</integer>
+			<key>Total Time</key><integer>307466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:07:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4680</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>BB2030A8D03B7AD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/05%20Clocks.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4434</key>
+		<dict>
+			<key>Track ID</key><integer>4434</integer>
+			<key>Name</key><string>Daylight</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5273046</integer>
+			<key>Total Time</key><integer>327800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:08:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5876</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>0FC1234CF1C46633</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/06%20Daylight.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4436</key>
+		<dict>
+			<key>Track ID</key><integer>4436</integer>
+			<key>Name</key><string>Green Eyes</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3567578</integer>
+			<key>Total Time</key><integer>223040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-19T05:08:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2249</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>AE722C04D9AFF657</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/07%20Green%20Eyes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4438</key>
+		<dict>
+			<key>Track ID</key><integer>4438</integer>
+			<key>Name</key><string>Warning Sign</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5318383</integer>
+			<key>Total Time</key><integer>331133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:08:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2593</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>51D3A070A94E922E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/08%20Warning%20Sign.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4440</key>
+		<dict>
+			<key>Track ID</key><integer>4440</integer>
+			<key>Name</key><string>A Whisper</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3833460</integer>
+			<key>Total Time</key><integer>238333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:08:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7276</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Sort Name</key><string>Whisper</string>
+			<key>Persistent ID</key><string>7DF02C10FA017857</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/09%20A%20Whisper.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4442</key>
+		<dict>
+			<key>Track ID</key><integer>4442</integer>
+			<key>Name</key><string>A Rush Of Blood To The Head</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5676101</integer>
+			<key>Total Time</key><integer>351400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:09:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3834</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Sort Name</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>35D40C95EACCC3D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/10%20A%20Rush%20Of%20Blood%20To%20The%20Head.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4444</key>
+		<dict>
+			<key>Track ID</key><integer>4444</integer>
+			<key>Name</key><string>Amsterdam</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5174755</integer>
+			<key>Total Time</key><integer>321346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2007-07-18T22:09:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2555</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>8863CB01CDF9E45B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/A%20Rush%20Of%20Blood%20To%20The%20Head/11%20Amsterdam.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4446</key>
+		<dict>
+			<key>Track ID</key><integer>4446</integer>
+			<key>Name</key><string>Politik (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6422137</integer>
+			<key>Total Time</key><integer>396466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-19T04:48:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5601</integer>
+			<key>Persistent ID</key><string>D6669B4448CEC931</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/01%20Politik%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4448</key>
+		<dict>
+			<key>Track ID</key><integer>4448</integer>
+			<key>Name</key><string>God Put A Smile Upon Your Face (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4812510</integer>
+			<key>Total Time</key><integer>296760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:48:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4624</integer>
+			<key>Persistent ID</key><string>1569D95B42B00419</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/02%20God%20Put%20A%20Smile%20Upon%20Your%20Face%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4450</key>
+		<dict>
+			<key>Track ID</key><integer>4450</integer>
+			<key>Name</key><string>A Rush Of Blood To The Head (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6659261</integer>
+			<key>Total Time</key><integer>410773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-19T04:49:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3898</integer>
+			<key>Sort Name</key><string>Rush Of Blood To The Head (Live)</string>
+			<key>Persistent ID</key><string>5FD5C4721D8CB505</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/03%20A%20Rush%20Of%20Blood%20To%20The%20Head%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4452</key>
+		<dict>
+			<key>Track ID</key><integer>4452</integer>
+			<key>Name</key><string>One I Love (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5001063</integer>
+			<key>Total Time</key><integer>308426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:49:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5671</integer>
+			<key>Persistent ID</key><string>31303D78E61D2A9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/04%20One%20I%20Love%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4454</key>
+		<dict>
+			<key>Track ID</key><integer>4454</integer>
+			<key>Name</key><string>See You Soon (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3392552</integer>
+			<key>Total Time</key><integer>209106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:49:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1359</integer>
+			<key>Persistent ID</key><string>DDE15D8E803758AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/05%20See%20You%20Soon%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4456</key>
+		<dict>
+			<key>Track ID</key><integer>4456</integer>
+			<key>Name</key><string>Shiver (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5281556</integer>
+			<key>Total Time</key><integer>325733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:50:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4887</integer>
+			<key>Persistent ID</key><string>E5E803A7596A57F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/06%20Shiver%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4458</key>
+		<dict>
+			<key>Track ID</key><integer>4458</integer>
+			<key>Name</key><string>Everything's Not Lost (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8555580</integer>
+			<key>Total Time</key><integer>527826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:50:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2883</integer>
+			<key>Persistent ID</key><string>DBA4E91F710B4174</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/07%20Everything's%20Not%20Lost%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4460</key>
+		<dict>
+			<key>Track ID</key><integer>4460</integer>
+			<key>Name</key><string>Moses (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5337183</integer>
+			<key>Total Time</key><integer>329173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:50:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3985</integer>
+			<key>Persistent ID</key><string>C912BA084563A40A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/08%20Moses%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4462</key>
+		<dict>
+			<key>Track ID</key><integer>4462</integer>
+			<key>Name</key><string>Yellow (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5459072</integer>
+			<key>Total Time</key><integer>336666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:51:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4055</integer>
+			<key>Persistent ID</key><string>DA8D1217372EFF6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/09%20Yellow%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4464</key>
+		<dict>
+			<key>Track ID</key><integer>4464</integer>
+			<key>Name</key><string>Clocks (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5390266</integer>
+			<key>Total Time</key><integer>332426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:51:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5548</integer>
+			<key>Persistent ID</key><string>CECE76E3D0251FE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/10%20Clocks%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4466</key>
+		<dict>
+			<key>Track ID</key><integer>4466</integer>
+			<key>Name</key><string>In My Place (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4105270</integer>
+			<key>Total Time</key><integer>253106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:51:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4428</integer>
+			<key>Persistent ID</key><string>B168550EBC223E16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/11%20In%20My%20Place%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4468</key>
+		<dict>
+			<key>Track ID</key><integer>4468</integer>
+			<key>Name</key><string>Amsterdam (Live)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Berryman/Buckland/Champion/Martin</string>
+			<key>Album</key><string>Coldplay Live 2003</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5184611</integer>
+			<key>Total Time</key><integer>320160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2007-07-18T21:52:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1962</integer>
+			<key>Persistent ID</key><string>8EBF5E7225C9379C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Coldplay%20Live%202003/12%20Amsterdam%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4470</key>
+		<dict>
+			<key>Track ID</key><integer>4470</integer>
+			<key>Name</key><string>Glass Of Water</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6834373</integer>
+			<key>Total Time</key><integer>283480</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T14:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486201188</integer>
+			<key>Play Date UTC</key><date>2014-06-21T12:13:08Z</date>
+			<key>Normalization</key><integer>6221</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA0CD3FE63B1CD82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/01%20Glass%20Of%20Water.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4472</key>
+		<dict>
+			<key>Track ID</key><integer>4472</integer>
+			<key>Name</key><string>42</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7040620</integer>
+			<key>Total Time</key><integer>292075</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486201480</integer>
+			<key>Play Date UTC</key><date>2014-06-21T12:18:00Z</date>
+			<key>Normalization</key><integer>5852</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>138E2D46CEDF08FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/02%2042.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4474</key>
+		<dict>
+			<key>Track ID</key><integer>4474</integer>
+			<key>Name</key><string>Clocks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6761009</integer>
+			<key>Total Time</key><integer>280424</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486201760</integer>
+			<key>Play Date UTC</key><date>2014-06-21T12:22:40Z</date>
+			<key>Normalization</key><integer>8412</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5DD64129212AB37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/03%20Clocks.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4476</key>
+		<dict>
+			<key>Track ID</key><integer>4476</integer>
+			<key>Name</key><string>Strawberry Swing</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6186743</integer>
+			<key>Total Time</key><integer>256496</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>5525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A0E15E7FE541E8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/04%20Strawberry%20Swing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4478</key>
+		<dict>
+			<key>Track ID</key><integer>4478</integer>
+			<key>Name</key><string>The Hardest Part / Postcards From Far Away</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6157305</integer>
+			<key>Total Time</key><integer>255268</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>4219</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Hardest Part / Postcards From Far Away</string>
+			<key>Persistent ID</key><string>125D5AA20C12B633</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/05%20The%20Hardest%20Part%20_%20Postcards%20From%20Far%20Away.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4480</key>
+		<dict>
+			<key>Track ID</key><integer>4480</integer>
+			<key>Name</key><string>Viva La Vida</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7811766</integer>
+			<key>Total Time</key><integer>324205</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>8375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D86E5EC4F3DA03BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/06%20Viva%20La%20Vida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4482</key>
+		<dict>
+			<key>Track ID</key><integer>4482</integer>
+			<key>Name</key><string>Death Will Never Conquer</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2415719</integer>
+			<key>Total Time</key><integer>99369</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>6471</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>63093623E2BBAC9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/07%20Death%20Will%20Never%20Conquer.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4484</key>
+		<dict>
+			<key>Track ID</key><integer>4484</integer>
+			<key>Name</key><string>Fix You</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8159715</integer>
+			<key>Total Time</key><integer>338703</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>9091</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C285EBFE2A98512</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/08%20Fix%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4486</key>
+		<dict>
+			<key>Track ID</key><integer>4486</integer>
+			<key>Name</key><string>Death And All His Friends</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>LeftRightLeftRightLeft</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6326560</integer>
+			<key>Total Time</key><integer>262321</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-06-07T07:56:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>coldplay.com</string>
+			<key>Normalization</key><integer>7413</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6DBA183B8530614</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/LeftRightLeftRightLeft/09%20Death%20And%20All%20His%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4504</key>
+		<dict>
+			<key>Track ID</key><integer>4504</integer>
+			<key>Name</key><string>Life In Technicolor</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2511286</integer>
+			<key>Total Time</key><integer>149986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486738370</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:26:10Z</date>
+			<key>Normalization</key><integer>2548</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>647BED7AC5900B86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/01%20Life%20In%20Technicolor.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4506</key>
+		<dict>
+			<key>Track ID</key><integer>4506</integer>
+			<key>Name</key><string>Cemeteries Of London</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3341918</integer>
+			<key>Total Time</key><integer>201106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486738571</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:29:31Z</date>
+			<key>Normalization</key><integer>4147</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97E7F03F662B9537</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/02%20Cemeteries%20Of%20London.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4508</key>
+		<dict>
+			<key>Track ID</key><integer>4508</integer>
+			<key>Name</key><string>Lost!</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3823432</integer>
+			<key>Total Time</key><integer>235066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486738806</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:33:26Z</date>
+			<key>Normalization</key><integer>4909</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59CDBE7A39D28A82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/03%20Lost!.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4510</key>
+		<dict>
+			<key>Track ID</key><integer>4510</integer>
+			<key>Name</key><string>42</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3855393</integer>
+			<key>Total Time</key><integer>237400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486739043</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:37:23Z</date>
+			<key>Normalization</key><integer>4244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0450860D8590B1FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/04%2042.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4512</key>
+		<dict>
+			<key>Track ID</key><integer>4512</integer>
+			<key>Name</key><string>Lovers In Japan / Reign Of Love</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6557583</integer>
+			<key>Total Time</key><integer>411013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-18T01:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486787011</integer>
+			<key>Play Date UTC</key><date>2014-06-28T06:56:51Z</date>
+			<key>Normalization</key><integer>4411</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8390715D9295D56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/05%20Lovers%20In%20Japan%20_%20Reign%20Of%20Love.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4514</key>
+		<dict>
+			<key>Track ID</key><integer>4514</integer>
+			<key>Name</key><string>Yes</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7002795</integer>
+			<key>Total Time</key><integer>426653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486787438</integer>
+			<key>Play Date UTC</key><date>2014-06-28T07:03:58Z</date>
+			<key>Normalization</key><integer>6316</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66D9747AE305372A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/06%20Yes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4516</key>
+		<dict>
+			<key>Track ID</key><integer>4516</integer>
+			<key>Name</key><string>Viva La Vida</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3888539</integer>
+			<key>Total Time</key><integer>241426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486787680</integer>
+			<key>Play Date UTC</key><date>2014-06-28T07:08:00Z</date>
+			<key>Normalization</key><integer>4110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA58796E7340F505</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/07%20Viva%20La%20Vida.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4518</key>
+		<dict>
+			<key>Track ID</key><integer>4518</integer>
+			<key>Name</key><string>Violet Hill</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3581702</integer>
+			<key>Total Time</key><integer>222653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-18T01:10:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486787902</integer>
+			<key>Play Date UTC</key><date>2014-06-28T07:11:42Z</date>
+			<key>Normalization</key><integer>4286</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EDDAA0C6ABFDB5AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/08%20Violet%20Hill.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4520</key>
+		<dict>
+			<key>Track ID</key><integer>4520</integer>
+			<key>Name</key><string>Strawberry Swing</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4057103</integer>
+			<key>Total Time</key><integer>249666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486788152</integer>
+			<key>Play Date UTC</key><date>2014-06-28T07:15:52Z</date>
+			<key>Normalization</key><integer>1979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>37BAC803A5D3ED12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/09%20Strawberry%20Swing.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4522</key>
+		<dict>
+			<key>Track ID</key><integer>4522</integer>
+			<key>Name</key><string>Death And All His Friends</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Viva La Vida</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6199214</integer>
+			<key>Total Time</key><integer>378853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2008-06-17T18:10:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486788530</integer>
+			<key>Play Date UTC</key><date>2014-06-28T07:22:10Z</date>
+			<key>Normalization</key><integer>2440</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>741980F1E68BAF16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Viva%20La%20Vida/10%20Death%20And%20All%20His%20Friends.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4524</key>
+		<dict>
+			<key>Track ID</key><integer>4524</integer>
+			<key>Name</key><string>Square One</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Buckland/Martin/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4647640</integer>
+			<key>Total Time</key><integer>287386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-19T04:55:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486613018</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:36:58Z</date>
+			<key>Normalization</key><integer>5386</integer>
+			<key>Persistent ID</key><string>E318B93C9D3446E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/01%20Square%20One.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4526</key>
+		<dict>
+			<key>Track ID</key><integer>4526</integer>
+			<key>Name</key><string>What If</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Martin/Champion/Buckland</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4801988</integer>
+			<key>Total Time</key><integer>297040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:55:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486613315</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:41:55Z</date>
+			<key>Normalization</key><integer>5917</integer>
+			<key>Persistent ID</key><string>79EF8F1FA8AA75FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/02%20What%20If.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4528</key>
+		<dict>
+			<key>Track ID</key><integer>4528</integer>
+			<key>Name</key><string>White Shadows</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Champion/Martin/Buckland</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5320854</integer>
+			<key>Total Time</key><integer>328160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:56:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486613643</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:47:23Z</date>
+			<key>Normalization</key><integer>6032</integer>
+			<key>Persistent ID</key><string>3A510E5275B3D379</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/03%20White%20Shadows.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4530</key>
+		<dict>
+			<key>Track ID</key><integer>4530</integer>
+			<key>Name</key><string>Fix You</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Buckland/Martin/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4767436</integer>
+			<key>Total Time</key><integer>294986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:56:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486699329</integer>
+			<key>Play Date UTC</key><date>2014-06-27T06:35:29Z</date>
+			<key>Normalization</key><integer>5221</integer>
+			<key>Persistent ID</key><string>B00520D285B6934E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/04%20Fix%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4532</key>
+		<dict>
+			<key>Track ID</key><integer>4532</integer>
+			<key>Name</key><string>Talk</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Schult/Hütter</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5025338</integer>
+			<key>Total Time</key><integer>311253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:56:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486699640</integer>
+			<key>Play Date UTC</key><date>2014-06-27T06:40:40Z</date>
+			<key>Normalization</key><integer>4078</integer>
+			<key>Persistent ID</key><string>FE72C719BC5BF073</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/05%20Talk.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4534</key>
+		<dict>
+			<key>Track ID</key><integer>4534</integer>
+			<key>Name</key><string>X&#38;Y</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Martin/Buckland/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4417356</integer>
+			<key>Total Time</key><integer>274146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:57:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486699914</integer>
+			<key>Play Date UTC</key><date>2014-06-27T06:45:14Z</date>
+			<key>Normalization</key><integer>7330</integer>
+			<key>Persistent ID</key><string>8BA9CF58931A9163</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/06%20X&#38;Y.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4536</key>
+		<dict>
+			<key>Track ID</key><integer>4536</integer>
+			<key>Name</key><string>Speed Of Sound</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Champion/Buckland/Martin</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4672608</integer>
+			<key>Total Time</key><integer>288440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:57:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486700203</integer>
+			<key>Play Date UTC</key><date>2014-06-27T06:50:03Z</date>
+			<key>Normalization</key><integer>6096</integer>
+			<key>Persistent ID</key><string>EDCF2453F2EDEE39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/07%20Speed%20Of%20Sound.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4538</key>
+		<dict>
+			<key>Track ID</key><integer>4538</integer>
+			<key>Name</key><string>A Message</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Buckland/Martin/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4614209</integer>
+			<key>Total Time</key><integer>285306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:57:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486700488</integer>
+			<key>Play Date UTC</key><date>2014-06-27T06:54:48Z</date>
+			<key>Normalization</key><integer>4726</integer>
+			<key>Sort Name</key><string>Message</string>
+			<key>Persistent ID</key><string>92B75452DAA72E23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/08%20A%20Message.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4540</key>
+		<dict>
+			<key>Track ID</key><integer>4540</integer>
+			<key>Name</key><string>Low</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Champion/Buckland/Martin</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5365812</integer>
+			<key>Total Time</key><integer>332093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:58:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486700820</integer>
+			<key>Play Date UTC</key><date>2014-06-27T07:00:20Z</date>
+			<key>Normalization</key><integer>7102</integer>
+			<key>Persistent ID</key><string>3A36925423057E40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/09%20Low.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4542</key>
+		<dict>
+			<key>Track ID</key><integer>4542</integer>
+			<key>Name</key><string>The Hardest Part</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Martin/Champion/Buckland</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4267914</integer>
+			<key>Total Time</key><integer>265040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:58:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486737398</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:09:58Z</date>
+			<key>Normalization</key><integer>7367</integer>
+			<key>Sort Name</key><string>Hardest Part</string>
+			<key>Persistent ID</key><string>32ACA960AC12B12C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/10%20The%20Hardest%20Part.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4544</key>
+		<dict>
+			<key>Track ID</key><integer>4544</integer>
+			<key>Name</key><string>Swallowed In The Sea</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Buckland/Champion/Martin</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3843925</integer>
+			<key>Total Time</key><integer>238960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:58:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486737637</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:13:57Z</date>
+			<key>Normalization</key><integer>4815</integer>
+			<key>Persistent ID</key><string>B02C9E12608C8AB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/11%20Swallowed%20In%20The%20Sea.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4546</key>
+		<dict>
+			<key>Track ID</key><integer>4546</integer>
+			<key>Name</key><string>Twisted Logic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Martin/Buckland/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4417696</integer>
+			<key>Total Time</key><integer>301866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:58:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486737939</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:18:59Z</date>
+			<key>Normalization</key><integer>5552</integer>
+			<key>Persistent ID</key><string>EACBC2CF6DBBA74A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/12%20Twisted%20Logic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4548</key>
+		<dict>
+			<key>Track ID</key><integer>4548</integer>
+			<key>Name</key><string>Til Kingdom Come</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Buckland/Martin/Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4056370</integer>
+			<key>Total Time</key><integer>250653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-07-18T21:59:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486738190</integer>
+			<key>Play Date UTC</key><date>2014-06-27T17:23:10Z</date>
+			<key>Normalization</key><integer>1926</integer>
+			<key>Persistent ID</key><string>D835D20F320CCA5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/X&#38;Y/13%20Til%20Kingdom%20Come.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16956</key>
+		<dict>
+			<key>Track ID</key><integer>16956</integer>
+			<key>Name</key><string>Always In My Head</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7481981</integer>
+			<key>Total Time</key><integer>216626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:53:15Z</date>
+			<key>Date Added</key><date>2014-06-20T20:52:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522178409</integer>
+			<key>Play Date UTC</key><date>2015-08-11T21:53:29Z</date>
+			<key>Normalization</key><integer>2668</integer>
+			<key>Persistent ID</key><string>AE2E6CADED258663</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/01%20Always%20In%20My%20Head.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16958</key>
+		<dict>
+			<key>Track ID</key><integer>16958</integer>
+			<key>Name</key><string>Magic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9310864</integer>
+			<key>Total Time</key><integer>285013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:53:45Z</date>
+			<key>Date Added</key><date>2014-06-20T20:53:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522178694</integer>
+			<key>Play Date UTC</key><date>2015-08-11T21:58:14Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-06-25T22:25:03Z</date>
+			<key>Normalization</key><integer>2297</integer>
+			<key>Persistent ID</key><string>9827EC0AE0A19426</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/02%20Magic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16960</key>
+		<dict>
+			<key>Track ID</key><integer>16960</integer>
+			<key>Name</key><string>Ink</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7432282</integer>
+			<key>Total Time</key><integer>228373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:54:08Z</date>
+			<key>Date Added</key><date>2014-06-20T20:53:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522178922</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:02:02Z</date>
+			<key>Normalization</key><integer>2360</integer>
+			<key>Persistent ID</key><string>087C06385A9FD229</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/03%20Ink.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16962</key>
+		<dict>
+			<key>Track ID</key><integer>16962</integer>
+			<key>Name</key><string>True Love</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8232874</integer>
+			<key>Total Time</key><integer>246000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:54:31Z</date>
+			<key>Date Added</key><date>2014-06-20T20:54:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522179923</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:18:43Z</date>
+			<key>Normalization</key><integer>3704</integer>
+			<key>Persistent ID</key><string>BA3F1F614F9DBD00</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/04%20True%20Love.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16964</key>
+		<dict>
+			<key>Track ID</key><integer>16964</integer>
+			<key>Name</key><string>Midnight</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9665825</integer>
+			<key>Total Time</key><integer>294666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:54:57Z</date>
+			<key>Date Added</key><date>2014-06-20T20:54:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522180218</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:23:38Z</date>
+			<key>Normalization</key><integer>1435</integer>
+			<key>Persistent ID</key><string>B99C403ACB55A353</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/05%20Midnight.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16966</key>
+		<dict>
+			<key>Track ID</key><integer>16966</integer>
+			<key>Name</key><string>Another's Arms</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7659513</integer>
+			<key>Total Time</key><integer>234413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:55:16Z</date>
+			<key>Date Added</key><date>2014-06-20T20:55:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522180452</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:27:32Z</date>
+			<key>Normalization</key><integer>1779</integer>
+			<key>Persistent ID</key><string>9F75FE17A0B227B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/06%20Another's%20Arms.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16968</key>
+		<dict>
+			<key>Track ID</key><integer>16968</integer>
+			<key>Name</key><string>Oceans</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10711193</integer>
+			<key>Total Time</key><integer>321680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:55:41Z</date>
+			<key>Date Added</key><date>2014-06-20T20:55:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3522180774</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:32:54Z</date>
+			<key>Normalization</key><integer>1158</integer>
+			<key>Persistent ID</key><string>848967ECF9A4EDD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/07%20Oceans.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16970</key>
+		<dict>
+			<key>Track ID</key><integer>16970</integer>
+			<key>Name</key><string>A Sky Full Of Stars</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8833752</integer>
+			<key>Total Time</key><integer>268466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:56:00Z</date>
+			<key>Date Added</key><date>2014-06-20T20:55:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3522181042</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:37:22Z</date>
+			<key>Normalization</key><integer>3838</integer>
+			<key>Sort Name</key><string>Sky Full Of Stars</string>
+			<key>Persistent ID</key><string>89C5234378A42FB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/08%20A%20Sky%20Full%20Of%20Stars.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16972</key>
+		<dict>
+			<key>Track ID</key><integer>16972</integer>
+			<key>Name</key><string>O</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11995928</integer>
+			<key>Total Time</key><integer>466813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-06-21T03:56:33Z</date>
+			<key>Date Added</key><date>2014-06-20T20:56:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3522181352</integer>
+			<key>Play Date UTC</key><date>2015-08-11T22:42:32Z</date>
+			<key>Normalization</key><integer>1949</integer>
+			<key>Persistent ID</key><string>51A134BAAB8F3F8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Ghost%20Stories/09%20O.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16974</key>
+		<dict>
+			<key>Track ID</key><integer>16974</integer>
+			<key>Name</key><string>Don't Panic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5056630</integer>
+			<key>Total Time</key><integer>136866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T23:21:14Z</date>
+			<key>Date Added</key><date>2014-06-21T16:20:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487082385</integer>
+			<key>Play Date UTC</key><date>2014-07-01T16:59:45Z</date>
+			<key>Normalization</key><integer>3675</integer>
+			<key>Persistent ID</key><string>DD8F4EF0FC2AB213</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/01%20Don't%20Panic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16976</key>
+		<dict>
+			<key>Track ID</key><integer>16976</integer>
+			<key>Name</key><string>Shiver</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9876578</integer>
+			<key>Total Time</key><integer>299693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:22:05Z</date>
+			<key>Date Added</key><date>2014-06-21T16:21:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487082685</integer>
+			<key>Play Date UTC</key><date>2014-07-01T17:04:45Z</date>
+			<key>Normalization</key><integer>4417</integer>
+			<key>Persistent ID</key><string>1711F4014D5BE7E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/02%20Shiver.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16978</key>
+		<dict>
+			<key>Track ID</key><integer>16978</integer>
+			<key>Name</key><string>Spies</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10659878</integer>
+			<key>Total Time</key><integer>318773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:22:53Z</date>
+			<key>Date Added</key><date>2014-06-21T16:22:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487083141</integer>
+			<key>Play Date UTC</key><date>2014-07-01T17:12:21Z</date>
+			<key>Normalization</key><integer>4915</integer>
+			<key>Persistent ID</key><string>F430B71EBB310B8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/03%20Spies.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16980</key>
+		<dict>
+			<key>Track ID</key><integer>16980</integer>
+			<key>Name</key><string>Sparks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7447052</integer>
+			<key>Total Time</key><integer>227093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:23:25Z</date>
+			<key>Date Added</key><date>2014-06-21T16:22:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487216932</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:22:12Z</date>
+			<key>Normalization</key><integer>1446</integer>
+			<key>Persistent ID</key><string>D11D2C872B348F96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/04%20Sparks.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16982</key>
+		<dict>
+			<key>Track ID</key><integer>16982</integer>
+			<key>Name</key><string>Yellow</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9794981</integer>
+			<key>Total Time</key><integer>269200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:24:00Z</date>
+			<key>Date Added</key><date>2014-06-21T16:23:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487217201</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:26:41Z</date>
+			<key>Normalization</key><integer>6574</integer>
+			<key>Persistent ID</key><string>EE2AB9ECAC2B64D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/05%20Yellow.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16984</key>
+		<dict>
+			<key>Track ID</key><integer>16984</integer>
+			<key>Name</key><string>Trouble</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8979813</integer>
+			<key>Total Time</key><integer>270906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:24:33Z</date>
+			<key>Date Added</key><date>2014-06-21T16:24:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487217472</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:31:12Z</date>
+			<key>Normalization</key><integer>3621</integer>
+			<key>Persistent ID</key><string>D3D9DD87FB13E55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/06%20Trouble.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16986</key>
+		<dict>
+			<key>Track ID</key><integer>16986</integer>
+			<key>Name</key><string>Parachutes</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1602618</integer>
+			<key>Total Time</key><integer>46200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:24:39Z</date>
+			<key>Date Added</key><date>2014-06-21T16:24:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487217518</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:31:58Z</date>
+			<key>Normalization</key><integer>852</integer>
+			<key>Persistent ID</key><string>20CA2E202F2331DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/07%20Parachutes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16988</key>
+		<dict>
+			<key>Track ID</key><integer>16988</integer>
+			<key>Name</key><string>High Speed</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8355878</integer>
+			<key>Total Time</key><integer>254360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:25:09Z</date>
+			<key>Date Added</key><date>2014-06-21T16:24:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3487217772</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:36:12Z</date>
+			<key>Normalization</key><integer>2494</integer>
+			<key>Persistent ID</key><string>221BE5EB5AE10D9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/08%20High%20Speed.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16990</key>
+		<dict>
+			<key>Track ID</key><integer>16990</integer>
+			<key>Name</key><string>We Never Change</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8257818</integer>
+			<key>Total Time</key><integer>249400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:25:37Z</date>
+			<key>Date Added</key><date>2014-06-21T16:25:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3487218022</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:40:22Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>5BB04FC99CEF16E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/09%20We%20Never%20Change.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16992</key>
+		<dict>
+			<key>Track ID</key><integer>16992</integer>
+			<key>Name</key><string>Everything's Not Lost</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Chris Martin, Guy Berryman, Jon Buckland, Will Champion/Guy Berryman/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14437541</integer>
+			<key>Total Time</key><integer>436440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-06-21T16:26:22Z</date>
+			<key>Date Added</key><date>2014-06-21T16:25:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3487218570</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:49:30Z</date>
+			<key>Normalization</key><integer>3375</integer>
+			<key>Persistent ID</key><string>D4F132E5328DA282</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Coldplay/Parachutes/10%20Everything's%20Not%20Lost.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16994</key>
+		<dict>
+			<key>Track ID</key><integer>16994</integer>
+			<key>Name</key><string>Mylo Xyloto</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1593857</integer>
+			<key>Total Time</key><integer>43053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-22T02:32:14Z</date>
+			<key>Date Added</key><date>2014-06-21T19:32:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487218613</integer>
+			<key>Play Date UTC</key><date>2014-07-03T06:50:13Z</date>
+			<key>Normalization</key><integer>1631</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>846244005F7A2983</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/01%20Mylo%20Xyloto.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16996</key>
+		<dict>
+			<key>Track ID</key><integer>16996</integer>
+			<key>Name</key><string>Hurts Like Heaven</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8033451</integer>
+			<key>Total Time</key><integer>242133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:32:40Z</date>
+			<key>Date Added</key><date>2014-06-21T19:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3486564709</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:11:49Z</date>
+			<key>Normalization</key><integer>6978</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>51DB7D0F8258983C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/02%20Hurts%20Like%20Heaven.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16998</key>
+		<dict>
+			<key>Track ID</key><integer>16998</integer>
+			<key>Name</key><string>Paradise</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9224154</integer>
+			<key>Total Time</key><integer>277613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-22T02:33:07Z</date>
+			<key>Date Added</key><date>2014-06-21T19:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3486564986</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:16:26Z</date>
+			<key>Normalization</key><integer>6321</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DEF319F0E2B1582B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/03%20Paradise.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17000</key>
+		<dict>
+			<key>Track ID</key><integer>17000</integer>
+			<key>Name</key><string>Charlie Brown</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9482133</integer>
+			<key>Total Time</key><integer>285160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:33:33Z</date>
+			<key>Date Added</key><date>2014-06-21T19:33:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3486565271</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:21:11Z</date>
+			<key>Normalization</key><integer>5240</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>021C92890B44AF31</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/04%20Charlie%20Brown.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17002</key>
+		<dict>
+			<key>Track ID</key><integer>17002</integer>
+			<key>Name</key><string>Us Against The World</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7911507</integer>
+			<key>Total Time</key><integer>239773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:33:54Z</date>
+			<key>Date Added</key><date>2014-06-21T19:33:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486565511</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:25:11Z</date>
+			<key>Normalization</key><integer>1895</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>AA174A9B0DDCD508</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/05%20Us%20Against%20The%20World.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17004</key>
+		<dict>
+			<key>Track ID</key><integer>17004</integer>
+			<key>Name</key><string>M.M.I.X</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1662275</integer>
+			<key>Total Time</key><integer>48573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:33:59Z</date>
+			<key>Date Added</key><date>2014-06-21T19:33:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486565560</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:26:00Z</date>
+			<key>Normalization</key><integer>73</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>83A0571033569DA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/06%20M.M.I.X.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17006</key>
+		<dict>
+			<key>Track ID</key><integer>17006</integer>
+			<key>Name</key><string>Every Teardrop Is A Waterfall</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Peter Allen/Brian Eno/Lagonda/Wycombe/Castoni/Adrienne Anderson/Christensen</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8020509</integer>
+			<key>Total Time</key><integer>240800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:34:18Z</date>
+			<key>Date Added</key><date>2014-06-21T19:34:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486565801</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:30:01Z</date>
+			<key>Normalization</key><integer>7627</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>35A363CD1B9F104B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/07%20Every%20Teardrop%20Is%20A%20Waterfall.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17008</key>
+		<dict>
+			<key>Track ID</key><integer>17008</integer>
+			<key>Name</key><string>Major Minus</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7388848</integer>
+			<key>Total Time</key><integer>210226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:34:35Z</date>
+			<key>Date Added</key><date>2014-06-21T19:34:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486566011</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:33:31Z</date>
+			<key>Normalization</key><integer>7599</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>38ED6293B9224BC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/08%20Major%20Minus.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17010</key>
+		<dict>
+			<key>Track ID</key><integer>17010</integer>
+			<key>Name</key><string>U.F.O.</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4611938</integer>
+			<key>Total Time</key><integer>137800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:34:45Z</date>
+			<key>Date Added</key><date>2014-06-21T19:34:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486566149</integer>
+			<key>Play Date UTC</key><date>2014-06-25T17:35:49Z</date>
+			<key>Normalization</key><integer>1693</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>AB298AACBBA8FD6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/09%20U.F.O..m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17012</key>
+		<dict>
+			<key>Track ID</key><integer>17012</integer>
+			<key>Name</key><string>Princess Of China</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7889563</integer>
+			<key>Total Time</key><integer>239213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-28T19:14:20Z</date>
+			<key>Date Added</key><date>2014-06-21T19:34:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486612042</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:20:42Z</date>
+			<key>Normalization</key><integer>6894</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>60417B102D2AAA83</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/10%20Princess%20Of%20China.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17014</key>
+		<dict>
+			<key>Track ID</key><integer>17014</integer>
+			<key>Name</key><string>Up In Flames</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Guy Berryman/Guy Berryman, Jonny Buckland, Will Champion and Chris Martin/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6380786</integer>
+			<key>Total Time</key><integer>193240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:35:16Z</date>
+			<key>Date Added</key><date>2014-06-21T19:35:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486612236</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:23:56Z</date>
+			<key>Normalization</key><integer>1601</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>455697DCE94AE79F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/11%20Up%20In%20Flames.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17016</key>
+		<dict>
+			<key>Track ID</key><integer>17016</integer>
+			<key>Name</key><string>A Hopeful Transmission</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1098873</integer>
+			<key>Total Time</key><integer>33120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:35:20Z</date>
+			<key>Date Added</key><date>2014-06-21T19:35:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486612269</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:24:29Z</date>
+			<key>Normalization</key><integer>663</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Hopeful Transmission</string>
+			<key>Persistent ID</key><string>FF9B382A08D85D75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/12%20A%20Hopeful%20Transmission.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17018</key>
+		<dict>
+			<key>Track ID</key><integer>17018</integer>
+			<key>Name</key><string>Don't Let It Break Your Heart</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin/Guy Berryman/Guy Berryman, Jonny Buckland, Will Champion and Chris Martin/Jonny Buckland/Will Champion</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7916021</integer>
+			<key>Total Time</key><integer>233986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:35:36Z</date>
+			<key>Date Added</key><date>2014-06-21T19:35:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486612503</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:28:23Z</date>
+			<key>Normalization</key><integer>6095</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>4A42A87430D558ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/13%20Don't%20Let%20It%20Break%20Your%20Heart.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17020</key>
+		<dict>
+			<key>Track ID</key><integer>17020</integer>
+			<key>Name</key><string>Up With The Birds</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7590679</integer>
+			<key>Total Time</key><integer>227826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-06-21T19:35:51Z</date>
+			<key>Date Added</key><date>2014-06-21T19:35:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3486612731</integer>
+			<key>Play Date UTC</key><date>2014-06-26T06:32:11Z</date>
+			<key>Normalization</key><integer>4871</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>7EAE4316FCC45D7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Mylo%20Xyloto/14%20Up%20With%20The%20Birds.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Coldplay</string>
+			<key>Playlist ID</key><integer>34182</integer>
+			<key>Playlist Persistent ID</key><string>5B60AF15B29A4428</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16962</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16968</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16972</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16976</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16980</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16982</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16984</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4524</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4520</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4522</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4468</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

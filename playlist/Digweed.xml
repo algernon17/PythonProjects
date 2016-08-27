@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:24:33Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5624</key>
+		<dict>
+			<key>Track ID</key><integer>5624</integer>
+			<key>Name</key><string>Glide</string>
+			<key>Artist</key><string>POB</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3786600</integer>
+			<key>Total Time</key><integer>232493</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3525671743</integer>
+			<key>Play Date UTC</key><date>2015-09-21T08:15:43Z</date>
+			<key>Normalization</key><integer>2930</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8F0C1B827E6A5DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-01%20Glide.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5626</key>
+		<dict>
+			<key>Track ID</key><integer>5626</integer>
+			<key>Name</key><string>Angry Skies (Tilt's Numerology Dub)</string>
+			<key>Artist</key><string>Tilt</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7310537</integer>
+			<key>Total Time</key><integer>450066</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3525672192</integer>
+			<key>Play Date UTC</key><date>2015-09-21T08:23:12Z</date>
+			<key>Normalization</key><integer>2641</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9709F4A8859C2555</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-02%20Angry%20Skies%20(Tilt's%20Numerology%20Dub).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5628</key>
+		<dict>
+			<key>Track ID</key><integer>5628</integer>
+			<key>Name</key><string>Futurized Fears</string>
+			<key>Artist</key><string>Moonface</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5644324</integer>
+			<key>Total Time</key><integer>347133</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3525672539</integer>
+			<key>Play Date UTC</key><date>2015-09-21T08:28:59Z</date>
+			<key>Normalization</key><integer>1947</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F8F15598D3FCC91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-03%20Futurized%20Fears.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5630</key>
+		<dict>
+			<key>Track ID</key><integer>5630</integer>
+			<key>Name</key><string>Diablo (Evolution Mix)</string>
+			<key>Artist</key><string>Cass &#38; Slide</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7317681</integer>
+			<key>Total Time</key><integer>450440</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3525672990</integer>
+			<key>Play Date UTC</key><date>2015-09-21T08:36:30Z</date>
+			<key>Normalization</key><integer>1927</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12B4B638F0BA04B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-04%20Diablo%20(Evolution%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5632</key>
+		<dict>
+			<key>Track ID</key><integer>5632</integer>
+			<key>Name</key><string>More (Austin's Unreleased Mix)</string>
+			<key>Artist</key><string>Van M &#38; Leeds</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7025100</integer>
+			<key>Total Time</key><integer>432426</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3490587763</integer>
+			<key>Play Date UTC</key><date>2014-08-11T06:42:43Z</date>
+			<key>Normalization</key><integer>2624</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F0FEFC6155A452D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-05%20More%20(Austin's%20Unreleased%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5634</key>
+		<dict>
+			<key>Track ID</key><integer>5634</integer>
+			<key>Name</key><string>Sputnik (NY FM Mix)</string>
+			<key>Artist</key><string>Breeder</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7259725</integer>
+			<key>Total Time</key><integer>446893</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490419934</integer>
+			<key>Play Date UTC</key><date>2014-08-09T08:05:34Z</date>
+			<key>Normalization</key><integer>2451</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E9F07A519A3B0295</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-06%20Sputnik%20(NY%20FM%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5636</key>
+		<dict>
+			<key>Track ID</key><integer>5636</integer>
+			<key>Name</key><string>Persuasion (Funk Function's Future Mix)</string>
+			<key>Artist</key><string>Science Department</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5626660</integer>
+			<key>Total Time</key><integer>346040</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490420281</integer>
+			<key>Play Date UTC</key><date>2014-08-09T08:11:21Z</date>
+			<key>Normalization</key><integer>2220</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA8916CBAF0B5CF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-07%20Persuasion%20(Funk%20Function's%20Future%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5638</key>
+		<dict>
+			<key>Track ID</key><integer>5638</integer>
+			<key>Name</key><string>Crash (Funk Function Groove Mix)</string>
+			<key>Artist</key><string>Johan</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3757921</integer>
+			<key>Total Time</key><integer>230706</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490420511</integer>
+			<key>Play Date UTC</key><date>2014-08-09T08:15:11Z</date>
+			<key>Normalization</key><integer>1618</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE68936023052365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-08%20Crash%20(Funk%20Function%20Groove%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5640</key>
+		<dict>
+			<key>Track ID</key><integer>5640</integer>
+			<key>Name</key><string>Amran In The 7th Phase</string>
+			<key>Artist</key><string>Hole In One</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4925076</integer>
+			<key>Total Time</key><integer>302733</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490420814</integer>
+			<key>Play Date UTC</key><date>2014-08-09T08:20:14Z</date>
+			<key>Normalization</key><integer>3154</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9235EDAC8BBDD188</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-09%20Amran%20In%20The%207th%20Phase.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5642</key>
+		<dict>
+			<key>Track ID</key><integer>5642</integer>
+			<key>Name</key><string>To The Rescue</string>
+			<key>Artist</key><string>Ingmar</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6092790</integer>
+			<key>Total Time</key><integer>374800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T16:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490421189</integer>
+			<key>Play Date UTC</key><date>2014-08-09T08:26:29Z</date>
+			<key>Normalization</key><integer>2359</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82F520DB4FE2A2B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-10%20To%20The%20Rescue.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5644</key>
+		<dict>
+			<key>Track ID</key><integer>5644</integer>
+			<key>Name</key><string>Heaven Scent (Evolution Unreleased Mix)</string>
+			<key>Artist</key><string>Bedrock</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6553982</integer>
+			<key>Total Time</key><integer>403266</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T23:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490459038</integer>
+			<key>Play Date UTC</key><date>2014-08-09T18:57:18Z</date>
+			<key>Normalization</key><integer>3238</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5097164CB5DB77DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-11%20Heaven%20Scent%20(Evolution%20Unreleased%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5646</key>
+		<dict>
+			<key>Track ID</key><integer>5646</integer>
+			<key>Name</key><string>She Does</string>
+			<key>Artist</key><string>Quivver</string>
+			<key>Composer</key><string>John Digweed</string>
+			<key>Album</key><string>Global Underground 14: Hong Kong [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6650770</integer>
+			<key>Total Time</key><integer>411426</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-10-21T23:04:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3490459450</integer>
+			<key>Play Date UTC</key><date>2014-08-09T19:04:10Z</date>
+			<key>Normalization</key><integer>1704</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA395EBD3C2270A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Global%20Underground%2014_%20Hong%20Kong%20%5BDisc%202%5D/2-12%20She%20Does.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6696</key>
+		<dict>
+			<key>Track ID</key><integer>6696</integer>
+			<key>Name</key><string>I Am (Digweed &#38; Muir remix)</string>
+			<key>Artist</key><string>Chakra</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8667559</integer>
+			<key>Total Time</key><integer>264600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499090455</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:34:15Z</date>
+			<key>Normalization</key><integer>3045</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6089274CFA939B4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-08%20I%20Am%20(Digweed%20&#38;%20Muir%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12970</key>
+		<dict>
+			<key>Track ID</key><integer>12970</integer>
+			<key>Name</key><string>EP</string>
+			<key>Artist</key><string>Sasha and John Digweed</string>
+			<key>Album</key><string>Communicate</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>56068511</integer>
+			<key>Total Time</key><integer>3504274</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-08-02T21:34:17Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B5E850719AF93EBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha%20and%20John%20Digweed/Communicate/EP.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Digweed</string>
+			<key>Playlist ID</key><integer>34273</integer>
+			<key>Playlist Persistent ID</key><string>F16F2F639B45542C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12970</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6696</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:25:57Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8948</key>
+		<dict>
+			<key>Track ID</key><integer>8948</integer>
+			<key>Name</key><string>Deja Vu</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Crosby, David</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4166968</integer>
+			<key>Total Time</key><integer>254066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484749257</integer>
+			<key>Play Date UTC</key><date>2014-06-04T16:54:17Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C62EF541AFEE32C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/01%20Deja%20Vu.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8950</key>
+		<dict>
+			<key>Track ID</key><integer>8950</integer>
+			<key>Name</key><string>Helplessly Hoping</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Stills, Stephen</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2672742</integer>
+			<key>Total Time</key><integer>161800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484749419</integer>
+			<key>Play Date UTC</key><date>2014-06-04T16:56:59Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1CF60F9CC006C7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/02%20Helplessly%20Hoping.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8952</key>
+		<dict>
+			<key>Track ID</key><integer>8952</integer>
+			<key>Name</key><string>Wooden Ships</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Crosby, David; Stills, Stephen</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5439796</integer>
+			<key>Total Time</key><integer>330466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484749749</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:02:29Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BE75FD8E6BFA129</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/03%20Wooden%20Ships.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8954</key>
+		<dict>
+			<key>Track ID</key><integer>8954</integer>
+			<key>Name</key><string>Teach Your Children</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Nash, Graham</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2943879</integer>
+			<key>Total Time</key><integer>179040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484749928</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:05:28Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86FA92466A3FF0C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/04%20Teach%20Your%20Children.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8956</key>
+		<dict>
+			<key>Track ID</key><integer>8956</integer>
+			<key>Name</key><string>Ohio</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2951260</integer>
+			<key>Total Time</key><integer>185026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484750113</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:08:33Z</date>
+			<key>Normalization</key><integer>1807</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7B253FE13029768</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/05%20Ohio.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8958</key>
+		<dict>
+			<key>Track ID</key><integer>8958</integer>
+			<key>Name</key><string>Find The Cost Of Freedom</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Stills, Stephen</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1964055</integer>
+			<key>Total Time</key><integer>121533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484750235</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:10:35Z</date>
+			<key>Normalization</key><integer>824</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50586DA7D5850C3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/06%20Find%20The%20Cost%20Of%20Freedom.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8960</key>
+		<dict>
+			<key>Track ID</key><integer>8960</integer>
+			<key>Name</key><string>Woodstock</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Mitchell, Joni</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3924001</integer>
+			<key>Total Time</key><integer>236506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484750471</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:14:31Z</date>
+			<key>Normalization</key><integer>1610</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0930A501B647EC55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/07%20Woodstock.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8962</key>
+		<dict>
+			<key>Track ID</key><integer>8962</integer>
+			<key>Name</key><string>Our House</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Nash, Graham</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3025829</integer>
+			<key>Total Time</key><integer>182600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484750654</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:17:34Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A21393878120390</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/08%20Our%20House.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8964</key>
+		<dict>
+			<key>Track ID</key><integer>8964</integer>
+			<key>Name</key><string>Helpless</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3635641</integer>
+			<key>Total Time</key><integer>220360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T21:36:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484750874</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:21:14Z</date>
+			<key>Normalization</key><integer>1206</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C8B37746CECACB7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/09%20Helpless.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8966</key>
+		<dict>
+			<key>Track ID</key><integer>8966</integer>
+			<key>Name</key><string>Guinnevere</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Crosby, David</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4640012</integer>
+			<key>Total Time</key><integer>282106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484751156</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:25:56Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>395671E84EAA7FFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/10%20Guinnevere.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8968</key>
+		<dict>
+			<key>Track ID</key><integer>8968</integer>
+			<key>Name</key><string>Suite: Judy Blue Eyes</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Composer</key><string>Stills, Stephen</string>
+			<key>Album</key><string>So Far</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7351809</integer>
+			<key>Total Time</key><integer>445493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2008-04-13T14:36:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484751602</integer>
+			<key>Play Date UTC</key><date>2014-06-04T17:33:22Z</date>
+			<key>Normalization</key><integer>1148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>074DDFC6D6B5AF02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Crosby,%20Stills,%20Nash%20&#38;%20Young/So%20Far/11%20Suite_%20Judy%20Blue%20Eyes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11884</key>
+		<dict>
+			<key>Track ID</key><integer>11884</integer>
+			<key>Name</key><string>Out On The Weekend</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9038011</integer>
+			<key>Total Time</key><integer>274893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T04:59:05Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484629602</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:40:02Z</date>
+			<key>Normalization</key><integer>976</integer>
+			<key>Persistent ID</key><string>16A0F02EE96A834D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/01%20Out%20On%20The%20Weekend.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11886</key>
+		<dict>
+			<key>Track ID</key><integer>11886</integer>
+			<key>Name</key><string>Harvest</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6493382</integer>
+			<key>Total Time</key><integer>191466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T04:59:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484710709</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:11:49Z</date>
+			<key>Normalization</key><integer>576</integer>
+			<key>Persistent ID</key><string>D6E0CA553A0A0222</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/02%20Harvest.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11888</key>
+		<dict>
+			<key>Track ID</key><integer>11888</integer>
+			<key>Name</key><string>A Man Needs A Maid</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7988148</integer>
+			<key>Total Time</key><integer>245506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T04:59:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484710954</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:15:54Z</date>
+			<key>Normalization</key><integer>771</integer>
+			<key>Sort Name</key><string>Man Needs A Maid</string>
+			<key>Persistent ID</key><string>F57E9A3E95799E94</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/03%20A%20Man%20Needs%20A%20Maid.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11890</key>
+		<dict>
+			<key>Track ID</key><integer>11890</integer>
+			<key>Name</key><string>Heart Of Gold</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6219638</integer>
+			<key>Total Time</key><integer>187093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T04:59:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484711141</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:19:01Z</date>
+			<key>Normalization</key><integer>719</integer>
+			<key>Persistent ID</key><string>5276C6B17B6462D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/04%20Heart%20Of%20Gold.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11892</key>
+		<dict>
+			<key>Track ID</key><integer>11892</integer>
+			<key>Name</key><string>Are You Ready For The Country?</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6663310</integer>
+			<key>Total Time</key><integer>203706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T12:00:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484711345</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:22:25Z</date>
+			<key>Normalization</key><integer>1038</integer>
+			<key>Persistent ID</key><string>3ADCC11A3F8454CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/05%20Are%20You%20Ready%20For%20The%20Country_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11894</key>
+		<dict>
+			<key>Track ID</key><integer>11894</integer>
+			<key>Name</key><string>Old Man</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7066400</integer>
+			<key>Total Time</key><integer>204733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T05:00:17Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484711550</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:25:50Z</date>
+			<key>Normalization</key><integer>799</integer>
+			<key>Persistent ID</key><string>898E7351438CFB75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/06%20Old%20Man.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11896</key>
+		<dict>
+			<key>Track ID</key><integer>11896</integer>
+			<key>Name</key><string>There's A World</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5879909</integer>
+			<key>Total Time</key><integer>179333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T05:00:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484711729</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:28:49Z</date>
+			<key>Normalization</key><integer>839</integer>
+			<key>Persistent ID</key><string>C9C353507C1A5188</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/07%20There's%20A%20World.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11898</key>
+		<dict>
+			<key>Track ID</key><integer>11898</integer>
+			<key>Name</key><string>Alabama</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8211537</integer>
+			<key>Total Time</key><integer>242133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T12:00:43Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3538216917</integer>
+			<key>Play Date UTC</key><date>2016-02-13T13:01:57Z</date>
+			<key>Normalization</key><integer>748</integer>
+			<key>Persistent ID</key><string>8F65110E63567A92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/08%20Alabama.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11900</key>
+		<dict>
+			<key>Track ID</key><integer>11900</integer>
+			<key>Name</key><string>The Needle And The Damage Done</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4087068</integer>
+			<key>Total Time</key><integer>123226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T12:00:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3538217040</integer>
+			<key>Play Date UTC</key><date>2016-02-13T13:04:00Z</date>
+			<key>Normalization</key><integer>299</integer>
+			<key>Sort Name</key><string>Needle And The Damage Done</string>
+			<key>Persistent ID</key><string>FE70DB0789B766A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/09%20The%20Needle%20And%20The%20Damage%20Done.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11902</key>
+		<dict>
+			<key>Track ID</key><integer>11902</integer>
+			<key>Name</key><string>Words (Between The Lines Of Age)</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13554570</integer>
+			<key>Total Time</key><integer>400306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2010-02-14T12:01:15Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484712495</integer>
+			<key>Play Date UTC</key><date>2014-06-04T06:41:35Z</date>
+			<key>Normalization</key><integer>916</integer>
+			<key>Persistent ID</key><string>9F332555DD292FF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Neil%20Young/Harvest/10%20Words%20(Between%20The%20Lines%20Of%20Age).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15276</key>
+		<dict>
+			<key>Track ID</key><integer>15276</integer>
+			<key>Name</key><string>Down To The Wire</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4889270</integer>
+			<key>Total Time</key><integer>148933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-04-13T16:40:58Z</date>
+			<key>Date Added</key><date>2014-04-13T09:40:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528126282</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:04:42Z</date>
+			<key>Normalization</key><integer>1205</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3A961D0F20C7FA3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-01%20Down%20To%20The%20Wire.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15278</key>
+		<dict>
+			<key>Track ID</key><integer>15278</integer>
+			<key>Name</key><string>Burned</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4840342</integer>
+			<key>Total Time</key><integer>135506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1966</integer>
+			<key>Date Modified</key><date>2014-04-13T09:41:23Z</date>
+			<key>Date Added</key><date>2014-04-13T09:41:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528126417</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:06:57Z</date>
+			<key>Normalization</key><integer>1677</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>073361797959E23A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-02%20Burned.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15280</key>
+		<dict>
+			<key>Track ID</key><integer>15280</integer>
+			<key>Name</key><string>Mr. Soul</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5816971</integer>
+			<key>Total Time</key><integer>170133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-04-13T09:41:51Z</date>
+			<key>Date Added</key><date>2014-04-13T09:41:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528126587</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:09:47Z</date>
+			<key>Normalization</key><integer>1211</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8DB40EFA6C31BA1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-03%20Mr.%20Soul.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15282</key>
+		<dict>
+			<key>Track ID</key><integer>15282</integer>
+			<key>Name</key><string>Broken Arrow</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12946475</integer>
+			<key>Total Time</key><integer>373666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-04-13T09:42:48Z</date>
+			<key>Date Added</key><date>2014-04-13T09:41:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528126961</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:16:01Z</date>
+			<key>Normalization</key><integer>927</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>915FEFE87DA62023</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-04%20Broken%20Arrow.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15284</key>
+		<dict>
+			<key>Track ID</key><integer>15284</integer>
+			<key>Name</key><string>Expecting To Fly</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8174292</integer>
+			<key>Total Time</key><integer>225666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-04-13T09:43:20Z</date>
+			<key>Date Added</key><date>2014-04-13T09:42:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528127186</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:19:46Z</date>
+			<key>Normalization</key><integer>1168</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>907822B6172CFFA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-05%20Expecting%20To%20Fly.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15286</key>
+		<dict>
+			<key>Track ID</key><integer>15286</integer>
+			<key>Name</key><string>Sugar Mountain [Live]</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11204355</integer>
+			<key>Total Time</key><integer>341493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2014-04-13T09:44:05Z</date>
+			<key>Date Added</key><date>2014-04-13T09:43:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528127528</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:25:28Z</date>
+			<key>Normalization</key><integer>198</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3440AD8C65106C19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-06%20Sugar%20Mountain%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15288</key>
+		<dict>
+			<key>Track ID</key><integer>15288</integer>
+			<key>Name</key><string>I Am A Child</string>
+			<key>Artist</key><string>Buffalo Springfield</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4915073</integer>
+			<key>Total Time</key><integer>140106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2014-04-13T09:44:23Z</date>
+			<key>Date Added</key><date>2014-04-13T09:44:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528127668</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:27:48Z</date>
+			<key>Normalization</key><integer>231</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>E7CF716DADCBAB31</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-07%20I%20Am%20A%20Child.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15290</key>
+		<dict>
+			<key>Track ID</key><integer>15290</integer>
+			<key>Name</key><string>The Loner</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7892329</integer>
+			<key>Total Time</key><integer>230000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2014-04-13T09:44:51Z</date>
+			<key>Date Added</key><date>2014-04-13T09:44:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528127898</integer>
+			<key>Play Date UTC</key><date>2015-10-19T18:31:38Z</date>
+			<key>Normalization</key><integer>738</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Loner</string>
+			<key>Persistent ID</key><string>8754940DBB2B6F8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-08%20The%20Loner.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15292</key>
+		<dict>
+			<key>Track ID</key><integer>15292</integer>
+			<key>Name</key><string>The Old Laughing Lady</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11907914</integer>
+			<key>Total Time</key><integer>337893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2014-04-13T09:45:30Z</date>
+			<key>Date Added</key><date>2014-04-13T09:44:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528174499</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:28:19Z</date>
+			<key>Normalization</key><integer>387</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Old Laughing Lady</string>
+			<key>Persistent ID</key><string>08A88637903AE2FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-09%20The%20Old%20Laughing%20Lady.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15294</key>
+		<dict>
+			<key>Track ID</key><integer>15294</integer>
+			<key>Name</key><string>Cinnamon Girl</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6326240</integer>
+			<key>Total Time</key><integer>180373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2014-04-13T09:45:50Z</date>
+			<key>Date Added</key><date>2014-04-13T09:45:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528174679</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:31:19Z</date>
+			<key>Normalization</key><integer>543</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>7099BA3BD75AD2E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-10%20Cinnamon%20Girl.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15296</key>
+		<dict>
+			<key>Track ID</key><integer>15296</integer>
+			<key>Name</key><string>Down By The River</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18853712</integer>
+			<key>Total Time</key><integer>539533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2014-04-13T09:46:46Z</date>
+			<key>Date Added</key><date>2014-04-13T09:45:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528175219</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:40:19Z</date>
+			<key>Normalization</key><integer>448</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>C0DBB6E17A1FD7CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-11%20Down%20By%20The%20River.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15298</key>
+		<dict>
+			<key>Track ID</key><integer>15298</integer>
+			<key>Name</key><string>Cowgirl In The Sand</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>20947718</integer>
+			<key>Total Time</key><integer>602493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2014-04-13T16:47:44Z</date>
+			<key>Date Added</key><date>2014-04-13T09:46:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528175821</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:50:21Z</date>
+			<key>Normalization</key><integer>1180</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>972B8D5FD575233B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-12%20Cowgirl%20In%20The%20Sand.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15300</key>
+		<dict>
+			<key>Track ID</key><integer>15300</integer>
+			<key>Name</key><string>I Believe In You</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7354047</integer>
+			<key>Total Time</key><integer>207840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2014-04-13T09:48:04Z</date>
+			<key>Date Added</key><date>2014-04-13T09:47:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528176029</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:53:49Z</date>
+			<key>Normalization</key><integer>468</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3663F4216D0FFAE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-13%20I%20Believe%20In%20You.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15302</key>
+		<dict>
+			<key>Track ID</key><integer>15302</integer>
+			<key>Name</key><string>After The Gold Rush</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7622037</integer>
+			<key>Total Time</key><integer>225933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2014-04-13T09:48:25Z</date>
+			<key>Date Added</key><date>2014-04-13T09:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528176254</integer>
+			<key>Play Date UTC</key><date>2015-10-20T07:57:34Z</date>
+			<key>Normalization</key><integer>229</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DB200011DD1221DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-14%20After%20The%20Gold%20Rush.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15304</key>
+		<dict>
+			<key>Track ID</key><integer>15304</integer>
+			<key>Name</key><string>Southern Man</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11855443</integer>
+			<key>Total Time</key><integer>329693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2014-04-13T09:48:55Z</date>
+			<key>Date Added</key><date>2014-04-13T09:48:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528176584</integer>
+			<key>Play Date UTC</key><date>2015-10-20T08:03:04Z</date>
+			<key>Normalization</key><integer>1001</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>D5B3CE84B658D610</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-15%20Southern%20Man.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15306</key>
+		<dict>
+			<key>Track ID</key><integer>15306</integer>
+			<key>Name</key><string>Helpless</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Album</key><string>Decade [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7344363</integer>
+			<key>Total Time</key><integer>212906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2014-04-13T09:49:13Z</date>
+			<key>Date Added</key><date>2014-04-13T09:48:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484485454</integer>
+			<key>Play Date UTC</key><date>2014-06-01T15:37:34Z</date>
+			<key>Normalization</key><integer>407</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>E94581382309D56C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%201%5D/1-16%20Helpless.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15308</key>
+		<dict>
+			<key>Track ID</key><integer>15308</integer>
+			<key>Name</key><string>Ohio</string>
+			<key>Artist</key><string>Crosby, Stills, Nash &#38; Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6033582</integer>
+			<key>Total Time</key><integer>178466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T16:56:48Z</date>
+			<key>Date Added</key><date>2014-04-13T09:56:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484485633</integer>
+			<key>Play Date UTC</key><date>2014-06-01T15:40:33Z</date>
+			<key>Normalization</key><integer>1044</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A6679B7D1F67C7D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-01%20Ohio.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15310</key>
+		<dict>
+			<key>Track ID</key><integer>15310</integer>
+			<key>Name</key><string>Soldier</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5263206</integer>
+			<key>Total Time</key><integer>148933</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T09:57:14Z</date>
+			<key>Date Added</key><date>2014-04-13T09:56:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484485781</integer>
+			<key>Play Date UTC</key><date>2014-06-01T15:43:01Z</date>
+			<key>Normalization</key><integer>277</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DC2BECCB4A101AA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-02%20Soldier.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15312</key>
+		<dict>
+			<key>Track ID</key><integer>15312</integer>
+			<key>Name</key><string>Old Man</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7236745</integer>
+			<key>Total Time</key><integer>202173</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T09:57:47Z</date>
+			<key>Date Added</key><date>2014-04-13T09:57:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484538763</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:26:03Z</date>
+			<key>Normalization</key><integer>715</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8285787A1B5039B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-03%20Old%20Man.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15314</key>
+		<dict>
+			<key>Track ID</key><integer>15314</integer>
+			<key>Name</key><string>A Man Needs A Maid</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8193688</integer>
+			<key>Total Time</key><integer>240560</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T09:58:23Z</date>
+			<key>Date Added</key><date>2014-04-13T09:57:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539003</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:30:03Z</date>
+			<key>Normalization</key><integer>854</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Man Needs A Maid</string>
+			<key>Persistent ID</key><string>442AC64908D5C57E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-04%20A%20Man%20Needs%20A%20Maid.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15316</key>
+		<dict>
+			<key>Track ID</key><integer>15316</integer>
+			<key>Name</key><string>Harvest</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6607568</integer>
+			<key>Total Time</key><integer>189506</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T16:58:50Z</date>
+			<key>Date Added</key><date>2014-04-13T09:58:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539193</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:33:13Z</date>
+			<key>Normalization</key><integer>421</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>189DEEDBED04B214</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-05%20Harvest.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15318</key>
+		<dict>
+			<key>Track ID</key><integer>15318</integer>
+			<key>Name</key><string>Heart Of Gold</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6731585</integer>
+			<key>Total Time</key><integer>186800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2014-04-13T09:59:16Z</date>
+			<key>Date Added</key><date>2014-04-13T09:58:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539380</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:36:20Z</date>
+			<key>Normalization</key><integer>494</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>FBFEA034E28460B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-06%20Heart%20Of%20Gold.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15320</key>
+		<dict>
+			<key>Track ID</key><integer>15320</integer>
+			<key>Name</key><string>Star Of Bethlehem</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5361702</integer>
+			<key>Total Time</key><integer>163466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T09:59:37Z</date>
+			<key>Date Added</key><date>2014-04-13T09:59:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539543</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:39:03Z</date>
+			<key>Normalization</key><integer>515</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>749404AA5D0AC333</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-07%20Star%20Of%20Bethlehem.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15322</key>
+		<dict>
+			<key>Track ID</key><integer>15322</integer>
+			<key>Name</key><string>The Needle And The Damage Done</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4413754</integer>
+			<key>Total Time</key><integer>125960</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T09:59:54Z</date>
+			<key>Date Added</key><date>2014-04-13T09:59:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539669</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:41:09Z</date>
+			<key>Normalization</key><integer>404</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Name</key><string>Needle And The Damage Done</string>
+			<key>Persistent ID</key><string>D56F69D2BC82BA30</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-08%20The%20Needle%20And%20The%20Damage%20Done.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15324</key>
+		<dict>
+			<key>Track ID</key><integer>15324</integer>
+			<key>Name</key><string>Tonight's The Night (Part 1)</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9638316</integer>
+			<key>Total Time</key><integer>281640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:00:28Z</date>
+			<key>Date Added</key><date>2014-04-13T09:59:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484539951</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:45:51Z</date>
+			<key>Normalization</key><integer>1224</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8882F29F3E20411F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-09%20Tonight's%20The%20Night%20(Part%201).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15326</key>
+		<dict>
+			<key>Track ID</key><integer>15326</integer>
+			<key>Name</key><string>Tired Eyes</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9592182</integer>
+			<key>Total Time</key><integer>273293</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:00:59Z</date>
+			<key>Date Added</key><date>2014-04-13T10:00:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484540224</integer>
+			<key>Play Date UTC</key><date>2014-06-02T06:50:24Z</date>
+			<key>Normalization</key><integer>552</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>22A71BD8C62672E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-10%20Tired%20Eyes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15328</key>
+		<dict>
+			<key>Track ID</key><integer>15328</integer>
+			<key>Name</key><string>Walk On</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5611194</integer>
+			<key>Total Time</key><integer>161173</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:01:18Z</date>
+			<key>Date Added</key><date>2014-04-13T10:01:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484627212</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:00:12Z</date>
+			<key>Normalization</key><integer>1385</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A73FB53BE9586C47</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-11%20Walk%20On.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15330</key>
+		<dict>
+			<key>Track ID</key><integer>15330</integer>
+			<key>Name</key><string>For The Turnstiles</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6655624</integer>
+			<key>Total Time</key><integer>181000</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T17:01:38Z</date>
+			<key>Date Added</key><date>2014-04-13T10:01:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484627393</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:03:13Z</date>
+			<key>Normalization</key><integer>756</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>2B46F7D22A32BB98</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-12%20For%20The%20Turnstiles.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15332</key>
+		<dict>
+			<key>Track ID</key><integer>15332</integer>
+			<key>Name</key><string>Winterlong</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6414375</integer>
+			<key>Total Time</key><integer>188093</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:01:58Z</date>
+			<key>Date Added</key><date>2014-04-13T10:01:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484627581</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:06:21Z</date>
+			<key>Normalization</key><integer>1791</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6A5761440778D8AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-13%20Winterlong.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15334</key>
+		<dict>
+			<key>Track ID</key><integer>15334</integer>
+			<key>Name</key><string>Deep Forbidden Lake</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7927132</integer>
+			<key>Total Time</key><integer>221640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:02:21Z</date>
+			<key>Date Added</key><date>2014-04-13T10:02:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484627802</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:10:02Z</date>
+			<key>Normalization</key><integer>558</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>4AA6F503202C1760</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-14%20Deep%20Forbidden%20Lake.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15336</key>
+		<dict>
+			<key>Track ID</key><integer>15336</integer>
+			<key>Name</key><string>Like A Hurricane</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>17376981</integer>
+			<key>Total Time</key><integer>497333</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:03:09Z</date>
+			<key>Date Added</key><date>2014-04-13T10:02:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484628300</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:18:20Z</date>
+			<key>Normalization</key><integer>2068</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DDAD7B02616218D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-15%20Like%20A%20Hurricane.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15338</key>
+		<dict>
+			<key>Track ID</key><integer>15338</integer>
+			<key>Name</key><string>Love Is A Rose</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4797842</integer>
+			<key>Total Time</key><integer>136693</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:03:22Z</date>
+			<key>Date Added</key><date>2014-04-13T10:03:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484628436</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:20:36Z</date>
+			<key>Normalization</key><integer>447</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3CDB61BF7EA0BF42</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-16%20Love%20Is%20A%20Rose.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15340</key>
+		<dict>
+			<key>Track ID</key><integer>15340</integer>
+			<key>Name</key><string>Cortez The Killer</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15748467</integer>
+			<key>Total Time</key><integer>451840</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:04:03Z</date>
+			<key>Date Added</key><date>2014-04-13T10:03:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484628888</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:28:08Z</date>
+			<key>Normalization</key><integer>776</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3D11FA7B2B01A46E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-17%20Cortez%20The%20Killer.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15342</key>
+		<dict>
+			<key>Track ID</key><integer>15342</integer>
+			<key>Name</key><string>Campaigner</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6886756</integer>
+			<key>Total Time</key><integer>210493</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:04:22Z</date>
+			<key>Date Added</key><date>2014-04-13T10:04:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484629099</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:31:39Z</date>
+			<key>Normalization</key><integer>492</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>09993015BD58EE08</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-18%20Campaigner.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15344</key>
+		<dict>
+			<key>Track ID</key><integer>15344</integer>
+			<key>Name</key><string>Long May You Run</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album</key><string>Decade [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7930703</integer>
+			<key>Total Time</key><integer>228373</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2014-04-13T10:04:42Z</date>
+			<key>Date Added</key><date>2014-04-13T10:04:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484629327</integer>
+			<key>Play Date UTC</key><date>2014-06-03T07:35:27Z</date>
+			<key>Normalization</key><integer>736</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>551B55D76EA00379</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Decade%20%5BDisc%202%5D/2-19%20Long%20May%20You%20Run.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Neil_Young</string>
+			<key>Playlist ID</key><integer>34510</integer>
+			<key>Playlist Persistent ID</key><string>880274C1125D60BF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15298</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15308</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15316</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15336</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11888</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11896</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8962</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8968</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

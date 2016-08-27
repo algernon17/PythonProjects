@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:24:42Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7996</key>
+		<dict>
+			<key>Track ID</key><integer>7996</integer>
+			<key>Name</key><string>Standing In The Rain</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10081414</integer>
+			<key>Total Time</key><integer>282960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:33:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508130695</integer>
+			<key>Play Date UTC</key><date>2015-03-02T07:44:55Z</date>
+			<key>Normalization</key><integer>2640</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>A006B2937BE42135</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-01%20Standing%20In%20The%20Rain.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7998</key>
+		<dict>
+			<key>Track ID</key><integer>7998</integer>
+			<key>Name</key><string>Evil Woman</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8660560</integer>
+			<key>Total Time</key><integer>241720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:33:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3508130937</integer>
+			<key>Play Date UTC</key><date>2015-03-02T07:48:57Z</date>
+			<key>Normalization</key><integer>3414</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>B00C6C98B9D88420</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-02%20Evil%20Woman.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8000</key>
+		<dict>
+			<key>Track ID</key><integer>8000</integer>
+			<key>Name</key><string>Don't Wanna</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8403123</integer>
+			<key>Total Time</key><integer>244546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:33:59Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508131181</integer>
+			<key>Play Date UTC</key><date>2015-03-02T07:53:01Z</date>
+			<key>Normalization</key><integer>5609</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>B25AD1DB8BF4BB73</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-03%20Don't%20Wanna.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8002</key>
+		<dict>
+			<key>Track ID</key><integer>8002</integer>
+			<key>Name</key><string>Showdown</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10493880</integer>
+			<key>Total Time</key><integer>294960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T18:34:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508131477</integer>
+			<key>Play Date UTC</key><date>2015-03-02T07:57:57Z</date>
+			<key>Normalization</key><integer>4696</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>C8F8F66724B6A763</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-04%20Showdown.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8004</key>
+		<dict>
+			<key>Track ID</key><integer>8004</integer>
+			<key>Name</key><string>Can't Get It Out Of My Head</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13966201</integer>
+			<key>Total Time</key><integer>396466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T18:34:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508131873</integer>
+			<key>Play Date UTC</key><date>2015-03-02T08:04:33Z</date>
+			<key>Normalization</key><integer>3205</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>86D3CAB74B0270DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-05%20Can't%20Get%20It%20Out%20Of%20My%20Head.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8006</key>
+		<dict>
+			<key>Track ID</key><integer>8006</integer>
+			<key>Name</key><string>Whiskey Girls</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8099483</integer>
+			<key>Total Time</key><integer>227413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488039458</integer>
+			<key>Play Date UTC</key><date>2014-07-12T18:50:58Z</date>
+			<key>Normalization</key><integer>4471</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>53749419315383A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-06%20Whiskey%20Girls.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8008</key>
+		<dict>
+			<key>Track ID</key><integer>8008</integer>
+			<key>Name</key><string>Livin' Thing</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8293060</integer>
+			<key>Total Time</key><integer>235626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508132192</integer>
+			<key>Play Date UTC</key><date>2015-03-02T08:09:52Z</date>
+			<key>Normalization</key><integer>3542</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>DF6EFAA2535F4D9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-07%20Livin'%20Thing.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8010</key>
+		<dict>
+			<key>Track ID</key><integer>8010</integer>
+			<key>Name</key><string>One More Tomorrow</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10504638</integer>
+			<key>Total Time</key><integer>309360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T18:34:03Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508132501</integer>
+			<key>Play Date UTC</key><date>2015-03-02T08:15:01Z</date>
+			<key>Normalization</key><integer>3416</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>4E85A130C6BD9B80</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-08%20One%20More%20Tomorrow.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8012</key>
+		<dict>
+			<key>Track ID</key><integer>8012</integer>
+			<key>Name</key><string>Mr. Blue Sky</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10808162</integer>
+			<key>Total Time</key><integer>301720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3508132803</integer>
+			<key>Play Date UTC</key><date>2015-03-02T08:20:03Z</date>
+			<key>Normalization</key><integer>2789</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>78D62C9FA4D971FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-09%20Mr.%20Blue%20Sky.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8014</key>
+		<dict>
+			<key>Track ID</key><integer>8014</integer>
+			<key>Name</key><string>Telephone Line</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10087247</integer>
+			<key>Total Time</key><integer>290013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:05Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488040595</integer>
+			<key>Play Date UTC</key><date>2014-07-12T19:09:55Z</date>
+			<key>Normalization</key><integer>2562</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>BE6F73969E7FA6B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-10%20Telephone%20Line.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8016</key>
+		<dict>
+			<key>Track ID</key><integer>8016</integer>
+			<key>Name</key><string>Ain't Necessarily So</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8743042</integer>
+			<key>Total Time</key><integer>241800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488040837</integer>
+			<key>Play Date UTC</key><date>2014-07-12T19:13:57Z</date>
+			<key>Normalization</key><integer>5588</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Persistent ID</key><string>65AAABAF436400F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-11%20Ain't%20Necessarily%20So.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8018</key>
+		<dict>
+			<key>Track ID</key><integer>8018</integer>
+			<key>Name</key><string>The Fox</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10426927</integer>
+			<key>Total Time</key><integer>297506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T18:34:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488041135</integer>
+			<key>Play Date UTC</key><date>2014-07-12T19:18:55Z</date>
+			<key>Normalization</key><integer>2957</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 1]</string>
+			<key>Sort Name</key><string>Fox</string>
+			<key>Persistent ID</key><string>372F4E1016DA0FD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%201%5D/1-12%20The%20Fox.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8020</key>
+		<dict>
+			<key>Track ID</key><integer>8020</integer>
+			<key>Name</key><string>Strange Magic</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4484170</integer>
+			<key>Total Time</key><integer>133386</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488082985</integer>
+			<key>Play Date UTC</key><date>2014-07-13T06:56:25Z</date>
+			<key>Normalization</key><integer>1327</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>6FFC7BFD8DC4DE50</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/01%20Strange%20Magic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8022</key>
+		<dict>
+			<key>Track ID</key><integer>8022</integer>
+			<key>Name</key><string>Sweet Talking Woman</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4374695</integer>
+			<key>Total Time</key><integer>124066</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488083109</integer>
+			<key>Play Date UTC</key><date>2014-07-13T06:58:29Z</date>
+			<key>Normalization</key><integer>3618</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>DA707ED94B9FA5B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/02%20Sweet%20Talking%20Woman.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8024</key>
+		<dict>
+			<key>Track ID</key><integer>8024</integer>
+			<key>Name</key><string>Confusion</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4013275</integer>
+			<key>Total Time</key><integer>113226</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488083222</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:00:22Z</date>
+			<key>Normalization</key><integer>3218</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>F2A8CE273094F96F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/03%20Confusion.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8026</key>
+		<dict>
+			<key>Track ID</key><integer>8026</integer>
+			<key>Name</key><string>Do Ya</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5033038</integer>
+			<key>Total Time</key><integer>147520</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488083370</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:02:50Z</date>
+			<key>Normalization</key><integer>5847</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>B4C8F2DF55B91B32</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/04%20Do%20Ya.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8028</key>
+		<dict>
+			<key>Track ID</key><integer>8028</integer>
+			<key>Name</key><string>Rockaria</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6942254</integer>
+			<key>Total Time</key><integer>195000</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488083565</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:06:05Z</date>
+			<key>Normalization</key><integer>5625</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>CC782C395EEB7D8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/05%20Rockaria.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8030</key>
+		<dict>
+			<key>Track ID</key><integer>8030</integer>
+			<key>Name</key><string>Roll Over Beethoven</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11842998</integer>
+			<key>Total Time</key><integer>337973</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:09Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488083903</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:11:43Z</date>
+			<key>Normalization</key><integer>4821</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>243ED0920355F2BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/06%20Roll%20Over%20Beethoven.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8032</key>
+		<dict>
+			<key>Track ID</key><integer>8032</integer>
+			<key>Name</key><string>All Fall Down</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6959936</integer>
+			<key>Total Time</key><integer>202546</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488084105</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:15:05Z</date>
+			<key>Normalization</key><integer>2889</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>80C201DC77F024F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/07%20All%20Fall%20Down.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8034</key>
+		<dict>
+			<key>Track ID</key><integer>8034</integer>
+			<key>Name</key><string>Witness</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7433854</integer>
+			<key>Total Time</key><integer>212413</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488084317</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:18:37Z</date>
+			<key>Normalization</key><integer>2488</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>E5D7757E975CFAAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/08%20Witness.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8036</key>
+		<dict>
+			<key>Track ID</key><integer>8036</integer>
+			<key>Name</key><string>1,000 Eyes</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4778413</integer>
+			<key>Total Time</key><integer>138613</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:11Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488084456</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:20:56Z</date>
+			<key>Normalization</key><integer>5152</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>B4569110A9A60856</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/09%201,000%20Eyes.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8038</key>
+		<dict>
+			<key>Track ID</key><integer>8038</integer>
+			<key>Name</key><string>Hold On Tight</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4107642</integer>
+			<key>Total Time</key><integer>116413</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:11Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488084573</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:22:53Z</date>
+			<key>Normalization</key><integer>3991</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>D7B5D39E53F10127</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/10%20Hold%20On%20Tight.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8040</key>
+		<dict>
+			<key>Track ID</key><integer>8040</integer>
+			<key>Name</key><string>Turn To Stone</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5665321</integer>
+			<key>Total Time</key><integer>168093</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488084741</integer>
+			<key>Play Date UTC</key><date>2014-07-13T07:25:41Z</date>
+			<key>Normalization</key><integer>4358</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>31094AC00CC14EB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/11%20Turn%20To%20Stone.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8042</key>
+		<dict>
+			<key>Track ID</key><integer>8042</integer>
+			<key>Name</key><string>Rock &#38; Roll Is King</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6979571</integer>
+			<key>Total Time</key><integer>206240</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488167641</integer>
+			<key>Play Date UTC</key><date>2014-07-14T06:27:21Z</date>
+			<key>Normalization</key><integer>4076</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>0303BF1F4971FA78</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/12%20Rock%20&#38;%20Roll%20Is%20King.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8044</key>
+		<dict>
+			<key>Track ID</key><integer>8044</integer>
+			<key>Name</key><string>Last Train To London</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7790348</integer>
+			<key>Total Time</key><integer>224773</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:13Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488167866</integer>
+			<key>Play Date UTC</key><date>2014-07-14T06:31:06Z</date>
+			<key>Normalization</key><integer>2815</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>2569A76C1196C704</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/13%20Last%20Train%20To%20London.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8046</key>
+		<dict>
+			<key>Track ID</key><integer>8046</integer>
+			<key>Name</key><string>Don't Bring Me Down</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Composer</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>The Gold Collection [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8827044</integer>
+			<key>Total Time</key><integer>260586</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2010-10-28T11:34:13Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3488168127</integer>
+			<key>Play Date UTC</key><date>2014-07-14T06:35:27Z</date>
+			<key>Normalization</key><integer>3320</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gold Collection [Disc 2]</string>
+			<key>Persistent ID</key><string>99FA038507964B08</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Gold%20Collection%20%5BDisc%202%5D/14%20Don't%20Bring%20Me%20Down.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9450</key>
+		<dict>
+			<key>Track ID</key><integer>9450</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>On the Third Day</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18659713</integer>
+			<key>Total Time</key><integer>1165583</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2012-04-16T19:07:57Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524579528</integer>
+			<key>Play Date UTC</key><date>2015-09-08T16:52:08Z</date>
+			<key>Persistent ID</key><string>AA140F43BCDE7093</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Electric%20Light%20Orchestra/On%20the%20Third%20Day/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9452</key>
+		<dict>
+			<key>Track ID</key><integer>9452</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Electric Light Orchestra</string>
+			<key>Album</key><string>On the Third Day</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17707602</integer>
+			<key>Total Time</key><integer>1106076</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2012-04-16T12:07:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524580634</integer>
+			<key>Play Date UTC</key><date>2015-09-08T17:10:34Z</date>
+			<key>Persistent ID</key><string>F5C5623B3DB8523E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Electric%20Light%20Orchestra/On%20the%20Third%20Day/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9454</key>
+		<dict>
+			<key>Track ID</key><integer>9454</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>A New World Record</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16756516</integer>
+			<key>Total Time</key><integer>1047275</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2012-11-12T04:38:59Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3487859925</integer>
+			<key>Play Date UTC</key><date>2014-07-10T16:58:45Z</date>
+			<key>Sort Album</key><string>New World Record</string>
+			<key>Persistent ID</key><string>DFDBF82D80D8A186</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/A%20New%20World%20Record/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9456</key>
+		<dict>
+			<key>Track ID</key><integer>9456</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>A New World Record</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18349359</integer>
+			<key>Total Time</key><integer>1146827</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2012-11-11T22:17:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3487947338</integer>
+			<key>Play Date UTC</key><date>2014-07-11T17:15:38Z</date>
+			<key>Sort Album</key><string>New World Record</string>
+			<key>Persistent ID</key><string>C19D2BA93FFF81B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/A%20New%20World%20Record/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9458</key>
+		<dict>
+			<key>Track ID</key><integer>9458</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Balance of Power</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16474392</integer>
+			<key>Total Time</key><integer>1029642</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2012-12-20T05:24:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3524547943</integer>
+			<key>Play Date UTC</key><date>2015-09-08T08:05:43Z</date>
+			<key>Persistent ID</key><string>6A5DEDB66793FE9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Balance%20of%20Power/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9460</key>
+		<dict>
+			<key>Track ID</key><integer>9460</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Balance of Power</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16942088</integer>
+			<key>Total Time</key><integer>1058873</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2012-12-20T09:44:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3524549001</integer>
+			<key>Play Date UTC</key><date>2015-09-08T08:23:21Z</date>
+			<key>Persistent ID</key><string>D2F645D60770AF13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Balance%20of%20Power/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9462</key>
+		<dict>
+			<key>Track ID</key><integer>9462</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17176556</integer>
+			<key>Total Time</key><integer>1073528</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2012-11-18T18:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3523464680</integer>
+			<key>Play Date UTC</key><date>2015-08-26T19:11:20Z</date>
+			<key>Persistent ID</key><string>1798586F959CE86C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Discovery/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9464</key>
+		<dict>
+			<key>Track ID</key><integer>9464</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20218881</integer>
+			<key>Total Time</key><integer>1263673</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2012-11-18T18:59:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523465944</integer>
+			<key>Play Date UTC</key><date>2015-08-26T19:32:24Z</date>
+			<key>Persistent ID</key><string>D1BA0A7991EB9F33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Discovery/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9466</key>
+		<dict>
+			<key>Track ID</key><integer>9466</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Face the Music</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17964206</integer>
+			<key>Total Time</key><integer>1122115</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2012-04-16T19:22:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3487822334</integer>
+			<key>Play Date UTC</key><date>2014-07-10T06:32:14Z</date>
+			<key>Persistent ID</key><string>7E8E164C90834E72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Face%20the%20Music/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9468</key>
+		<dict>
+			<key>Track ID</key><integer>9468</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Face the Music</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17070192</integer>
+			<key>Total Time</key><integer>1066240</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2012-04-16T12:22:03Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3487858878</integer>
+			<key>Play Date UTC</key><date>2014-07-10T16:41:18Z</date>
+			<key>Persistent ID</key><string>2DCE3CF7CCB6C83D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Face%20the%20Music/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9470</key>
+		<dict>
+			<key>Track ID</key><integer>9470</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Time</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19958488</integer>
+			<key>Total Time</key><integer>1247399</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2012-12-19T00:35:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3524591949</integer>
+			<key>Play Date UTC</key><date>2015-09-08T20:19:09Z</date>
+			<key>Persistent ID</key><string>4F4FF8C793AC0A41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Time/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9472</key>
+		<dict>
+			<key>Track ID</key><integer>9472</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>ELO</string>
+			<key>Album</key><string>Time</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22311180</integer>
+			<key>Total Time</key><integer>1394442</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2012-12-18T18:04:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524593343</integer>
+			<key>Play Date UTC</key><date>2015-09-08T20:42:23Z</date>
+			<key>Persistent ID</key><string>E8A4B4BB0079ED2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/ELO/Time/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ELO</string>
+			<key>Playlist ID</key><integer>34290</integer>
+			<key>Playlist Persistent ID</key><string>1985452519169B33</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8046</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

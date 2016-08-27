@@ -1,0 +1,3441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:23:34Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6682</key>
+		<dict>
+			<key>Track ID</key><integer>6682</integer>
+			<key>Name</key><string>Stella</string>
+			<key>Artist</key><string>Jam &#38; Spoon</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13848103</integer>
+			<key>Total Time</key><integer>380413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2009-07-11T11:41:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3499059852</integer>
+			<key>Play Date UTC</key><date>2014-11-17T08:04:12Z</date>
+			<key>Normalization</key><integer>2513</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFF20A5F30E4F3BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-01%20Stella.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6684</key>
+		<dict>
+			<key>Track ID</key><integer>6684</integer>
+			<key>Name</key><string>Madagascar</string>
+			<key>Artist</key><string>Art Of Trance</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11869579</integer>
+			<key>Total Time</key><integer>347226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3499060200</integer>
+			<key>Play Date UTC</key><date>2014-11-17T08:10:00Z</date>
+			<key>Normalization</key><integer>2613</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B5F9AB5AA7F67A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-02%20Madagascar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6686</key>
+		<dict>
+			<key>Track ID</key><integer>6686</integer>
+			<key>Name</key><string>For An Angel (PvD E-Werk Club mix)</string>
+			<key>Artist</key><string>Paul Van Dyk</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12113281</integer>
+			<key>Total Time</key><integer>362133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T11:41:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3499060562</integer>
+			<key>Play Date UTC</key><date>2014-11-17T08:16:02Z</date>
+			<key>Normalization</key><integer>1649</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE2B807EE785F6B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-03%20For%20An%20Angel%20(PvD%20E-Werk%20Club%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6688</key>
+		<dict>
+			<key>Track ID</key><integer>6688</integer>
+			<key>Name</key><string>Born Slippy</string>
+			<key>Artist</key><string>Underworld</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10325288</integer>
+			<key>Total Time</key><integer>312853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3474823595</integer>
+			<key>Play Date UTC</key><date>2014-02-09T19:46:35Z</date>
+			<key>Normalization</key><integer>2067</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5158EA85E8D65C35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-04%20Born%20Slippy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6690</key>
+		<dict>
+			<key>Track ID</key><integer>6690</integer>
+			<key>Name</key><string>Love Stimulation (Paul van Dyk's love club mix)</string>
+			<key>Artist</key><string>Humate</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6891767</integer>
+			<key>Total Time</key><integer>209986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499089564</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:19:24Z</date>
+			<key>Normalization</key><integer>5333</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D587939575B884EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-05%20Love%20Stimulation%20(Paul%20van%20Dyk's%20love%20club%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6692</key>
+		<dict>
+			<key>Track ID</key><integer>6692</integer>
+			<key>Name</key><string>Everyday</string>
+			<key>Artist</key><string>Agnelli &#38; Nelson</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9654216</integer>
+			<key>Total Time</key><integer>292573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:34Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499089857</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:24:17Z</date>
+			<key>Normalization</key><integer>2358</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E969DA00923AF75E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-06%20Everyday.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6694</key>
+		<dict>
+			<key>Track ID</key><integer>6694</integer>
+			<key>Name</key><string>10in01</string>
+			<key>Artist</key><string>Members Of Mayday</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11042448</integer>
+			<key>Total Time</key><integer>333493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499090190</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:29:50Z</date>
+			<key>Normalization</key><integer>2989</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E37C816913E83512</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-07%2010in01.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6696</key>
+		<dict>
+			<key>Track ID</key><integer>6696</integer>
+			<key>Name</key><string>I Am (Digweed &#38; Muir remix)</string>
+			<key>Artist</key><string>Chakra</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8667559</integer>
+			<key>Total Time</key><integer>264600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499090455</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:34:15Z</date>
+			<key>Normalization</key><integer>3045</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6089274CFA939B4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-08%20I%20Am%20(Digweed%20&#38;%20Muir%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6698</key>
+		<dict>
+			<key>Track ID</key><integer>6698</integer>
+			<key>Name</key><string>The Orange Theme (Moonman's orange juice mix)</string>
+			<key>Artist</key><string>Cygnus X</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10649069</integer>
+			<key>Total Time</key><integer>314946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499090770</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:39:30Z</date>
+			<key>Normalization</key><integer>2233</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Orange Theme (Moonman's orange juice mix)</string>
+			<key>Persistent ID</key><string>D9711F98C6184917</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-09%20The%20Orange%20Theme%20(Moonman's%20orange%20juice%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6700</key>
+		<dict>
+			<key>Track ID</key><integer>6700</integer>
+			<key>Name</key><string>Age Of Love (Jam &#38; Spoon watch out for Stella mix))</string>
+			<key>Artist</key><string>The Age Of Love</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9325218</integer>
+			<key>Total Time</key><integer>282453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2009-07-11T11:41:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499091053</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:44:13Z</date>
+			<key>Normalization</key><integer>3663</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Age Of Love</string>
+			<key>Persistent ID</key><string>8A9A37F34AEC936D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-10%20Age%20Of%20Love%20(Jam%20&#38;%20Spoon%20watch%20out%20for%20Stella%20mix)).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6702</key>
+		<dict>
+			<key>Track ID</key><integer>6702</integer>
+			<key>Name</key><string>Carte Blanche (original)</string>
+			<key>Artist</key><string>Veracocha</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11741072</integer>
+			<key>Total Time</key><integer>339866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499091392</integer>
+			<key>Play Date UTC</key><date>2014-11-17T16:49:52Z</date>
+			<key>Normalization</key><integer>2557</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A76FF37682524EAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-11%20Carte%20Blanche%20(original).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6704</key>
+		<dict>
+			<key>Track ID</key><integer>6704</integer>
+			<key>Name</key><string>Happiness Happening</string>
+			<key>Artist</key><string>Lost Witness</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11981175</integer>
+			<key>Total Time</key><integer>363146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T11:41:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499144855</integer>
+			<key>Play Date UTC</key><date>2014-11-18T07:40:55Z</date>
+			<key>Normalization</key><integer>2147</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>719C42F323C17454</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-12%20Happiness%20Happening.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6706</key>
+		<dict>
+			<key>Track ID</key><integer>6706</integer>
+			<key>Name</key><string>I'm In Love</string>
+			<key>Artist</key><string>Starparty</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10626264</integer>
+			<key>Total Time</key><integer>301173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499145156</integer>
+			<key>Play Date UTC</key><date>2014-11-18T07:45:56Z</date>
+			<key>Normalization</key><integer>3269</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F073A55A67CFB3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-13%20I'm%20In%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6708</key>
+		<dict>
+			<key>Track ID</key><integer>6708</integer>
+			<key>Name</key><string>The Day Will Come (Quake vocal mix)</string>
+			<key>Artist</key><string>Quake Feat. Marcia Rae</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9035483</integer>
+			<key>Total Time</key><integer>274333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499145430</integer>
+			<key>Play Date UTC</key><date>2014-11-18T07:50:30Z</date>
+			<key>Normalization</key><integer>4342</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Day Will Come (Quake vocal mix)</string>
+			<key>Persistent ID</key><string>83C716EC8004A86A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-14%20The%20Day%20Will%20Come%20(Quake%20vocal%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6710</key>
+		<dict>
+			<key>Track ID</key><integer>6710</integer>
+			<key>Name</key><string>Nightmare (Sinister strings mix)</string>
+			<key>Artist</key><string>Brainbug</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11029957</integer>
+			<key>Total Time</key><integer>334920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499145765</integer>
+			<key>Play Date UTC</key><date>2014-11-18T07:56:05Z</date>
+			<key>Normalization</key><integer>1857</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A8C30AB17FC3F0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%201%5D/1-15%20Nightmare%20(Sinister%20strings%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6712</key>
+		<dict>
+			<key>Track ID</key><integer>6712</integer>
+			<key>Name</key><string>Kernkraft 400 (DJ Gius Mix)</string>
+			<key>Artist</key><string>Zombie Nation</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12651520</integer>
+			<key>Total Time</key><integer>364600</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2009-07-11T11:41:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499146130</integer>
+			<key>Play Date UTC</key><date>2014-11-18T08:02:10Z</date>
+			<key>Normalization</key><integer>1727</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3DE74223FB027A28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-01%20Kernkraft%20400%20(DJ%20Gius%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6714</key>
+		<dict>
+			<key>Track ID</key><integer>6714</integer>
+			<key>Name</key><string>Storm</string>
+			<key>Artist</key><string>Storm</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9574314</integer>
+			<key>Total Time</key><integer>274626</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499146404</integer>
+			<key>Play Date UTC</key><date>2014-11-18T08:06:44Z</date>
+			<key>Normalization</key><integer>2327</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82E95D3CB23944F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-02%20Storm.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6716</key>
+		<dict>
+			<key>Track ID</key><integer>6716</integer>
+			<key>Name</key><string>Heaven Scent</string>
+			<key>Artist</key><string>Bedrock</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>17957859</integer>
+			<key>Total Time</key><integer>542640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499146947</integer>
+			<key>Play Date UTC</key><date>2014-11-18T08:15:47Z</date>
+			<key>Normalization</key><integer>2726</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A87B0B18ABC59D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-03%20Heaven%20Scent.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6718</key>
+		<dict>
+			<key>Track ID</key><integer>6718</integer>
+			<key>Name</key><string>Satisfaction</string>
+			<key>Artist</key><string>Benny Benassi Presents The Biz</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4795946</integer>
+			<key>Total Time</key><integer>143266</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499147090</integer>
+			<key>Play Date UTC</key><date>2014-11-18T08:18:10Z</date>
+			<key>Normalization</key><integer>5052</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B9B25E229293BC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-04%20Satisfaction.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6720</key>
+		<dict>
+			<key>Track ID</key><integer>6720</integer>
+			<key>Name</key><string>Fire Wire</string>
+			<key>Artist</key><string>Cosmic Gate</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5685397</integer>
+			<key>Total Time</key><integer>170626</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499178823</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:07:03Z</date>
+			<key>Normalization</key><integer>3179</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70B9DF5FF1C90C40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-05%20Fire%20Wire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6722</key>
+		<dict>
+			<key>Track ID</key><integer>6722</integer>
+			<key>Name</key><string>Pump It Up (Gladiator Remix)</string>
+			<key>Artist</key><string>Danzel</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14400218</integer>
+			<key>Total Time</key><integer>427400</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499179250</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:14:10Z</date>
+			<key>Normalization</key><integer>5578</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D85572A34809B5C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-06%20Pump%20It%20Up%20(Gladiator%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6724</key>
+		<dict>
+			<key>Track ID</key><integer>6724</integer>
+			<key>Name</key><string>Call On Me (Filterheadz Remix)</string>
+			<key>Artist</key><string>Eric Prydz</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14361701</integer>
+			<key>Total Time</key><integer>425866</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499179676</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:21:16Z</date>
+			<key>Normalization</key><integer>2665</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E5BA63D869D7AF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-07%20Call%20On%20Me%20(Filterheadz%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6726</key>
+		<dict>
+			<key>Track ID</key><integer>6726</integer>
+			<key>Name</key><string>Loneliness</string>
+			<key>Artist</key><string>Tomcraft</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5708107</integer>
+			<key>Total Time</key><integer>163626</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499179840</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:24:00Z</date>
+			<key>Normalization</key><integer>3678</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0B1AE87D331C50EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-08%20Loneliness.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6728</key>
+		<dict>
+			<key>Track ID</key><integer>6728</integer>
+			<key>Name</key><string>Operation Blade</string>
+			<key>Artist</key><string>Public Domain</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6094233</integer>
+			<key>Total Time</key><integer>184346</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499180024</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:27:04Z</date>
+			<key>Normalization</key><integer>4504</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B364EA54EA5CCB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-09%20Operation%20Blade.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6730</key>
+		<dict>
+			<key>Track ID</key><integer>6730</integer>
+			<key>Name</key><string>Liberation [Fly Like An Angel] (Matt Darey 99 Mix)</string>
+			<key>Artist</key><string>Matt Darey &#38; Marcella Woods</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6075713</integer>
+			<key>Total Time</key><integer>184266</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499180208</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:30:08Z</date>
+			<key>Normalization</key><integer>5641</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBCF1E4204F8A6D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-10%20Liberation%20%5BFly%20Like%20An%20Angel%5D%20(Matt%20Darey%2099%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6732</key>
+		<dict>
+			<key>Track ID</key><integer>6732</integer>
+			<key>Name</key><string>Every Little Time</string>
+			<key>Artist</key><string>Onyx Feat. Gemma J</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6208160</integer>
+			<key>Total Time</key><integer>185880</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499180394</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:33:14Z</date>
+			<key>Normalization</key><integer>3930</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8DBB8E0D4230CA6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-11%20Every%20Little%20Time.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6734</key>
+		<dict>
+			<key>Track ID</key><integer>6734</integer>
+			<key>Name</key><string>You're Free</string>
+			<key>Artist</key><string>Yomanda</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6502402</integer>
+			<key>Total Time</key><integer>189373</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-07-11T04:41:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499180584</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:36:24Z</date>
+			<key>Normalization</key><integer>6156</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7343AD359473812</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-12%20You're%20Free.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6736</key>
+		<dict>
+			<key>Track ID</key><integer>6736</integer>
+			<key>Name</key><string>Gamemaster (Signum Remix)</string>
+			<key>Artist</key><string>Lost Tribe</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15136497</integer>
+			<key>Total Time</key><integer>451893</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499181036</integer>
+			<key>Play Date UTC</key><date>2014-11-18T17:43:56Z</date>
+			<key>Normalization</key><integer>3570</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8963C5A9ECFE1345</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-13%20Gamemaster%20(Signum%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6738</key>
+		<dict>
+			<key>Track ID</key><integer>6738</integer>
+			<key>Name</key><string>Invisible (Lost Tribe Vocal Mix)</string>
+			<key>Artist</key><string>Tilt</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18179185</integer>
+			<key>Total Time</key><integer>539333</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499227432</integer>
+			<key>Play Date UTC</key><date>2014-11-19T06:37:12Z</date>
+			<key>Normalization</key><integer>1943</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8D3F76394B5DADF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-14%20Invisible%20(Lost%20Tribe%20Vocal%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6740</key>
+		<dict>
+			<key>Track ID</key><integer>6740</integer>
+			<key>Name</key><string>Insane (Steve Murano Mix)</string>
+			<key>Artist</key><string>Dark Monks</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15875281</integer>
+			<key>Total Time</key><integer>458480</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499227891</integer>
+			<key>Play Date UTC</key><date>2014-11-19T06:44:51Z</date>
+			<key>Normalization</key><integer>3156</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9D16CD4C88E0CCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%202%5D/2-15%20Insane%20(Steve%20Murano%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6742</key>
+		<dict>
+			<key>Track ID</key><integer>6742</integer>
+			<key>Name</key><string>The Vision (Vision 1 Mix)</string>
+			<key>Artist</key><string>Mario Piú AKA DJ Arabesque</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6654060</integer>
+			<key>Total Time</key><integer>201520</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499228092</integer>
+			<key>Play Date UTC</key><date>2014-11-19T06:48:12Z</date>
+			<key>Normalization</key><integer>4212</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Vision (Vision 1 Mix)</string>
+			<key>Persistent ID</key><string>AB0E84A14FE47818</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-01%20The%20Vision%20(Vision%201%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6744</key>
+		<dict>
+			<key>Track ID</key><integer>6744</integer>
+			<key>Name</key><string>Cream</string>
+			<key>Artist</key><string>Blank &#38; Jones</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14836301</integer>
+			<key>Total Time</key><integer>397680</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499228490</integer>
+			<key>Play Date UTC</key><date>2014-11-19T06:54:50Z</date>
+			<key>Normalization</key><integer>2568</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9607FA3027362C65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-02%20Cream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6746</key>
+		<dict>
+			<key>Track ID</key><integer>6746</integer>
+			<key>Name</key><string>Beautiful</string>
+			<key>Artist</key><string>Matt Darey &#38; Marcella Woods</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12463962</integer>
+			<key>Total Time</key><integer>371640</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499228861</integer>
+			<key>Play Date UTC</key><date>2014-11-19T07:01:01Z</date>
+			<key>Normalization</key><integer>2875</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D0E67C58F7F9506E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-03%20Beautiful.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6748</key>
+		<dict>
+			<key>Track ID</key><integer>6748</integer>
+			<key>Name</key><string>Saltwater</string>
+			<key>Artist</key><string>Chicane</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6815435</integer>
+			<key>Total Time</key><integer>207106</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499229068</integer>
+			<key>Play Date UTC</key><date>2014-11-19T07:04:28Z</date>
+			<key>Normalization</key><integer>1600</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C36B4B5B59493F8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-04%20Saltwater.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6750</key>
+		<dict>
+			<key>Track ID</key><integer>6750</integer>
+			<key>Name</key><string>Finished Symphony</string>
+			<key>Artist</key><string>Hybrid</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6838401</integer>
+			<key>Total Time</key><integer>206906</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499259205</integer>
+			<key>Play Date UTC</key><date>2014-11-19T15:26:45Z</date>
+			<key>Normalization</key><integer>2033</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>294E3585B98861E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-05%20Finished%20Symphony.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6752</key>
+		<dict>
+			<key>Track ID</key><integer>6752</integer>
+			<key>Name</key><string>Godspeed</string>
+			<key>Artist</key><string>BT</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14141903</integer>
+			<key>Total Time</key><integer>427720</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499259633</integer>
+			<key>Play Date UTC</key><date>2014-11-19T15:33:53Z</date>
+			<key>Normalization</key><integer>2596</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9EA77DD069224BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-06%20Godspeed.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6754</key>
+		<dict>
+			<key>Track ID</key><integer>6754</integer>
+			<key>Name</key><string>Church Of Ra</string>
+			<key>Artist</key><string>Digger</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7672637</integer>
+			<key>Total Time</key><integer>233026</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499259866</integer>
+			<key>Play Date UTC</key><date>2014-11-19T15:37:46Z</date>
+			<key>Normalization</key><integer>2638</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF1FB084ABF9025D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-07%20Church%20Of%20Ra.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6756</key>
+		<dict>
+			<key>Track ID</key><integer>6756</integer>
+			<key>Name</key><string>Rapture</string>
+			<key>Artist</key><string>iiO</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13027810</integer>
+			<key>Total Time</key><integer>394413</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499260260</integer>
+			<key>Play Date UTC</key><date>2014-11-19T15:44:20Z</date>
+			<key>Normalization</key><integer>3235</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1834B361700930E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-08%20Rapture.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6758</key>
+		<dict>
+			<key>Track ID</key><integer>6758</integer>
+			<key>Name</key><string>I'm Not Going Home (Gatecrasher Vocal Mix)</string>
+			<key>Artist</key><string>Scott Bond Presents Q: Dos</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7063963</integer>
+			<key>Total Time</key><integer>213520</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499260474</integer>
+			<key>Play Date UTC</key><date>2014-11-19T15:47:54Z</date>
+			<key>Normalization</key><integer>3172</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DF76F1CE42CD187</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-09%20I'm%20Not%20Going%20Home%20(Gatecrasher%20Vocal%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6760</key>
+		<dict>
+			<key>Track ID</key><integer>6760</integer>
+			<key>Name</key><string>Red Sun Rising</string>
+			<key>Artist</key><string>Lost Witness</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14070359</integer>
+			<key>Total Time</key><integer>426093</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499317103</integer>
+			<key>Play Date UTC</key><date>2014-11-20T07:31:43Z</date>
+			<key>Normalization</key><integer>4384</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6EC9716A98490467</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-10%20Red%20Sun%20Rising.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6762</key>
+		<dict>
+			<key>Track ID</key><integer>6762</integer>
+			<key>Name</key><string>The Sun Is Shining (Down On Me) (Darren Tate Remix)</string>
+			<key>Artist</key><string>DT8 Project</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5978952</integer>
+			<key>Total Time</key><integer>182120</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499317285</integer>
+			<key>Play Date UTC</key><date>2014-11-20T07:34:45Z</date>
+			<key>Normalization</key><integer>4686</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sun Is Shining (Down On Me) (Darren Tate Remix)</string>
+			<key>Persistent ID</key><string>1DC9CFA123E05408</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-11%20The%20Sun%20Is%20Shining%20(Down%20On%20Me)%20(Darren%20Tate%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6764</key>
+		<dict>
+			<key>Track ID</key><integer>6764</integer>
+			<key>Name</key><string>Seven Cities (Stone's Atlantis Mix)</string>
+			<key>Artist</key><string>Solar Stone</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12888849</integer>
+			<key>Total Time</key><integer>389800</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499317675</integer>
+			<key>Play Date UTC</key><date>2014-11-20T07:41:15Z</date>
+			<key>Normalization</key><integer>5318</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7C8DF9AD472C31D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-12%20Seven%20Cities%20(Stone's%20Atlantis%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6766</key>
+		<dict>
+			<key>Track ID</key><integer>6766</integer>
+			<key>Name</key><string>Shine (Commie Remix)</string>
+			<key>Artist</key><string>The Space Brothers</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13052255</integer>
+			<key>Total Time</key><integer>391240</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499318066</integer>
+			<key>Play Date UTC</key><date>2014-11-20T07:47:46Z</date>
+			<key>Normalization</key><integer>4495</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Space Brothers</string>
+			<key>Persistent ID</key><string>C6E71695683753E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-13%20Shine%20(Commie%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6768</key>
+		<dict>
+			<key>Track ID</key><integer>6768</integer>
+			<key>Name</key><string>Skydive (I Feel Wonderful)</string>
+			<key>Artist</key><string>Freefall Feat. Jan Johnston</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8116102</integer>
+			<key>Total Time</key><integer>245613</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499318312</integer>
+			<key>Play Date UTC</key><date>2014-11-20T07:51:52Z</date>
+			<key>Normalization</key><integer>4591</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89E50089C5EC8045</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-14%20Skydive%20(I%20Feel%20Wonderful).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6770</key>
+		<dict>
+			<key>Track ID</key><integer>6770</integer>
+			<key>Name</key><string>Loonie Bin</string>
+			<key>Artist</key><string>Greg Churchill</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15509248</integer>
+			<key>Total Time</key><integer>466373</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499349471</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:31:11Z</date>
+			<key>Normalization</key><integer>3415</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8963F48077798566</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%203%5D/3-15%20Loonie%20Bin.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6772</key>
+		<dict>
+			<key>Track ID</key><integer>6772</integer>
+			<key>Name</key><string>If I Were You (Michael Woods remix)</string>
+			<key>Artist</key><string>Candee Jay</string>
+			<key>Composer</key><string>Candee Jay</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10761193</integer>
+			<key>Total Time</key><integer>321186</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499349792</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:36:32Z</date>
+			<key>Normalization</key><integer>3109</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD4298DCA1431D12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-01%20If%20I%20Were%20You%20(Michael%20Woods%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6774</key>
+		<dict>
+			<key>Track ID</key><integer>6774</integer>
+			<key>Name</key><string>Pitchin</string>
+			<key>Artist</key><string>Hi-Gate</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6573493</integer>
+			<key>Total Time</key><integer>198133</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499349990</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:39:50Z</date>
+			<key>Normalization</key><integer>2403</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9B372A9C82AC122</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-02%20Pitchin.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6776</key>
+		<dict>
+			<key>Track ID</key><integer>6776</integer>
+			<key>Name</key><string>Americana</string>
+			<key>Artist</key><string>Public Domain</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5867617</integer>
+			<key>Total Time</key><integer>178640</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499350169</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:42:49Z</date>
+			<key>Normalization</key><integer>3679</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9900BBFBB9003D33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-03%20Americana.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6778</key>
+		<dict>
+			<key>Track ID</key><integer>6778</integer>
+			<key>Name</key><string>Kinetic (Rhythm Masters melodic club mix)</string>
+			<key>Artist</key><string>Golden Girls</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9256080</integer>
+			<key>Total Time</key><integer>279053</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499350448</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:47:28Z</date>
+			<key>Normalization</key><integer>4527</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72B0EE613374AD36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-04%20Kinetic%20(Rhythm%20Masters%20melodic%20club%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6780</key>
+		<dict>
+			<key>Track ID</key><integer>6780</integer>
+			<key>Name</key><string>Transcend</string>
+			<key>Artist</key><string>CASCADE</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>16729299</integer>
+			<key>Total Time</key><integer>455520</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499350903</integer>
+			<key>Play Date UTC</key><date>2014-11-20T16:55:03Z</date>
+			<key>Normalization</key><integer>2443</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79BFEBD843AFB86B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-05%20Transcend.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6782</key>
+		<dict>
+			<key>Track ID</key><integer>6782</integer>
+			<key>Name</key><string>Everytime (Nalin &#38; Kane remix)</string>
+			<key>Artist</key><string>Lustral</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>17664775</integer>
+			<key>Total Time</key><integer>497173</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499351400</integer>
+			<key>Play Date UTC</key><date>2014-11-20T17:03:20Z</date>
+			<key>Normalization</key><integer>2091</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16C62763D4677C39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-06%20Everytime%20(Nalin%20&#38;%20Kane%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6784</key>
+		<dict>
+			<key>Track ID</key><integer>6784</integer>
+			<key>Name</key><string>Winter</string>
+			<key>Artist</key><string>DT8 Project Feat. Andrea Britton</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5795352</integer>
+			<key>Total Time</key><integer>176613</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499402753</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:19:13Z</date>
+			<key>Normalization</key><integer>7493</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>473AA09D69CC160D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-07%20Winter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6786</key>
+		<dict>
+			<key>Track ID</key><integer>6786</integer>
+			<key>Name</key><string>What Ya Got 4 Me (Vocal mix)</string>
+			<key>Artist</key><string>Signum</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10322133</integer>
+			<key>Total Time</key><integer>310906</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499403064</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:24:24Z</date>
+			<key>Normalization</key><integer>3548</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E06440884C3B4FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-08%20What%20Ya%20Got%204%20Me%20(Vocal%20mix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6788</key>
+		<dict>
+			<key>Track ID</key><integer>6788</integer>
+			<key>Name</key><string>Angel</string>
+			<key>Artist</key><string>Ralph Fridge</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9219913</integer>
+			<key>Total Time</key><integer>280186</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499403344</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:29:04Z</date>
+			<key>Normalization</key><integer>2150</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6FF76DBEBE5812BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-09%20Angel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6790</key>
+		<dict>
+			<key>Track ID</key><integer>6790</integer>
+			<key>Name</key><string>Warrior</string>
+			<key>Artist</key><string>Warrior</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9927996</integer>
+			<key>Total Time</key><integer>299986</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499403644</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:34:04Z</date>
+			<key>Normalization</key><integer>2766</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D31967A37674433D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-10%20Warrior.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6792</key>
+		<dict>
+			<key>Track ID</key><integer>6792</integer>
+			<key>Name</key><string>Fade</string>
+			<key>Artist</key><string>Ambassador</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11991606</integer>
+			<key>Total Time</key><integer>333253</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-07-11T11:42:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499403977</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:39:37Z</date>
+			<key>Normalization</key><integer>2126</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32A0CA63036B9C7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-11%20Fade.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6794</key>
+		<dict>
+			<key>Track ID</key><integer>6794</integer>
+			<key>Name</key><string>Bulgarian (Signum remix)</string>
+			<key>Artist</key><string>Travel</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11626211</integer>
+			<key>Total Time</key><integer>351066</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499404328</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:45:28Z</date>
+			<key>Normalization</key><integer>3604</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B6167A2146D905B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-12%20Bulgarian%20(Signum%20remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6796</key>
+		<dict>
+			<key>Track ID</key><integer>6796</integer>
+			<key>Name</key><string>Iron Eden</string>
+			<key>Artist</key><string>Y. Gates</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14430392</integer>
+			<key>Total Time</key><integer>396546</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499404725</integer>
+			<key>Play Date UTC</key><date>2014-11-21T07:52:05Z</date>
+			<key>Normalization</key><integer>2909</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02CB8B397AF66AEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-13%20Iron%20Eden.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6798</key>
+		<dict>
+			<key>Track ID</key><integer>6798</integer>
+			<key>Name</key><string>Lesser Meaning</string>
+			<key>Artist</key><string>Greg Churchill</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13243571</integer>
+			<key>Total Time</key><integer>401973</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1370</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D317EC351FA0FF98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-14%20Lesser%20Meaning.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6800</key>
+		<dict>
+			<key>Track ID</key><integer>6800</integer>
+			<key>Name</key><string>Cry Little Sister</string>
+			<key>Artist</key><string>The Lost Brothers Feat. G Tom Mac</string>
+			<key>Album</key><string>No.1 Trance Classics [Disc 4]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5216975</integer>
+			<key>Total Time</key><integer>159680</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-07-11T04:42:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4414</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Lost Brothers Feat. G Tom Mac</string>
+			<key>Persistent ID</key><string>182BEDEBEDF592E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/No.1%20Trance%20Classics%20%5BDisc%204%5D/4-15%20Cry%20Little%20Sister.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7558</key>
+		<dict>
+			<key>Track ID</key><integer>7558</integer>
+			<key>Name</key><string>Tiesto</string>
+			<key>Artist</key><string>Adagio For Strings</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3325742</integer>
+			<key>Total Time</key><integer>205933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498236753</integer>
+			<key>Play Date UTC</key><date>2014-11-07T19:25:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-06-16T17:46:10Z</date>
+			<key>Normalization</key><integer>2182</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>D1D0CB2256E2B7CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-01%20Tiesto.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7560</key>
+		<dict>
+			<key>Track ID</key><integer>7560</integer>
+			<key>Name</key><string>Ronski Speed</string>
+			<key>Artist</key><string>2day</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7528859</integer>
+			<key>Total Time</key><integer>459866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498237213</integer>
+			<key>Play Date UTC</key><date>2014-11-07T19:33:33Z</date>
+			<key>Normalization</key><integer>1895</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>386A70682A886BDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-02%20Ronski%20Speed.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7562</key>
+		<dict>
+			<key>Track ID</key><integer>7562</integer>
+			<key>Name</key><string>Divine &#38; Sincere</string>
+			<key>Artist</key><string>Reaching Out</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9071686</integer>
+			<key>Total Time</key><integer>566920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498242443</integer>
+			<key>Play Date UTC</key><date>2014-11-07T21:00:43Z</date>
+			<key>Normalization</key><integer>1319</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>DE237FE86B23AEA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-03%20Divine%20&#38;%20Sincere.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7564</key>
+		<dict>
+			<key>Track ID</key><integer>7564</integer>
+			<key>Name</key><string>4Strings</string>
+			<key>Artist</key><string>Until You Love Me</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3529122</integer>
+			<key>Total Time</key><integer>215973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-04T02:49:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498242659</integer>
+			<key>Play Date UTC</key><date>2014-11-07T21:04:19Z</date>
+			<key>Normalization</key><integer>2489</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>2A98B3D16CAE79CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-04%204Strings.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7566</key>
+		<dict>
+			<key>Track ID</key><integer>7566</integer>
+			<key>Name</key><string>Niels Van Gogh</string>
+			<key>Artist</key><string>Bombs Away</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3782976</integer>
+			<key>Total Time</key><integer>236493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498242896</integer>
+			<key>Play Date UTC</key><date>2014-11-07T21:08:16Z</date>
+			<key>Normalization</key><integer>2309</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>FC2DF1012B2D0ADA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-05%20Niels%20Van%20Gogh.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7568</key>
+		<dict>
+			<key>Track ID</key><integer>7568</integer>
+			<key>Name</key><string>Pulsedriver</string>
+			<key>Artist</key><string>Vengabonds</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6038075</integer>
+			<key>Total Time</key><integer>380893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498243277</integer>
+			<key>Play Date UTC</key><date>2014-11-07T21:14:37Z</date>
+			<key>Normalization</key><integer>2661</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>76BE69DB6092C6CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-06%20Pulsedriver.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7570</key>
+		<dict>
+			<key>Track ID</key><integer>7570</integer>
+			<key>Name</key><string>Rocco</string>
+			<key>Artist</key><string>Counting The Days</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5321734</integer>
+			<key>Total Time</key><integer>329520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498626703</integer>
+			<key>Play Date UTC</key><date>2014-11-12T07:45:03Z</date>
+			<key>Normalization</key><integer>2233</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>B1DB61F8B8F4CF21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-07%20Rocco.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7572</key>
+		<dict>
+			<key>Track ID</key><integer>7572</integer>
+			<key>Name</key><string>CJ Stone Featuring Rename</string>
+			<key>Artist</key><string>Call My Name</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5281650</integer>
+			<key>Total Time</key><integer>324386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498627027</integer>
+			<key>Play Date UTC</key><date>2014-11-12T07:50:27Z</date>
+			<key>Normalization</key><integer>2813</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>C932297C2ADF0613</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-08%20CJ%20Stone%20Featuring%20Rename.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7574</key>
+		<dict>
+			<key>Track ID</key><integer>7574</integer>
+			<key>Name</key><string>OHM Boys</string>
+			<key>Artist</key><string>Down Under (Atlantis)</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8047227</integer>
+			<key>Total Time</key><integer>488933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498627516</integer>
+			<key>Play Date UTC</key><date>2014-11-12T07:58:36Z</date>
+			<key>Normalization</key><integer>3969</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>FB6541696CF979D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-09%20OHM%20Boys.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7576</key>
+		<dict>
+			<key>Track ID</key><integer>7576</integer>
+			<key>Name</key><string>Nebular B</string>
+			<key>Artist</key><string>Liquid</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6651575</integer>
+			<key>Total Time</key><integer>401920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-04T02:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498627918</integer>
+			<key>Play Date UTC</key><date>2014-11-12T08:05:18Z</date>
+			<key>Normalization</key><integer>2822</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>9773BE1C74BC4D15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-10%20Nebular%20B.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7578</key>
+		<dict>
+			<key>Track ID</key><integer>7578</integer>
+			<key>Name</key><string>Funky Boyz</string>
+			<key>Artist</key><string>Why Can´t We Live Together</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5160795</integer>
+			<key>Total Time</key><integer>323880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498628242</integer>
+			<key>Play Date UTC</key><date>2014-11-12T08:10:42Z</date>
+			<key>Normalization</key><integer>2098</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>CED07BDE3D40A307</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-11%20Funky%20Boyz.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7580</key>
+		<dict>
+			<key>Track ID</key><integer>7580</integer>
+			<key>Name</key><string>Florida INC.</string>
+			<key>Artist</key><string>Let Me Love You</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2971424</integer>
+			<key>Total Time</key><integer>181840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498628424</integer>
+			<key>Play Date UTC</key><date>2014-11-12T08:13:44Z</date>
+			<key>Normalization</key><integer>2241</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>04DC57244F842F2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-12%20Florida%20INC..m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7582</key>
+		<dict>
+			<key>Track ID</key><integer>7582</integer>
+			<key>Name</key><string>Kyau Vs. Albert</string>
+			<key>Artist</key><string>Nothern Star</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7190473</integer>
+			<key>Total Time</key><integer>435666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498664290</integer>
+			<key>Play Date UTC</key><date>2014-11-12T18:11:30Z</date>
+			<key>Normalization</key><integer>3258</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 1]</string>
+			<key>Persistent ID</key><string>1A20CC8EEEF7B400</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%201%5D/1-13%20Kyau%20Vs.%20Albert.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7584</key>
+		<dict>
+			<key>Track ID</key><integer>7584</integer>
+			<key>Name</key><string>Belive In Me</string>
+			<key>Artist</key><string>ATB</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3205094</integer>
+			<key>Total Time</key><integer>195773</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498664486</integer>
+			<key>Play Date UTC</key><date>2014-11-12T18:14:46Z</date>
+			<key>Normalization</key><integer>4105</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>AFABF775FD5BA62C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-01%20Belive%20In%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7586</key>
+		<dict>
+			<key>Track ID</key><integer>7586</integer>
+			<key>Name</key><string>Every Single Day</string>
+			<key>Artist</key><string>DJ Jean</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5698271</integer>
+			<key>Total Time</key><integer>344600</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498664831</integer>
+			<key>Play Date UTC</key><date>2014-11-12T18:20:31Z</date>
+			<key>Normalization</key><integer>1712</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>3F75A6D283CE8E8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-02%20Every%20Single%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7588</key>
+		<dict>
+			<key>Track ID</key><integer>7588</integer>
+			<key>Name</key><string>Beauty &#38; The Beast</string>
+			<key>Artist</key><string>Symbios</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3682988</integer>
+			<key>Total Time</key><integer>227440</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-04T02:49:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498665058</integer>
+			<key>Play Date UTC</key><date>2014-11-12T18:24:18Z</date>
+			<key>Normalization</key><integer>1996</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>A50561D5DC4E4DDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-03%20Beauty%20&#38;%20The%20Beast.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7590</key>
+		<dict>
+			<key>Track ID</key><integer>7590</integer>
+			<key>Name</key><string>On My Own</string>
+			<key>Artist</key><string>DJ Dag Project</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6013222</integer>
+			<key>Total Time</key><integer>376653</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498665435</integer>
+			<key>Play Date UTC</key><date>2014-11-12T18:30:35Z</date>
+			<key>Normalization</key><integer>1763</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>53A5D4B4C2EDDD33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-04%20On%20My%20Own.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7592</key>
+		<dict>
+			<key>Track ID</key><integer>7592</integer>
+			<key>Name</key><string>Iceflowers</string>
+			<key>Artist</key><string>York Feat. Angelina</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6983990</integer>
+			<key>Total Time</key><integer>426546</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498745277</integer>
+			<key>Play Date UTC</key><date>2014-11-13T16:41:17Z</date>
+			<key>Normalization</key><integer>2686</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>E5B311255049EF2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-05%20Iceflowers.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7594</key>
+		<dict>
+			<key>Track ID</key><integer>7594</integer>
+			<key>Name</key><string>Molecules</string>
+			<key>Artist</key><string>JMK</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3728530</integer>
+			<key>Total Time</key><integer>233453</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498745510</integer>
+			<key>Play Date UTC</key><date>2014-11-13T16:45:10Z</date>
+			<key>Normalization</key><integer>2683</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>6A06CFBBF0A6AE15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-06%20Molecules.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7596</key>
+		<dict>
+			<key>Track ID</key><integer>7596</integer>
+			<key>Name</key><string>Amnesia</string>
+			<key>Artist</key><string>Beat Control</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3420168</integer>
+			<key>Total Time</key><integer>213520</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498745724</integer>
+			<key>Play Date UTC</key><date>2014-11-13T16:48:44Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>AAEBF4F52E5821B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-07%20Amnesia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7598</key>
+		<dict>
+			<key>Track ID</key><integer>7598</integer>
+			<key>Name</key><string>Cry Little Sister</string>
+			<key>Artist</key><string>The Lost Brothers Feat. G Tom Mac</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7933355</integer>
+			<key>Total Time</key><integer>499893</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498746223</integer>
+			<key>Play Date UTC</key><date>2014-11-13T16:57:03Z</date>
+			<key>Normalization</key><integer>5045</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Sort Artist</key><string>Lost Brothers Feat. G Tom Mac</string>
+			<key>Persistent ID</key><string>E71962C7EA67EF40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-08%20Cry%20Little%20Sister.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7600</key>
+		<dict>
+			<key>Track ID</key><integer>7600</integer>
+			<key>Name</key><string>Feelings</string>
+			<key>Artist</key><string>Clokx</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3362344</integer>
+			<key>Total Time</key><integer>208946</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498746432</integer>
+			<key>Play Date UTC</key><date>2014-11-13T17:00:32Z</date>
+			<key>Normalization</key><integer>4548</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>70C55C3FACAD14D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-09%20Feelings.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7602</key>
+		<dict>
+			<key>Track ID</key><integer>7602</integer>
+			<key>Name</key><string>From Here To Nowhere</string>
+			<key>Artist</key><string>Plastic Boy</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9214553</integer>
+			<key>Total Time</key><integer>558866</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498797053</integer>
+			<key>Play Date UTC</key><date>2014-11-14T07:04:13Z</date>
+			<key>Normalization</key><integer>1907</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>4CF2A248AC798775</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-10%20From%20Here%20To%20Nowhere.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7604</key>
+		<dict>
+			<key>Track ID</key><integer>7604</integer>
+			<key>Name</key><string>Leave 2 Day</string>
+			<key>Artist</key><string>Ole Van Dansk</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3406815</integer>
+			<key>Total Time</key><integer>214360</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498797268</integer>
+			<key>Play Date UTC</key><date>2014-11-14T07:07:48Z</date>
+			<key>Normalization</key><integer>3175</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>07407EC7F46CBF8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-11%20Leave%202%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7606</key>
+		<dict>
+			<key>Track ID</key><integer>7606</integer>
+			<key>Name</key><string>Where Is The Love</string>
+			<key>Artist</key><string>Di Fumetti</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6004868</integer>
+			<key>Total Time</key><integer>378546</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498797646</integer>
+			<key>Play Date UTC</key><date>2014-11-14T07:14:06Z</date>
+			<key>Normalization</key><integer>3070</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>F305513672D4F9E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-12%20Where%20Is%20The%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7608</key>
+		<dict>
+			<key>Track ID</key><integer>7608</integer>
+			<key>Name</key><string>Lyteo</string>
+			<key>Artist</key><string>Mr. Sam</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5962814</integer>
+			<key>Total Time</key><integer>373333</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498798020</integer>
+			<key>Play Date UTC</key><date>2014-11-14T07:20:20Z</date>
+			<key>Normalization</key><integer>1492</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 2]</string>
+			<key>Persistent ID</key><string>67DEA06219A416C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%202%5D/2-13%20Lyteo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7610</key>
+		<dict>
+			<key>Track ID</key><integer>7610</integer>
+			<key>Name</key><string>All That I Feel</string>
+			<key>Artist</key><string>DJ Tatana</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3085603</integer>
+			<key>Total Time</key><integer>192946</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498798213</integer>
+			<key>Play Date UTC</key><date>2014-11-14T07:23:33Z</date>
+			<key>Normalization</key><integer>5049</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>4DABFA133B214B47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-01%20All%20That%20I%20Feel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7612</key>
+		<dict>
+			<key>Track ID</key><integer>7612</integer>
+			<key>Name</key><string>Summer Solstice</string>
+			<key>Artist</key><string>Marcos</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7743926</integer>
+			<key>Total Time</key><integer>482880</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498833057</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:04:17Z</date>
+			<key>Normalization</key><integer>2796</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>26108E834AC60142</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-02%20Summer%20Solstice.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7614</key>
+		<dict>
+			<key>Track ID</key><integer>7614</integer>
+			<key>Name</key><string>Born Slippy</string>
+			<key>Artist</key><string>Yves Dereuyter</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3491794</integer>
+			<key>Total Time</key><integer>214906</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498833272</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:07:52Z</date>
+			<key>Normalization</key><integer>3438</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>6206C99CB9C47C2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-03%20Born%20Slippy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7616</key>
+		<dict>
+			<key>Track ID</key><integer>7616</integer>
+			<key>Name</key><string>Pathfinder</string>
+			<key>Artist</key><string>Positron</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7089861</integer>
+			<key>Total Time</key><integer>444320</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498833716</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:15:16Z</date>
+			<key>Normalization</key><integer>4666</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>401C3DF923A86909</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-04%20Pathfinder.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7618</key>
+		<dict>
+			<key>Track ID</key><integer>7618</integer>
+			<key>Name</key><string>Wellfare</string>
+			<key>Artist</key><string>Gigi D'Agostino</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2715079</integer>
+			<key>Total Time</key><integer>169560</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498833886</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:18:06Z</date>
+			<key>Normalization</key><integer>4896</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>27E3FE002BFBDD85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-05%20Wellfare.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7620</key>
+		<dict>
+			<key>Track ID</key><integer>7620</integer>
+			<key>Name</key><string>Guarana</string>
+			<key>Artist</key><string>Marc Marberg</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5952180</integer>
+			<key>Total Time</key><integer>364853</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498834251</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:24:11Z</date>
+			<key>Normalization</key><integer>2805</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>2B5174CFC9AB886E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-06%20Guarana.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7622</key>
+		<dict>
+			<key>Track ID</key><integer>7622</integer>
+			<key>Name</key><string>Strap Me Down</string>
+			<key>Artist</key><string>Vengeance</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6438960</integer>
+			<key>Total Time</key><integer>403746</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498834654</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:30:54Z</date>
+			<key>Normalization</key><integer>4217</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>DA39FEB3C9896B53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-07%20Strap%20Me%20Down.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7624</key>
+		<dict>
+			<key>Track ID</key><integer>7624</integer>
+			<key>Name</key><string>Making Me Fall</string>
+			<key>Artist</key><string>Aven</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3400298</integer>
+			<key>Total Time</key><integer>212773</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498834867</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:34:27Z</date>
+			<key>Normalization</key><integer>1895</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>A151ED9498023259</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-08%20Making%20Me%20Fall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7626</key>
+		<dict>
+			<key>Track ID</key><integer>7626</integer>
+			<key>Name</key><string>True Faith</string>
+			<key>Artist</key><string>The Orders</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3485313</integer>
+			<key>Total Time</key><integer>217880</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498835085</integer>
+			<key>Play Date UTC</key><date>2014-11-14T17:38:05Z</date>
+			<key>Normalization</key><integer>2997</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Sort Artist</key><string>Orders</string>
+			<key>Persistent ID</key><string>FB9F3F10767F0F06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-09%20True%20Faith.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7628</key>
+		<dict>
+			<key>Track ID</key><integer>7628</integer>
+			<key>Name</key><string>Wonderland</string>
+			<key>Artist</key><string>The M Train</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5412161</integer>
+			<key>Total Time</key><integer>339786</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3499058409</integer>
+			<key>Play Date UTC</key><date>2014-11-17T07:40:09Z</date>
+			<key>Normalization</key><integer>4038</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Sort Artist</key><string>M Train</string>
+			<key>Persistent ID</key><string>F8FAA777069D08E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-10%20Wonderland.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7630</key>
+		<dict>
+			<key>Track ID</key><integer>7630</integer>
+			<key>Name</key><string>Neuro</string>
+			<key>Artist</key><string>X-Cabs Vs. Riddler &#38; Headvrusher</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5162785</integer>
+			<key>Total Time</key><integer>323720</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3499058733</integer>
+			<key>Play Date UTC</key><date>2014-11-17T07:45:33Z</date>
+			<key>Normalization</key><integer>2438</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>47CD988210AEAFE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-11%20Neuro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7632</key>
+		<dict>
+			<key>Track ID</key><integer>7632</integer>
+			<key>Name</key><string>Estatica</string>
+			<key>Artist</key><string>A.C.</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6832762</integer>
+			<key>Total Time</key><integer>419800</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3499059152</integer>
+			<key>Play Date UTC</key><date>2014-11-17T07:52:32Z</date>
+			<key>Normalization</key><integer>2721</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>6B8EB2B8A2CAF03E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-12%20Estatica.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7634</key>
+		<dict>
+			<key>Track ID</key><integer>7634</integer>
+			<key>Name</key><string>Cybertrance</string>
+			<key>Artist</key><string>Blue Alphabet</string>
+			<key>Album</key><string>The Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5280657</integer>
+			<key>Total Time</key><integer>319666</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-03-03T19:49:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3499059472</integer>
+			<key>Play Date UTC</key><date>2014-11-17T07:57:52Z</date>
+			<key>Normalization</key><integer>1884</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In Trance Chapter 3 [Disc 3]</string>
+			<key>Persistent ID</key><string>E5257A6993AD1B33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/The%20Best%20In%20Trance%20Chapter%203%20%5BDisc%203%5D/3-13%20Cybertrance.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best In Trance</string>
+			<key>Playlist ID</key><integer>33998</integer>
+			<key>Playlist Persistent ID</key><string>B34DE0D711BE4CBE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7614</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6684</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6694</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6698</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6700</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6710</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6714</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6726</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6728</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6766</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6772</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6778</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6780</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6786</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6788</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6790</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6800</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:23:19Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3410</key>
+		<dict>
+			<key>Track ID</key><integer>3410</integer>
+			<key>Name</key><string>Hells Bells</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5033362</integer>
+			<key>Total Time</key><integer>312400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484838388</integer>
+			<key>Play Date UTC</key><date>2014-06-05T17:39:48Z</date>
+			<key>Normalization</key><integer>7409</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>195CBB4462755075</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/01%20Hells%20Bells.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3412</key>
+		<dict>
+			<key>Track ID</key><integer>3412</integer>
+			<key>Name</key><string>Shoot To Thrill</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5231379</integer>
+			<key>Total Time</key><integer>317426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484839607</integer>
+			<key>Play Date UTC</key><date>2014-06-05T18:00:07Z</date>
+			<key>Normalization</key><integer>8153</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>744B12CD5D26D515</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/02%20Shoot%20To%20Thrill.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3414</key>
+		<dict>
+			<key>Track ID</key><integer>3414</integer>
+			<key>Name</key><string>What Do You Do For Money Honey</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3573390</integer>
+			<key>Total Time</key><integer>215573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-14T04:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484839823</integer>
+			<key>Play Date UTC</key><date>2014-06-05T18:03:43Z</date>
+			<key>Normalization</key><integer>9487</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB095F05F71C5B42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/03%20What%20Do%20You%20Do%20For%20Money%20Honey.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3416</key>
+		<dict>
+			<key>Track ID</key><integer>3416</integer>
+			<key>Name</key><string>Givin' The Dog A Bone</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3424179</integer>
+			<key>Total Time</key><integer>211760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484840034</integer>
+			<key>Play Date UTC</key><date>2014-06-05T18:07:14Z</date>
+			<key>Normalization</key><integer>9998</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21C6397F033EC07E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/04%20Givin'%20The%20Dog%20A%20Bone.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3418</key>
+		<dict>
+			<key>Track ID</key><integer>3418</integer>
+			<key>Name</key><string>Let Me Put My Love Into You</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4182817</integer>
+			<key>Total Time</key><integer>255306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484840290</integer>
+			<key>Play Date UTC</key><date>2014-06-05T18:11:30Z</date>
+			<key>Normalization</key><integer>9809</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60AC0536BA71C47E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/05%20Let%20Me%20Put%20My%20Love%20Into%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3420</key>
+		<dict>
+			<key>Track ID</key><integer>3420</integer>
+			<key>Name</key><string>Back In Black</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4243326</integer>
+			<key>Total Time</key><integer>255626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484883840</integer>
+			<key>Play Date UTC</key><date>2014-06-06T06:17:20Z</date>
+			<key>Normalization</key><integer>8068</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E5AF947BDA1E646E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/06%20Back%20In%20Black.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3422</key>
+		<dict>
+			<key>Track ID</key><integer>3422</integer>
+			<key>Name</key><string>You Shook Me All Night Long</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3482491</integer>
+			<key>Total Time</key><integer>210200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484884050</integer>
+			<key>Play Date UTC</key><date>2014-06-06T06:20:50Z</date>
+			<key>Normalization</key><integer>8402</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A26CD1DDBD67730</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/07%20You%20Shook%20Me%20All%20Night%20Long.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3424</key>
+		<dict>
+			<key>Track ID</key><integer>3424</integer>
+			<key>Name</key><string>Have A Drink On Me</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3894625</integer>
+			<key>Total Time</key><integer>238466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484884288</integer>
+			<key>Play Date UTC</key><date>2014-06-06T06:24:48Z</date>
+			<key>Normalization</key><integer>8525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EDB826EE02D2DB17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/08%20Have%20A%20Drink%20On%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3426</key>
+		<dict>
+			<key>Track ID</key><integer>3426</integer>
+			<key>Name</key><string>Shake A Leg</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3977797</integer>
+			<key>Total Time</key><integer>245666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484884534</integer>
+			<key>Play Date UTC</key><date>2014-06-06T06:28:54Z</date>
+			<key>Normalization</key><integer>9676</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AEF98FF2AC2EEDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/09%20Shake%20A%20Leg.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3428</key>
+		<dict>
+			<key>Track ID</key><integer>3428</integer>
+			<key>Name</key><string>Rock And Roll Ain't Noise Pollution</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4160184</integer>
+			<key>Total Time</key><integer>266040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>BPM</key><integer>192</integer>
+			<key>Date Modified</key><date>2008-04-13T21:04:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484884800</integer>
+			<key>Play Date UTC</key><date>2014-06-06T06:33:20Z</date>
+			<key>Normalization</key><integer>6781</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCAAAE57F165D7F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Back%20In%20Black/10%20Rock%20And%20Roll%20Ain't%20Noise%20Pollution.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3430</key>
+		<dict>
+			<key>Track ID</key><integer>3430</integer>
+			<key>Name</key><string>Rock 'N Roll Train</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4190609</integer>
+			<key>Total Time</key><integer>261506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508166296</integer>
+			<key>Play Date UTC</key><date>2015-03-02T17:38:16Z</date>
+			<key>Normalization</key><integer>16584</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9E6869B42914AE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/01%20Rock%20'N%20Roll%20Train.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3432</key>
+		<dict>
+			<key>Track ID</key><integer>3432</integer>
+			<key>Name</key><string>Skies On Fire</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3439718</integer>
+			<key>Total Time</key><integer>214173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508166511</integer>
+			<key>Play Date UTC</key><date>2015-03-02T17:41:51Z</date>
+			<key>Normalization</key><integer>11953</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF02DA7E9F3FAEC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/02%20Skies%20On%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3434</key>
+		<dict>
+			<key>Track ID</key><integer>3434</integer>
+			<key>Name</key><string>Big Jack</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3800854</integer>
+			<key>Total Time</key><integer>237066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508166748</integer>
+			<key>Play Date UTC</key><date>2015-03-02T17:45:48Z</date>
+			<key>Normalization</key><integer>13803</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B230905966F1649C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/03%20Big%20Jack.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3436</key>
+		<dict>
+			<key>Track ID</key><integer>3436</integer>
+			<key>Name</key><string>Anything Goes</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3292012</integer>
+			<key>Total Time</key><integer>202160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3508166950</integer>
+			<key>Play Date UTC</key><date>2015-03-02T17:49:10Z</date>
+			<key>Normalization</key><integer>15388</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B0EC1FDDE7C23F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/04%20Anything%20Goes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3438</key>
+		<dict>
+			<key>Track ID</key><integer>3438</integer>
+			<key>Name</key><string>War Machine</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3057241</integer>
+			<key>Total Time</key><integer>189786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484926975</integer>
+			<key>Play Date UTC</key><date>2014-06-06T18:16:15Z</date>
+			<key>Normalization</key><integer>7448</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2884893A882BCBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/05%20War%20Machine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3440</key>
+		<dict>
+			<key>Track ID</key><integer>3440</integer>
+			<key>Name</key><string>Smash 'N Grab</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4003366</integer>
+			<key>Total Time</key><integer>246413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9574</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87727C84533BEA1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/06%20Smash%20'N%20Grab.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3442</key>
+		<dict>
+			<key>Track ID</key><integer>3442</integer>
+			<key>Name</key><string>Spoilin' For A Fight</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3215642</integer>
+			<key>Total Time</key><integer>197080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>10649</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A031BC2216BD8B85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/07%20Spoilin'%20For%20A%20Fight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3444</key>
+		<dict>
+			<key>Track ID</key><integer>3444</integer>
+			<key>Name</key><string>Wheels</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3345873</integer>
+			<key>Total Time</key><integer>208493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>12517</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E0CAE883BEB24FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/08%20Wheels.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3446</key>
+		<dict>
+			<key>Track ID</key><integer>3446</integer>
+			<key>Name</key><string>Decibel</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3458639</integer>
+			<key>Total Time</key><integer>213880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:05:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8968</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7410375C31F992BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/09%20Decibel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3448</key>
+		<dict>
+			<key>Track ID</key><integer>3448</integer>
+			<key>Name</key><string>Stormy May Day</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3094718</integer>
+			<key>Total Time</key><integer>190213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8302</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BBE5C27A5EACD16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/10%20Stormy%20May%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3450</key>
+		<dict>
+			<key>Track ID</key><integer>3450</integer>
+			<key>Name</key><string>She Likes Rock 'N Roll</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Malcolm</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3787557</integer>
+			<key>Total Time</key><integer>232946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>10952</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14BFB9167D454004</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/11%20She%20Likes%20Rock%20'N%20Roll.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3452</key>
+		<dict>
+			<key>Track ID</key><integer>3452</integer>
+			<key>Name</key><string>Money Made</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Angus</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4209616</integer>
+			<key>Total Time</key><integer>255453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9063</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AF29398AE057BAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/12%20Money%20Made.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3454</key>
+		<dict>
+			<key>Track ID</key><integer>3454</integer>
+			<key>Name</key><string>Rock 'N Roll Dream</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Angus</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4659395</integer>
+			<key>Total Time</key><integer>280906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6796</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADFC63206293B011</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/13%20Rock%20'N%20Roll%20Dream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3456</key>
+		<dict>
+			<key>Track ID</key><integer>3456</integer>
+			<key>Name</key><string>Rocking All The Way</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Angus</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3251280</integer>
+			<key>Total Time</key><integer>202493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8328</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19B93A78747EF789</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/14%20Rocking%20All%20The%20Way.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3458</key>
+		<dict>
+			<key>Track ID</key><integer>3458</integer>
+			<key>Name</key><string>Black Ice</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Young, Angus</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3283645</integer>
+			<key>Total Time</key><integer>205106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-12-21T03:06:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9432</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>62FAC1206F31DA46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/AC_DC/Black%20Ice/15%20Black%20Ice.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4894</key>
+		<dict>
+			<key>Track ID</key><integer>4894</integer>
+			<key>Name</key><string>Thunderstruck [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>AC/Angus Young/Malcolm Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6498898</integer>
+			<key>Total Time</key><integer>395226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3529952547</integer>
+			<key>Play Date UTC</key><date>2015-11-09T21:22:27Z</date>
+			<key>Normalization</key><integer>7470</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF5E79160FF32DC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-01%20Thunderstruck%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4896</key>
+		<dict>
+			<key>Track ID</key><integer>4896</integer>
+			<key>Name</key><string>Shoot To Thrill [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson/AC</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5304531</integer>
+			<key>Total Time</key><integer>322800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3529952875</integer>
+			<key>Play Date UTC</key><date>2015-11-09T21:27:55Z</date>
+			<key>Normalization</key><integer>14592</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2BFFE80F304765E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-02%20Shoot%20To%20Thrill%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4898</key>
+		<dict>
+			<key>Track ID</key><integer>4898</integer>
+			<key>Name</key><string>Back In Black [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>AC/Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4322755</integer>
+			<key>Total Time</key><integer>268066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507811260</integer>
+			<key>Play Date UTC</key><date>2015-02-26T15:01:00Z</date>
+			<key>Normalization</key><integer>12550</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44DCE7D438A03513</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-03%20Back%20In%20Black%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4900</key>
+		<dict>
+			<key>Track ID</key><integer>4900</integer>
+			<key>Name</key><string>Sin City [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>AC/B. Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5645141</integer>
+			<key>Total Time</key><integer>340666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507817276</integer>
+			<key>Play Date UTC</key><date>2015-02-26T16:41:16Z</date>
+			<key>Normalization</key><integer>10138</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75F15EA34810D47F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-04%20Sin%20City%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4902</key>
+		<dict>
+			<key>Track ID</key><integer>4902</integer>
+			<key>Name</key><string>Who Made Who [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson/AC</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5229354</integer>
+			<key>Total Time</key><integer>315733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507817591</integer>
+			<key>Play Date UTC</key><date>2015-02-26T16:46:31Z</date>
+			<key>Normalization</key><integer>9037</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2375FD615F388E57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-05%20Who%20Made%20Who%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4904</key>
+		<dict>
+			<key>Track ID</key><integer>4904</integer>
+			<key>Name</key><string>Heatseeker [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>AC/Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3594510</integer>
+			<key>Total Time</key><integer>217066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507817808</integer>
+			<key>Play Date UTC</key><date>2015-02-26T16:50:08Z</date>
+			<key>Normalization</key><integer>14123</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98D905377C07F65E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-06%20Heatseeker%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4906</key>
+		<dict>
+			<key>Track ID</key><integer>4906</integer>
+			<key>Name</key><string>Fire Your Guns [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Malcolm Young/AC/Angus Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3597958</integer>
+			<key>Total Time</key><integer>220866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3507818029</integer>
+			<key>Play Date UTC</key><date>2015-02-26T16:53:49Z</date>
+			<key>Normalization</key><integer>12353</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80382EB989ECB167</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-07%20Fire%20Your%20Guns%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4908</key>
+		<dict>
+			<key>Track ID</key><integer>4908</integer>
+			<key>Name</key><string>Jailbreak [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>B. Scott/AC</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14532505</integer>
+			<key>Total Time</key><integer>883066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8364</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF7F6704E2B87FF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-08%20Jailbreak%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4910</key>
+		<dict>
+			<key>Track ID</key><integer>4910</integer>
+			<key>Name</key><string>The Jack [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>AC/B. Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6791172</integer>
+			<key>Total Time</key><integer>417640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6121</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Jack [Live]</string>
+			<key>Persistent ID</key><string>7913C4987B28ACA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-09%20The%20Jack%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4912</key>
+		<dict>
+			<key>Track ID</key><integer>4912</integer>
+			<key>Name</key><string>The Razors Edge [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young/AC/Malcolm Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4534642</integer>
+			<key>Total Time</key><integer>275466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13107</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Razors Edge [Live]</string>
+			<key>Persistent ID</key><string>CF4A3FF65A01962C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-10%20The%20Razors%20Edge%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4914</key>
+		<dict>
+			<key>Track ID</key><integer>4914</integer>
+			<key>Name</key><string>Dirty Deeds Done Dirt Cheap [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>B. Scott/AC</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4939039</integer>
+			<key>Total Time</key><integer>302826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>11903</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3EB6FA90297E2C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-11%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4916</key>
+		<dict>
+			<key>Track ID</key><integer>4916</integer>
+			<key>Name</key><string>Moneytalks [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Malcolm Young/Angus Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 1]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4267833</integer>
+			<key>Total Time</key><integer>269840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>12110</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BDB781459010F41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%201%5D/1-12%20Moneytalks%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4918</key>
+		<dict>
+			<key>Track ID</key><integer>4918</integer>
+			<key>Name</key><string>Hells Bells [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5971070</integer>
+			<key>Total Time</key><integer>361293</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>17809</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4AB84F81FE7A044A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-01%20Hells%20Bells%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4920</key>
+		<dict>
+			<key>Track ID</key><integer>4920</integer>
+			<key>Name</key><string>Are You Ready [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4463295</integer>
+			<key>Total Time</key><integer>274106</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>21448</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80EE7300305AFF1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-02%20Are%20You%20Ready%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4922</key>
+		<dict>
+			<key>Track ID</key><integer>4922</integer>
+			<key>Name</key><string>That's The Way I Wanna Rock N Roll [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3915085</integer>
+			<key>Total Time</key><integer>237293</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13514</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEDA10EB9A348C0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-03%20That's%20The%20Way%20I%20Wanna%20Rock%20N%20Roll%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4924</key>
+		<dict>
+			<key>Track ID</key><integer>4924</integer>
+			<key>Name</key><string>High Voltage [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Bon Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10455272</integer>
+			<key>Total Time</key><integer>633133</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>14226</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3C1A5C3FA94A7F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-04%20High%20Voltage%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4926</key>
+		<dict>
+			<key>Track ID</key><integer>4926</integer>
+			<key>Name</key><string>You Shook Me All Night Long [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3842744</integer>
+			<key>Total Time</key><integer>234800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>12464</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13AD648B4CDE55E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-05%20You%20Shook%20Me%20All%20Night%20Long%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4928</key>
+		<dict>
+			<key>Track ID</key><integer>4928</integer>
+			<key>Name</key><string>Whole Lotta Rosie [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Bon Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4450956</integer>
+			<key>Total Time</key><integer>270800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>11053</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0CB4D7DEE68BC8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-06%20Whole%20Lotta%20Rosie%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4930</key>
+		<dict>
+			<key>Track ID</key><integer>4930</integer>
+			<key>Name</key><string>Let There Be Rock [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Bon Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12090649</integer>
+			<key>Total Time</key><integer>737106</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-18T01:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>17641</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54B6CC1CA019ABE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-07%20Let%20There%20Be%20Rock%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4932</key>
+		<dict>
+			<key>Track ID</key><integer>4932</integer>
+			<key>Name</key><string>Bonny [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Traditional, arranged by Angus Young, Malcolm Young</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1065102</integer>
+			<key>Total Time</key><integer>63360</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>12199</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43E0A2EDAB401C87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-08%20Bonny%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4934</key>
+		<dict>
+			<key>Track ID</key><integer>4934</integer>
+			<key>Name</key><string>Highway To Hell [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Bon Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3852599</integer>
+			<key>Total Time</key><integer>233640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>15960</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C718384548940FAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-09%20Highway%20To%20Hell%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4936</key>
+		<dict>
+			<key>Track ID</key><integer>4936</integer>
+			<key>Name</key><string>T.N.T. [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Bon Scott</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3776324</integer>
+			<key>Total Time</key><integer>228160</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>11626</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>522CF98BD32BD33B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-10%20T.N.T.%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4938</key>
+		<dict>
+			<key>Track ID</key><integer>4938</integer>
+			<key>Name</key><string>For Those About To Rock (We Salute You) [Live]</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young, Brian Johnson</string>
+			<key>Album</key><string>AC/DC Live: Collector's Edition [Disc 2]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7248948</integer>
+			<key>Total Time</key><integer>437640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-06-17T18:20:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>16155</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>907BDC51485817F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/AC_DC%20Live_%20Collector's%20Edition%20%5BDisc%202%5D/2-11%20For%20Those%20About%20To%20Rock%20(We%20Salute%20You)%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>AC/DC</string>
+			<key>Playlist ID</key><integer>33947</integer>
+			<key>Playlist Persistent ID</key><string>DE58668242270737</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4896</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4900</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4904</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4908</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4910</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4912</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4918</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4922</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4924</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4928</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4932</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4938</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

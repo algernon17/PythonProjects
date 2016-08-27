@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:27:03Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8532</key>
+		<dict>
+			<key>Track ID</key><integer>8532</integer>
+			<key>Name</key><string>Universal Nation</string>
+			<key>Artist</key><string>Push</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6871723</integer>
+			<key>Total Time</key><integer>423560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499780786</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:19:46Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F51AC8F4B6C5C5B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/01%20Universal%20Nation.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8534</key>
+		<dict>
+			<key>Track ID</key><integer>8534</integer>
+			<key>Name</key><string>What A Day</string>
+			<key>Artist</key><string>Jimpy</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5321541</integer>
+			<key>Total Time</key><integer>327800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499781114</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:25:14Z</date>
+			<key>Normalization</key><integer>1375</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C29925AF86BA743</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/02%20What%20A%20Day.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8536</key>
+		<dict>
+			<key>Track ID</key><integer>8536</integer>
+			<key>Name</key><string>Medusa</string>
+			<key>Artist</key><string>Arrakis</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6043295</integer>
+			<key>Total Time</key><integer>372333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499781486</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:31:26Z</date>
+			<key>Normalization</key><integer>1611</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91D0ECF61D1DCE29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/03%20Medusa.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8538</key>
+		<dict>
+			<key>Track ID</key><integer>8538</integer>
+			<key>Name</key><string>The Orange Theme (Moonman's Orange Juice Mix)</string>
+			<key>Artist</key><string>Cygnus X</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4771969</integer>
+			<key>Total Time</key><integer>293866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499781780</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:36:20Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Orange Theme (Moonman's Orange Juice Mix)</string>
+			<key>Persistent ID</key><string>66524FE0164C9F97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/04%20The%20Orange%20Theme%20(Moonman's%20Orange%20Juice%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8540</key>
+		<dict>
+			<key>Track ID</key><integer>8540</integer>
+			<key>Name</key><string>Ikon</string>
+			<key>Artist</key><string>Nuw Idol</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5323480</integer>
+			<key>Total Time</key><integer>328000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499782108</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:41:48Z</date>
+			<key>Normalization</key><integer>1338</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F7F5273A6B8085A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/05%20Ikon.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8542</key>
+		<dict>
+			<key>Track ID</key><integer>8542</integer>
+			<key>Name</key><string>Revelation [Instrumental]</string>
+			<key>Artist</key><string>Electrique Boutique</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5099825</integer>
+			<key>Total Time</key><integer>314173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499782422</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:47:02Z</date>
+			<key>Normalization</key><integer>1574</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9AB32EF091C5D44B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/06%20Revelation%20%5BInstrumental%5D.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8544</key>
+		<dict>
+			<key>Track ID</key><integer>8544</integer>
+			<key>Name</key><string>Three Drives</string>
+			<key>Artist</key><string>Three Drives On A Vinyl</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5765713</integer>
+			<key>Total Time</key><integer>355226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3499782778</integer>
+			<key>Play Date UTC</key><date>2014-11-25T16:52:58Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DDC65DFB9FAD6A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/07%20Three%20Drives.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8546</key>
+		<dict>
+			<key>Track ID</key><integer>8546</integer>
+			<key>Name</key><string>Resurrection</string>
+			<key>Artist</key><string>Classified Project</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4878392</integer>
+			<key>Total Time</key><integer>300533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498023882</integer>
+			<key>Play Date UTC</key><date>2014-11-05T08:18:02Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBA7ACCF6CD32D51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/08%20Resurrection.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8548</key>
+		<dict>
+			<key>Track ID</key><integer>8548</integer>
+			<key>Name</key><string>Airless</string>
+			<key>Artist</key><string>Hybrid</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5875366</integer>
+			<key>Total Time</key><integer>362000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498024244</integer>
+			<key>Play Date UTC</key><date>2014-11-05T08:24:04Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D9FB098234D819C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/09%20Airless.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8550</key>
+		<dict>
+			<key>Track ID</key><integer>8550</integer>
+			<key>Name</key><string>Dream Of The Sirens</string>
+			<key>Artist</key><string>Ron Hagen &#38; Pascal M.</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5769352</integer>
+			<key>Total Time</key><integer>355506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498037842</integer>
+			<key>Play Date UTC</key><date>2014-11-05T12:10:42Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF18BD7BCA431285</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/10%20Dream%20Of%20The%20Sirens.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8552</key>
+		<dict>
+			<key>Track ID</key><integer>8552</integer>
+			<key>Name</key><string>Godspeed</string>
+			<key>Artist</key><string>BT</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4882175</integer>
+			<key>Total Time</key><integer>300693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498038142</integer>
+			<key>Play Date UTC</key><date>2014-11-05T12:15:42Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9165E84243669960</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/11%20Godspeed.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8554</key>
+		<dict>
+			<key>Track ID</key><integer>8554</integer>
+			<key>Name</key><string>Words (For Love)</string>
+			<key>Artist</key><string>Paul Van Dyk</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5324866</integer>
+			<key>Total Time</key><integer>328000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498038470</integer>
+			<key>Play Date UTC</key><date>2014-11-05T12:21:10Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18C20F10B2EC28C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/12%20Words%20(For%20Love).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8556</key>
+		<dict>
+			<key>Track ID</key><integer>8556</integer>
+			<key>Name</key><string>Cafe Del Mar (Nalin &#38; Kane 1998 Mix)</string>
+			<key>Artist</key><string>Energy 52</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6238843</integer>
+			<key>Total Time</key><integer>384440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498038855</integer>
+			<key>Play Date UTC</key><date>2014-11-05T12:27:35Z</date>
+			<key>Normalization</key><integer>1311</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D04DE9A497A3ED0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/13%20Cafe%20Del%20Mar%20(Nalin%20&#38;%20Kane%201998%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8558</key>
+		<dict>
+			<key>Track ID</key><integer>8558</integer>
+			<key>Name</key><string>Sunhump (Mijk Van Dijk Remix)</string>
+			<key>Artist</key><string>Viridian</string>
+			<key>Composer</key><string>DJ Nicholas Bennison</string>
+			<key>Album</key><string>Trance Global Nation, Vol. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3647964</integer>
+			<key>Total Time</key><integer>225093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:45Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498039080</integer>
+			<key>Play Date UTC</key><date>2014-11-05T12:31:20Z</date>
+			<key>Normalization</key><integer>1564</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6459C51F8F9912E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation,%20Vol.%202/14%20Sunhump%20(Mijk%20Van%20Dijk%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8730</key>
+		<dict>
+			<key>Track ID</key><integer>8730</integer>
+			<key>Name</key><string>Cartel / Burn Out (Broken Boundary Mix)</string>
+			<key>Artist</key><string>Cartel</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6081646</integer>
+			<key>Total Time</key><integer>374386</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498109261</integer>
+			<key>Play Date UTC</key><date>2014-11-06T08:01:01Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E17C1EFDD7F65C81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/01%20Cartel%20_%20Burn%20Out%20(Broken%20Boundary%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8732</key>
+		<dict>
+			<key>Track ID</key><integer>8732</integer>
+			<key>Name</key><string>Ascention / Shadow Maker</string>
+			<key>Artist</key><string>Ascension</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4281635</integer>
+			<key>Total Time</key><integer>263266</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498109524</integer>
+			<key>Play Date UTC</key><date>2014-11-06T08:05:24Z</date>
+			<key>Normalization</key><integer>1352</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B542F2DBA740B21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/02%20Ascention%20_%20Shadow%20Maker.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8734</key>
+		<dict>
+			<key>Track ID</key><integer>8734</integer>
+			<key>Name</key><string>Weirdo / Photic Zone</string>
+			<key>Artist</key><string>Weirdo</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5600076</integer>
+			<key>Total Time</key><integer>344666</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3498109869</integer>
+			<key>Play Date UTC</key><date>2014-11-06T08:11:09Z</date>
+			<key>Normalization</key><integer>1447</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C545E3667D078F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/03%20Weirdo%20_%20Photic%20Zone.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8736</key>
+		<dict>
+			<key>Track ID</key><integer>8736</integer>
+			<key>Name</key><string>Kushti / Control Zone (Kushti's Autobahn Mix)</string>
+			<key>Artist</key><string>Kushti</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6332578</integer>
+			<key>Total Time</key><integer>389880</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3498110259</integer>
+			<key>Play Date UTC</key><date>2014-11-06T08:17:39Z</date>
+			<key>Normalization</key><integer>2342</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A445CEB48EAC5EC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/04%20Kushti%20_%20Control%20Zone%20(Kushti's%20Autobahn%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8738</key>
+		<dict>
+			<key>Track ID</key><integer>8738</integer>
+			<key>Name</key><string>Bullit / Ricochet</string>
+			<key>Artist</key><string>Bullitt</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6727625</integer>
+			<key>Total Time</key><integer>414253</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498110673</integer>
+			<key>Play Date UTC</key><date>2014-11-06T08:24:33Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4373454D74C139D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/05%20Bullit%20_%20Ricochet.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8740</key>
+		<dict>
+			<key>Track ID</key><integer>8740</integer>
+			<key>Name</key><string>Kinesis / Bias</string>
+			<key>Artist</key><string>Kinesis</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7239797</integer>
+			<key>Total Time</key><integer>445880</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498141234</integer>
+			<key>Play Date UTC</key><date>2014-11-06T16:53:54Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA6865D3DB61B3B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/06%20Kinesis%20_%20Bias.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8742</key>
+		<dict>
+			<key>Track ID</key><integer>8742</integer>
+			<key>Name</key><string>Sphere / Gravity</string>
+			<key>Artist</key><string>Sphere</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8142053</integer>
+			<key>Total Time</key><integer>501600</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498141735</integer>
+			<key>Play Date UTC</key><date>2014-11-06T17:02:15Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21ABC45FDFFF79DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/07%20Sphere%20_%20Gravity.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8744</key>
+		<dict>
+			<key>Track ID</key><integer>8744</integer>
+			<key>Name</key><string>Signum / Adaptor</string>
+			<key>Artist</key><string>Signum</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5189726</integer>
+			<key>Total Time</key><integer>319320</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498142054</integer>
+			<key>Play Date UTC</key><date>2014-11-06T17:07:34Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9135CB9FE7349006</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/08%20Signum%20_%20Adaptor.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8746</key>
+		<dict>
+			<key>Track ID</key><integer>8746</integer>
+			<key>Name</key><string>Slider / Symmetry</string>
+			<key>Artist</key><string>The Slider</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5417552</integer>
+			<key>Total Time</key><integer>333386</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498142388</integer>
+			<key>Play Date UTC</key><date>2014-11-06T17:13:08Z</date>
+			<key>Normalization</key><integer>1344</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Slider</string>
+			<key>Persistent ID</key><string>471213BDEE95FCF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/09%20Slider%20_%20Symmetry.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8748</key>
+		<dict>
+			<key>Track ID</key><integer>8748</integer>
+			<key>Name</key><string>Red Shift / Descender (Original Version)</string>
+			<key>Artist</key><string>Red Shift</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6765181</integer>
+			<key>Total Time</key><integer>416586</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498142804</integer>
+			<key>Play Date UTC</key><date>2014-11-06T17:20:04Z</date>
+			<key>Normalization</key><integer>1361</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7425A72E56A42A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/10%20Red%20Shift%20_%20Descender%20(Original%20Version).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8750</key>
+		<dict>
+			<key>Track ID</key><integer>8750</integer>
+			<key>Name</key><string>Paul King / Odyssey Pt. II</string>
+			<key>Artist</key><string>Paul King</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6093679</integer>
+			<key>Total Time</key><integer>375120</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3498143179</integer>
+			<key>Play Date UTC</key><date>2014-11-06T17:26:19Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5426BA09D21F7848</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/11%20Paul%20King%20_%20Odyssey%20Pt.%20II.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8752</key>
+		<dict>
+			<key>Track ID</key><integer>8752</integer>
+			<key>Name</key><string>DJ Eyel / Primal Instinct</string>
+			<key>Artist</key><string>DJ Eyal</string>
+			<key>Album</key><string>TranceGlobalNation 4</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4118402</integer>
+			<key>Total Time</key><integer>255226</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-08-08T14:55:01Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3489637232</integer>
+			<key>Play Date UTC</key><date>2014-07-31T06:40:32Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9063F659B4775AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/TranceGlobalNation%204/12%20DJ%20Eyel%20_%20Primal%20Instinct.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15178</key>
+		<dict>
+			<key>Track ID</key><integer>15178</integer>
+			<key>Name</key><string>Frozen Planet</string>
+			<key>Artist</key><string>PureNova</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14196896</integer>
+			<key>Total Time</key><integer>403013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:08:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3497621039</integer>
+			<key>Play Date UTC</key><date>2014-10-31T16:23:59Z</date>
+			<key>Normalization</key><integer>2284</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F094E059C46C1D4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/01%20Frozen%20Planet.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15180</key>
+		<dict>
+			<key>Track ID</key><integer>15180</integer>
+			<key>Name</key><string>Mayday</string>
+			<key>Artist</key><string>Twin Peaks</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14128310</integer>
+			<key>Total Time</key><integer>426200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:09:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3497621465</integer>
+			<key>Play Date UTC</key><date>2014-10-31T16:31:05Z</date>
+			<key>Normalization</key><integer>3793</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>A8CA98B92DFA37E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/02%20Mayday.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15182</key>
+		<dict>
+			<key>Track ID</key><integer>15182</integer>
+			<key>Name</key><string>Moments of Space</string>
+			<key>Artist</key><string>Odessi</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18897149</integer>
+			<key>Total Time</key><integer>510093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:10:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3497621975</integer>
+			<key>Play Date UTC</key><date>2014-10-31T16:39:35Z</date>
+			<key>Normalization</key><integer>2076</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>34CFF0A7E01899D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/03%20Moments%20of%20Space.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15184</key>
+		<dict>
+			<key>Track ID</key><integer>15184</integer>
+			<key>Name</key><string>Xenophobe</string>
+			<key>Artist</key><string>Taylor</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>19078736</integer>
+			<key>Total Time</key><integer>526200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:11:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497417284</integer>
+			<key>Play Date UTC</key><date>2014-10-29T07:48:04Z</date>
+			<key>Normalization</key><integer>1258</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>53D9901AEF3D7035</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/04%20Xenophobe.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15186</key>
+		<dict>
+			<key>Track ID</key><integer>15186</integer>
+			<key>Name</key><string>Komodo (Megamind Mix)</string>
+			<key>Artist</key><string>Mauro Picotto</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6358151</integer>
+			<key>Total Time</key><integer>191973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:12:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497417476</integer>
+			<key>Play Date UTC</key><date>2014-10-29T07:51:16Z</date>
+			<key>Normalization</key><integer>1381</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>D8A90A9BA31AC89A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/05%20Komodo%20(Megamind%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15188</key>
+		<dict>
+			<key>Track ID</key><integer>15188</integer>
+			<key>Name</key><string>Scorchio</string>
+			<key>Artist</key><string>Sasha &#38; Emerson</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>16094206</integer>
+			<key>Total Time</key><integer>483253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:12:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497417959</integer>
+			<key>Play Date UTC</key><date>2014-10-29T07:59:19Z</date>
+			<key>Normalization</key><integer>1555</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6DF2775CF77323C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/06%20Scorchio.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15190</key>
+		<dict>
+			<key>Track ID</key><integer>15190</integer>
+			<key>Name</key><string>Skydive (Way Out West Mix)</string>
+			<key>Artist</key><string>Freefall Feat. Jan Johnston</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9782753</integer>
+			<key>Total Time</key><integer>269920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:13:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497418229</integer>
+			<key>Play Date UTC</key><date>2014-10-29T08:03:49Z</date>
+			<key>Normalization</key><integer>1985</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>16C33ADF76E56365</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/07%20Skydive%20(Way%20Out%20West%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15192</key>
+		<dict>
+			<key>Track ID</key><integer>15192</integer>
+			<key>Name</key><string>Amber (Silk Mix)</string>
+			<key>Artist</key><string>Amber</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13988456</integer>
+			<key>Total Time</key><integer>397826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:26Z</date>
+			<key>Date Added</key><date>2014-02-21T15:14:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3478866238</integer>
+			<key>Play Date UTC</key><date>2014-03-28T14:43:58Z</date>
+			<key>Normalization</key><integer>2579</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>961E5380946358E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/08%20Amber%20(Silk%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15194</key>
+		<dict>
+			<key>Track ID</key><integer>15194</integer>
+			<key>Name</key><string>Still Rise</string>
+			<key>Artist</key><string>DJ Eyal</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12682574</integer>
+			<key>Total Time</key><integer>383306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T21:54:27Z</date>
+			<key>Date Added</key><date>2014-02-21T15:14:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3478866621</integer>
+			<key>Play Date UTC</key><date>2014-03-28T14:50:21Z</date>
+			<key>Normalization</key><integer>3054</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>6D8D0DBAC65BE186</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/09%20Still%20Rise.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15196</key>
+		<dict>
+			<key>Track ID</key><integer>15196</integer>
+			<key>Name</key><string>Perception</string>
+			<key>Artist</key><string>Cass &#38; Slide</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>19626859</integer>
+			<key>Total Time</key><integer>557786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:27Z</date>
+			<key>Date Added</key><date>2014-02-21T15:15:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3478868303</integer>
+			<key>Play Date UTC</key><date>2014-03-28T15:18:23Z</date>
+			<key>Normalization</key><integer>4476</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8E4D60DFC6AF30DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/10%20Perception.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15198</key>
+		<dict>
+			<key>Track ID</key><integer>15198</integer>
+			<key>Name</key><string>Sun Is Shining</string>
+			<key>Artist</key><string>The Techniques</string>
+			<key>Album</key><string>Trance Global Nation 5</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10152694</integer>
+			<key>Total Time</key><integer>290560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-08-08T14:54:27Z</date>
+			<key>Date Added</key><date>2014-02-21T15:16:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3478868594</integer>
+			<key>Play Date UTC</key><date>2014-03-28T15:23:14Z</date>
+			<key>Normalization</key><integer>5102</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Artist</key><string>Techniques</string>
+			<key>Persistent ID</key><string>3BD92C958C943639</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Trance%20Global%20Nation%205/11%20Sun%20Is%20Shining.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>TGN</string>
+			<key>Playlist ID</key><integer>34685</integer>
+			<key>Playlist Persistent ID</key><string>21F69C13D31C6F06</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15198</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

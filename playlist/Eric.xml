@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:24:54Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9508</key>
+		<dict>
+			<key>Track ID</key><integer>9508</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>461 Ocean Boulevard</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18716129</integer>
+			<key>Total Time</key><integer>1169110</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2012-04-16T19:21:27Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523192346</integer>
+			<key>Play Date UTC</key><date>2015-08-23T15:32:26Z</date>
+			<key>Persistent ID</key><string>30CA20D94D291A4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/461%20Ocean%20Boulevard/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9510</key>
+		<dict>
+			<key>Track ID</key><integer>9510</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>461 Ocean Boulevard</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19158748</integer>
+			<key>Total Time</key><integer>1196773</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2012-04-16T19:21:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481290336</integer>
+			<key>Play Date UTC</key><date>2014-04-25T16:05:36Z</date>
+			<key>Persistent ID</key><string>B0B19B81AE09FA2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/461%20Ocean%20Boulevard/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9512</key>
+		<dict>
+			<key>Track ID</key><integer>9512</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Backless</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17621065</integer>
+			<key>Total Time</key><integer>1100669</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2012-04-16T12:28:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523180865</integer>
+			<key>Play Date UTC</key><date>2015-08-23T12:21:05Z</date>
+			<key>Persistent ID</key><string>69CB01117F20B754</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Backless/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9514</key>
+		<dict>
+			<key>Track ID</key><integer>9514</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Backless</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19710443</integer>
+			<key>Total Time</key><integer>1231255</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2012-04-16T12:28:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3480836520</integer>
+			<key>Play Date UTC</key><date>2014-04-20T10:02:00Z</date>
+			<key>Persistent ID</key><string>0425E6620C523CA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Backless/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9516</key>
+		<dict>
+			<key>Track ID</key><integer>9516</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Behind the Sun</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23023401</integer>
+			<key>Total Time</key><integer>1438955</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2012-11-17T05:05:34Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523182742</integer>
+			<key>Play Date UTC</key><date>2015-08-23T12:52:22Z</date>
+			<key>Persistent ID</key><string>4A28BC48EC04C1B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Behind%20the%20Sun/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9518</key>
+		<dict>
+			<key>Track ID</key><integer>9518</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Behind the Sun</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>25207238</integer>
+			<key>Total Time</key><integer>1575444</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2012-11-17T05:46:53Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523184318</integer>
+			<key>Play Date UTC</key><date>2015-08-23T13:18:38Z</date>
+			<key>Persistent ID</key><string>86FDE659ABAD6AD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Behind%20the%20Sun/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9532</key>
+		<dict>
+			<key>Track ID</key><integer>9532</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Eric Clapton</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18978390</integer>
+			<key>Total Time</key><integer>1186142</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2012-12-18T02:33:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523196807</integer>
+			<key>Play Date UTC</key><date>2015-08-23T16:46:47Z</date>
+			<key>Persistent ID</key><string>91CFA61AE80ED5E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Eric%20Clapton/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9534</key>
+		<dict>
+			<key>Track ID</key><integer>9534</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Eric Clapton</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16908656</integer>
+			<key>Total Time</key><integer>1056783</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2012-12-18T02:51:21Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523197863</integer>
+			<key>Play Date UTC</key><date>2015-08-23T17:04:23Z</date>
+			<key>Persistent ID</key><string>70495D0E7D0A9D00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Eric%20Clapton/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9536</key>
+		<dict>
+			<key>Track ID</key><integer>9536</integer>
+			<key>Name</key><string>When You Got A Good Friend</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6969499</integer>
+			<key>Total Time</key><integer>200426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:05:29Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481290537</integer>
+			<key>Play Date UTC</key><date>2014-04-25T16:08:57Z</date>
+			<key>Normalization</key><integer>2853</integer>
+			<key>Persistent ID</key><string>B1FA04EF75DA5BD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/01%20When%20You%20Got%20A%20Good%20Friend.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9538</key>
+		<dict>
+			<key>Track ID</key><integer>9538</integer>
+			<key>Name</key><string>Little Queen Of Spades</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10158702</integer>
+			<key>Total Time</key><integer>297933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:05:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481290835</integer>
+			<key>Play Date UTC</key><date>2014-04-25T16:13:55Z</date>
+			<key>Normalization</key><integer>2623</integer>
+			<key>Persistent ID</key><string>8659DE06AF37B49A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/02%20Little%20Queen%20Of%20Spades.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9540</key>
+		<dict>
+			<key>Track ID</key><integer>9540</integer>
+			<key>Name</key><string>They're Red Hot</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6729937</integer>
+			<key>Total Time</key><integer>205106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:06:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481297452</integer>
+			<key>Play Date UTC</key><date>2014-04-25T18:04:12Z</date>
+			<key>Normalization</key><integer>3494</integer>
+			<key>Persistent ID</key><string>E20760BAF6200322</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/03%20They're%20Red%20Hot.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9542</key>
+		<dict>
+			<key>Track ID</key><integer>9542</integer>
+			<key>Name</key><string>Me And The Devil Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5730331</integer>
+			<key>Total Time</key><integer>176493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:06:23Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481345804</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:30:04Z</date>
+			<key>Normalization</key><integer>2000</integer>
+			<key>Persistent ID</key><string>16CEE5AD499B829E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/04%20Me%20And%20The%20Devil%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9544</key>
+		<dict>
+			<key>Track ID</key><integer>9544</integer>
+			<key>Name</key><string>Traveling Riverside Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9552373</integer>
+			<key>Total Time</key><integer>271173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:06:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481346075</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:34:35Z</date>
+			<key>Normalization</key><integer>3211</integer>
+			<key>Persistent ID</key><string>E83DC115A3AC6F41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/05%20Traveling%20Riverside%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9546</key>
+		<dict>
+			<key>Track ID</key><integer>9546</integer>
+			<key>Name</key><string>Last Fair Deal Gone Down</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5621341</integer>
+			<key>Total Time</key><integer>155533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:06:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481346231</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:37:11Z</date>
+			<key>Normalization</key><integer>4218</integer>
+			<key>Persistent ID</key><string>6CD9DF5F7D3C224E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/06%20Last%20Fair%20Deal%20Gone%20Down.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9548</key>
+		<dict>
+			<key>Track ID</key><integer>9548</integer>
+			<key>Name</key><string>Stop Breakin' Down Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4999966</integer>
+			<key>Total Time</key><integer>150000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:07:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481346381</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:39:41Z</date>
+			<key>Normalization</key><integer>3002</integer>
+			<key>Persistent ID</key><string>30BABA4FBBB9A8B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/07%20Stop%20Breakin'%20Down%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9550</key>
+		<dict>
+			<key>Track ID</key><integer>9550</integer>
+			<key>Name</key><string>Milkcow's Calf Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6591896</integer>
+			<key>Total Time</key><integer>198600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T19:07:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481346579</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:42:59Z</date>
+			<key>Normalization</key><integer>3962</integer>
+			<key>Persistent ID</key><string>DE188100DD179897</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/08%20Milkcow's%20Calf%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9552</key>
+		<dict>
+			<key>Track ID</key><integer>9552</integer>
+			<key>Name</key><string>Kind Hearted Woman Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8191161</integer>
+			<key>Total Time</key><integer>246933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:07:29Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481346826</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:47:06Z</date>
+			<key>Normalization</key><integer>2745</integer>
+			<key>Persistent ID</key><string>2A2FBF0DB7D520D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/09%20Kind%20Hearted%20Woman%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9554</key>
+		<dict>
+			<key>Track ID</key><integer>9554</integer>
+			<key>Name</key><string>Come On In My Kitchen</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7612777</integer>
+			<key>Total Time</key><integer>215266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:07:43Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481347042</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:50:42Z</date>
+			<key>Normalization</key><integer>2670</integer>
+			<key>Persistent ID</key><string>E0662AA7DD82EA2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/10%20Come%20On%20In%20My%20Kitchen.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9556</key>
+		<dict>
+			<key>Track ID</key><integer>9556</integer>
+			<key>Name</key><string>If I Had Possession Over Judgment Day</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7123293</integer>
+			<key>Total Time</key><integer>207760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:07:57Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481347249</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:54:09Z</date>
+			<key>Normalization</key><integer>4167</integer>
+			<key>Persistent ID</key><string>070F407925B8CC2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/11%20If%20I%20Had%20Possession%20Over%20Judgment%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9558</key>
+		<dict>
+			<key>Track ID</key><integer>9558</integer>
+			<key>Name</key><string>Love In Vain</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8362145</integer>
+			<key>Total Time</key><integer>242800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:08:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481347492</integer>
+			<key>Play Date UTC</key><date>2014-04-26T07:58:12Z</date>
+			<key>Normalization</key><integer>2590</integer>
+			<key>Persistent ID</key><string>309CA0DC707C837E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/12%20Love%20In%20Vain.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9560</key>
+		<dict>
+			<key>Track ID</key><integer>9560</integer>
+			<key>Name</key><string>32-20 Blues</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5889410</integer>
+			<key>Total Time</key><integer>178933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:08:23Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481347671</integer>
+			<key>Play Date UTC</key><date>2014-04-26T08:01:11Z</date>
+			<key>Normalization</key><integer>3266</integer>
+			<key>Persistent ID</key><string>7451CB804B1CD2F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/13%2032-20%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9562</key>
+		<dict>
+			<key>Track ID</key><integer>9562</integer>
+			<key>Name</key><string>Hell Hound On My Trail</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Robert Johnson</string>
+			<key>Album</key><string>Me &#38; Mr. Johnson</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7653733</integer>
+			<key>Total Time</key><integer>231800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2010-02-26T12:08:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3481347903</integer>
+			<key>Play Date UTC</key><date>2014-04-26T08:05:03Z</date>
+			<key>Normalization</key><integer>3509</integer>
+			<key>Persistent ID</key><string>39AC77D3371D4D75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Me%20&#38;%20Mr.%20Johnson/14%20Hell%20Hound%20On%20My%20Trail.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9564</key>
+		<dict>
+			<key>Track ID</key><integer>9564</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Money and Cigarettes</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17842177</integer>
+			<key>Total Time</key><integer>1114488</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2012-04-16T19:09:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3523198977</integer>
+			<key>Play Date UTC</key><date>2015-08-23T17:22:57Z</date>
+			<key>Persistent ID</key><string>91001A6763FFDE57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Money%20and%20Cigarettes/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9566</key>
+		<dict>
+			<key>Track ID</key><integer>9566</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Money and Cigarettes</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18246344</integer>
+			<key>Total Time</key><integer>1139748</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2012-04-16T19:09:35Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3523188814</integer>
+			<key>Play Date UTC</key><date>2015-08-23T14:33:34Z</date>
+			<key>Persistent ID</key><string>ACC6D3C97D338466</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Money%20and%20Cigarettes/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9592</key>
+		<dict>
+			<key>Track ID</key><integer>9592</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Slow Hand</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17325569</integer>
+			<key>Total Time</key><integer>1082200</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2012-04-16T19:12:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3523189896</integer>
+			<key>Play Date UTC</key><date>2015-08-23T14:51:36Z</date>
+			<key>Persistent ID</key><string>A9C77C9E76D79AFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Slow%20Hand/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9594</key>
+		<dict>
+			<key>Track ID</key><integer>9594</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>Slow Hand</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20504566</integer>
+			<key>Total Time</key><integer>1280888</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2012-04-16T19:12:41Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3523191177</integer>
+			<key>Play Date UTC</key><date>2015-08-23T15:12:57Z</date>
+			<key>Persistent ID</key><string>B9725CC05D62AC9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Eric%20Clapton/Slow%20Hand/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Eric</string>
+			<key>Playlist ID</key><integer>34331</integer>
+			<key>Playlist Persistent ID</key><string>152D2BADBDAF1D7E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9562</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:26:46Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4598</key>
+		<dict>
+			<key>Track ID</key><integer>4598</integer>
+			<key>Name</key><string>Magic</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>100 Anthems - Club Anthems CD2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9918467</integer>
+			<key>Total Time</key><integer>300533</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>5</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2010-10-16T15:18:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522419252</integer>
+			<key>Play Date UTC</key><date>2015-08-14T16:47:32Z</date>
+			<key>Normalization</key><integer>1934</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12A8E87D16FFEDA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/100%20Anthems%20-%20Club%20Anthems%20CD2/2-05%20Magic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5720</key>
+		<dict>
+			<key>Track ID</key><integer>5720</integer>
+			<key>Name</key><string>Platform</string>
+			<key>Artist</key><string>Freaky Chakra</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7133967</integer>
+			<key>Total Time</key><integer>443133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521783373</integer>
+			<key>Play Date UTC</key><date>2015-08-07T08:09:33Z</date>
+			<key>Normalization</key><integer>1900</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5DFA547DE9BE3B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-02%20Platform.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5722</key>
+		<dict>
+			<key>Track ID</key><integer>5722</integer>
+			<key>Name</key><string>Solid Space Business</string>
+			<key>Artist</key><string>Attaboy</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2139179</integer>
+			<key>Total Time</key><integer>132933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T20:40:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521783506</integer>
+			<key>Play Date UTC</key><date>2015-08-07T08:11:46Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3572E3F2C30CDC38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-03%20Solid%20Space%20Business.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5724</key>
+		<dict>
+			<key>Track ID</key><integer>5724</integer>
+			<key>Name</key><string>Protect Your Mind [Van Bellen mix]</string>
+			<key>Artist</key><string>DJ Sakin &#38; Friends</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6520269</integer>
+			<key>Total Time</key><integer>406266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T20:40:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521783912</integer>
+			<key>Play Date UTC</key><date>2015-08-07T08:18:32Z</date>
+			<key>Normalization</key><integer>1587</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>143F5FCD9EF5A4AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-04%20Protect%20Your%20Mind%20%5BVan%20Bellen%20mix%5D.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5726</key>
+		<dict>
+			<key>Track ID</key><integer>5726</integer>
+			<key>Name</key><string>Resurrection</string>
+			<key>Artist</key><string>Classified Project</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5766496</integer>
+			<key>Total Time</key><integer>354466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522045921</integer>
+			<key>Play Date UTC</key><date>2015-08-10T09:05:21Z</date>
+			<key>Normalization</key><integer>1724</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>255AA18FB566EB2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-05%20Resurrection.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5728</key>
+		<dict>
+			<key>Track ID</key><integer>5728</integer>
+			<key>Name</key><string>The Resurrection E.P.</string>
+			<key>Artist</key><string>Medway</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6028634</integer>
+			<key>Total Time</key><integer>369200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522046290</integer>
+			<key>Play Date UTC</key><date>2015-08-10T09:11:30Z</date>
+			<key>Normalization</key><integer>3779</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Resurrection E.P.</string>
+			<key>Persistent ID</key><string>D4D706E98A51082F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-06%20The%20Resurrection%20E.P..m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5730</key>
+		<dict>
+			<key>Track ID</key><integer>5730</integer>
+			<key>Name</key><string>Lecture</string>
+			<key>Artist</key><string>Slickmick</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2633152</integer>
+			<key>Total Time</key><integer>162466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522046453</integer>
+			<key>Play Date UTC</key><date>2015-08-10T09:14:13Z</date>
+			<key>Normalization</key><integer>2239</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4AAE314A1121E5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-07%20Lecture.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5732</key>
+		<dict>
+			<key>Track ID</key><integer>5732</integer>
+			<key>Name</key><string>Blue Stream</string>
+			<key>Artist</key><string>Sneaky Alien</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4615122</integer>
+			<key>Total Time</key><integer>288066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522046741</integer>
+			<key>Play Date UTC</key><date>2015-08-10T09:19:01Z</date>
+			<key>Normalization</key><integer>1660</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB3A55BB1E774CB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-08%20Blue%20Stream.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5734</key>
+		<dict>
+			<key>Track ID</key><integer>5734</integer>
+			<key>Name</key><string>Empress II</string>
+			<key>Artist</key><string>Funk Function</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3922156</integer>
+			<key>Total Time</key><integer>236400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522074585</integer>
+			<key>Play Date UTC</key><date>2015-08-10T17:03:05Z</date>
+			<key>Normalization</key><integer>2907</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68C271DD8E584349</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-09%20Empress%20II.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5736</key>
+		<dict>
+			<key>Track ID</key><integer>5736</integer>
+			<key>Name</key><string>Bulgarian</string>
+			<key>Artist</key><string>Travel</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6297804</integer>
+			<key>Total Time</key><integer>384066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522074970</integer>
+			<key>Play Date UTC</key><date>2015-08-10T17:09:30Z</date>
+			<key>Normalization</key><integer>1812</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3C49323EA1A91BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-10%20Bulgarian.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5738</key>
+		<dict>
+			<key>Track ID</key><integer>5738</integer>
+			<key>Name</key><string>Soul To Bare</string>
+			<key>Artist</key><string>Joi Cardwell</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3558528</integer>
+			<key>Total Time</key><integer>222533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T20:40:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522075192</integer>
+			<key>Play Date UTC</key><date>2015-08-10T17:13:12Z</date>
+			<key>Normalization</key><integer>1498</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>353A7E52A5FC6BB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-11%20Soul%20To%20Bare.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5740</key>
+		<dict>
+			<key>Track ID</key><integer>5740</integer>
+			<key>Name</key><string>Quivver / Everything's Not You (Quivver's Space Mix)</string>
+			<key>Artist</key><string>Stoneproof</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6151132</integer>
+			<key>Total Time</key><integer>383200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522075575</integer>
+			<key>Play Date UTC</key><date>2015-08-10T17:19:35Z</date>
+			<key>Normalization</key><integer>1793</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE41FF127B9F8517</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-12%20Quivver%20_%20Everything's%20Not%20You%20(Quivver's%20Space%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5742</key>
+		<dict>
+			<key>Track ID</key><integer>5742</integer>
+			<key>Name</key><string>I'm Free</string>
+			<key>Artist</key><string>Morgan King</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8346295</integer>
+			<key>Total Time</key><integer>524373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522129494</integer>
+			<key>Play Date UTC</key><date>2015-08-11T08:18:14Z</date>
+			<key>Normalization</key><integer>2551</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C6A9132EC30F994</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-13%20I'm%20Free.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5744</key>
+		<dict>
+			<key>Track ID</key><integer>5744</integer>
+			<key>Name</key><string>Libra Presents Taylor / Anomaly - Calling Your Name (Albion Mix)</string>
+			<key>Artist</key><string>Libra Presents Taylor</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5231658</integer>
+			<key>Total Time</key><integer>327000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522129821</integer>
+			<key>Play Date UTC</key><date>2015-08-11T08:23:41Z</date>
+			<key>Normalization</key><integer>2073</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>90B53EABC6571B4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%201%5D/1-14%20Libra%20Presents%20Taylor%20_%20Anomaly%20-%20Calling%20Your%20Name%20(Albion%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5748</key>
+		<dict>
+			<key>Track ID</key><integer>5748</integer>
+			<key>Name</key><string>Blue</string>
+			<key>Artist</key><string>Narcotik</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5529884</integer>
+			<key>Total Time</key><integer>339466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522212686</integer>
+			<key>Play Date UTC</key><date>2015-08-12T07:24:46Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89A5D9B61F9465CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-02%20Blue.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5750</key>
+		<dict>
+			<key>Track ID</key><integer>5750</integer>
+			<key>Name</key><string>Hale Bop</string>
+			<key>Artist</key><string>Der Dritte Raum</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4526528</integer>
+			<key>Total Time</key><integer>274133</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522212960</integer>
+			<key>Play Date UTC</key><date>2015-08-12T07:29:20Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16D9C84E8C38C909</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-03%20Hale%20Bop.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5752</key>
+		<dict>
+			<key>Track ID</key><integer>5752</integer>
+			<key>Name</key><string>Hope</string>
+			<key>Artist</key><string>Illuminatus</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4747007</integer>
+			<key>Total Time</key><integer>288800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522213249</integer>
+			<key>Play Date UTC</key><date>2015-08-12T07:34:09Z</date>
+			<key>Normalization</key><integer>1626</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F7829F515991AEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-04%20Hope.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5754</key>
+		<dict>
+			<key>Track ID</key><integer>5754</integer>
+			<key>Name</key><string>Clarkness</string>
+			<key>Artist</key><string>Dave Kane</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4604973</integer>
+			<key>Total Time</key><integer>288640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522213537</integer>
+			<key>Play Date UTC</key><date>2015-08-12T07:38:57Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9CFB3F138FB1400C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-05%20Clarkness.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5756</key>
+		<dict>
+			<key>Track ID</key><integer>5756</integer>
+			<key>Name</key><string>Acoustic Principles</string>
+			<key>Artist</key><string>Eclipse 8</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5172618</integer>
+			<key>Total Time</key><integer>317466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522302152</integer>
+			<key>Play Date UTC</key><date>2015-08-13T08:15:52Z</date>
+			<key>Normalization</key><integer>1936</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E1DE98650C0659F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-06%20Acoustic%20Principles.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5758</key>
+		<dict>
+			<key>Track ID</key><integer>5758</integer>
+			<key>Name</key><string>Psionic</string>
+			<key>Artist</key><string>Maná</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4640710</integer>
+			<key>Total Time</key><integer>288533</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522302440</integer>
+			<key>Play Date UTC</key><date>2015-08-13T08:20:40Z</date>
+			<key>Normalization</key><integer>1264</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9EEEC935910DC63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-07%20Psionic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5760</key>
+		<dict>
+			<key>Track ID</key><integer>5760</integer>
+			<key>Name</key><string>The Chain</string>
+			<key>Artist</key><string>Breeder</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9287146</integer>
+			<key>Total Time</key><integer>578893</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T20:40:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522331616</integer>
+			<key>Play Date UTC</key><date>2015-08-13T16:26:56Z</date>
+			<key>Normalization</key><integer>3063</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Chain</string>
+			<key>Persistent ID</key><string>AC4E51803BA8695A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-08%20The%20Chain.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5762</key>
+		<dict>
+			<key>Track ID</key><integer>5762</integer>
+			<key>Name</key><string>Change Me</string>
+			<key>Artist</key><string>Paragliders</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5558041</integer>
+			<key>Total Time</key><integer>346373</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522331962</integer>
+			<key>Play Date UTC</key><date>2015-08-13T16:32:42Z</date>
+			<key>Normalization</key><integer>1399</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BAD5A8D6C84A506</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-09%20Change%20Me.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5764</key>
+		<dict>
+			<key>Track ID</key><integer>5764</integer>
+			<key>Name</key><string>Twilo Thunder</string>
+			<key>Artist</key><string>Breeder</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8794088</integer>
+			<key>Total Time</key><integer>548400</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3522332510</integer>
+			<key>Play Date UTC</key><date>2015-08-13T16:41:50Z</date>
+			<key>Normalization</key><integer>2030</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6449E7634856670</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-10%20Twilo%20Thunder.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5766</key>
+		<dict>
+			<key>Track ID</key><integer>5766</integer>
+			<key>Name</key><string>Movin' Thru Your System</string>
+			<key>Artist</key><string>Jark Prongo</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4837389</integer>
+			<key>Total Time</key><integer>302960</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522332813</integer>
+			<key>Play Date UTC</key><date>2015-08-13T16:46:53Z</date>
+			<key>Normalization</key><integer>1730</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F88EABF07640476</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-11%20Movin'%20Thru%20Your%20System.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5768</key>
+		<dict>
+			<key>Track ID</key><integer>5768</integer>
+			<key>Name</key><string>The Mission</string>
+			<key>Artist</key><string>DJ Tomcraft</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5515899</integer>
+			<key>Total Time</key><integer>346200</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522387953</integer>
+			<key>Play Date UTC</key><date>2015-08-14T08:05:53Z</date>
+			<key>Normalization</key><integer>1417</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Mission</string>
+			<key>Persistent ID</key><string>A8C5FA63707A4E03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-12%20The%20Mission.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5770</key>
+		<dict>
+			<key>Track ID</key><integer>5770</integer>
+			<key>Name</key><string>I Dream (Tilt's Resurrection Mix)</string>
+			<key>Artist</key><string>Tilt</string>
+			<key>Composer</key><string>Sasha</string>
+			<key>Album</key><string>GlobalUnderground 009 San Francisco [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4504992</integer>
+			<key>Total Time</key><integer>279666</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-02-23T13:40:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522388233</integer>
+			<key>Play Date UTC</key><date>2015-08-14T08:10:33Z</date>
+			<key>Normalization</key><integer>2387</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72E2AA023846F846</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/GlobalUnderground%20009%20San%20Francisco%20%5BDisc%202%5D/2-13%20I%20Dream%20(Tilt's%20Resurrection%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8754</key>
+		<dict>
+			<key>Track ID</key><integer>8754</integer>
+			<key>Name</key><string>Rabbitweed</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Dave Ralph</string>
+			<key>Album</key><string>Tranceport, Vol. 2: Departures &#38; Arrivals [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10053537</integer>
+			<key>Total Time</key><integer>620653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-03-06T21:46:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522418454</integer>
+			<key>Play Date UTC</key><date>2015-08-14T16:34:14Z</date>
+			<key>Normalization</key><integer>1276</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3901C0024786499</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Tranceport,%20Vol.%202_%20Departures%20&#38;%20Arrivals%20%5BDisc%201%5D/1-01%20Rabbitweed.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8768</key>
+		<dict>
+			<key>Track ID</key><integer>8768</integer>
+			<key>Name</key><string>Belfunk</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Dave Ralph</string>
+			<key>Album</key><string>Tranceport, Vol. 2: Departures &#38; Arrivals [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7945089</integer>
+			<key>Total Time</key><integer>495240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-03-06T21:46:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:31:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522418949</integer>
+			<key>Play Date UTC</key><date>2015-08-14T16:42:29Z</date>
+			<key>Normalization</key><integer>1392</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BE19BBF018841C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Tranceport,%20Vol.%202_%20Departures%20&#38;%20Arrivals%20%5BDisc%201%5D/1-08%20Belfunk.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12930</key>
+		<dict>
+			<key>Track ID</key><integer>12930</integer>
+			<key>Name</key><string>Drempels</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2762154</integer>
+			<key>Total Time</key><integer>83893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-28T04:14:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3524923676</integer>
+			<key>Play Date UTC</key><date>2015-09-12T16:27:56Z</date>
+			<key>Normalization</key><integer>1208</integer>
+			<key>Persistent ID</key><string>7D2A527B6E34BB28</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/01%20Drempels.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12932</key>
+		<dict>
+			<key>Track ID</key><integer>12932</integer>
+			<key>Name</key><string>Mr. Tiddles</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9699895</integer>
+			<key>Total Time</key><integer>293933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3524923969</integer>
+			<key>Play Date UTC</key><date>2015-09-12T16:32:49Z</date>
+			<key>Normalization</key><integer>1344</integer>
+			<key>Persistent ID</key><string>97FFBA1C06FB8670</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/02%20Mr.%20Tiddles.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12934</key>
+		<dict>
+			<key>Track ID</key><integer>12934</integer>
+			<key>Name</key><string>Magnetic North</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10551682</integer>
+			<key>Total Time</key><integer>317706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3524924287</integer>
+			<key>Play Date UTC</key><date>2015-09-12T16:38:07Z</date>
+			<key>Normalization</key><integer>1208</integer>
+			<key>Persistent ID</key><string>5CFAF3D151B77CAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/03%20Magnetic%20North.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12936</key>
+		<dict>
+			<key>Track ID</key><integer>12936</integer>
+			<key>Name</key><string>Cloud Cuckoo</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May/Tom Holkenborg</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>16992859</integer>
+			<key>Total Time</key><integer>506893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3524924794</integer>
+			<key>Play Date UTC</key><date>2015-09-12T16:46:34Z</date>
+			<key>Normalization</key><integer>1838</integer>
+			<key>Persistent ID</key><string>E65CDF007672CB9A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/04%20Cloud%20Cuckoo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12938</key>
+		<dict>
+			<key>Track ID</key><integer>12938</integer>
+			<key>Name</key><string>Immortal</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Coe</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9805363</integer>
+			<key>Total Time</key><integer>294640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3521481650</integer>
+			<key>Play Date UTC</key><date>2015-08-03T20:20:50Z</date>
+			<key>Normalization</key><integer>1716</integer>
+			<key>Persistent ID</key><string>B3CCDE25276AB704</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/05%20Immortal.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12940</key>
+		<dict>
+			<key>Track ID</key><integer>12940</integer>
+			<key>Name</key><string>Fundamental</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Coe</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>18312910</integer>
+			<key>Total Time</key><integer>553693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3521482204</integer>
+			<key>Play Date UTC</key><date>2015-08-03T20:30:04Z</date>
+			<key>Normalization</key><integer>1637</integer>
+			<key>Persistent ID</key><string>A63E725924D5C3EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/06%20Fundamental.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12942</key>
+		<dict>
+			<key>Track ID</key><integer>12942</integer>
+			<key>Name</key><string>Boileroom</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14078926</integer>
+			<key>Total Time</key><integer>424040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-28T04:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3521482628</integer>
+			<key>Play Date UTC</key><date>2015-08-03T20:37:08Z</date>
+			<key>Normalization</key><integer>1521</integer>
+			<key>Persistent ID</key><string>BF1C71A1F529E7F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/07%20Boileroom.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12944</key>
+		<dict>
+			<key>Track ID</key><integer>12944</integer>
+			<key>Name</key><string>Bloodlock</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>James Holden</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15664090</integer>
+			<key>Total Time</key><integer>473626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3521483101</integer>
+			<key>Play Date UTC</key><date>2015-08-03T20:45:01Z</date>
+			<key>Normalization</key><integer>1266</integer>
+			<key>Persistent ID</key><string>9F6DB66ABC92139B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/08%20Bloodlock.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12946</key>
+		<dict>
+			<key>Track ID</key><integer>12946</integer>
+			<key>Name</key><string>Requiem</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Tom Holkenborg/C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12104316</integer>
+			<key>Total Time</key><integer>368506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-28T04:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3521525799</integer>
+			<key>Play Date UTC</key><date>2015-08-04T08:36:39Z</date>
+			<key>Normalization</key><integer>1209</integer>
+			<key>Persistent ID</key><string>8ED5207808CA47F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/09%20Requiem.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12948</key>
+		<dict>
+			<key>Track ID</key><integer>12948</integer>
+			<key>Name</key><string>Golden Arm</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>Stephen Alan Wright/Tom Holkenborg/C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11822399</integer>
+			<key>Total Time</key><integer>345333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3521526144</integer>
+			<key>Play Date UTC</key><date>2015-08-04T08:42:24Z</date>
+			<key>Normalization</key><integer>1264</integer>
+			<key>Persistent ID</key><string>563E1501155CF5D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/10%20Golden%20Arm.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12950</key>
+		<dict>
+			<key>Track ID</key><integer>12950</integer>
+			<key>Name</key><string>Wavy Gravy</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Composer</key><string>C. May</string>
+			<key>Album</key><string>Airdrawndagger</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14966415</integer>
+			<key>Total Time</key><integer>449626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-06-27T21:14:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3521610494</integer>
+			<key>Play Date UTC</key><date>2015-08-05T08:08:14Z</date>
+			<key>Normalization</key><integer>1353</integer>
+			<key>Persistent ID</key><string>D6DFEEF8AAB25891</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Airdrawndagger/11%20Wavy%20Gravy.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12952</key>
+		<dict>
+			<key>Track ID</key><integer>12952</integer>
+			<key>Name</key><string>Fibonacci Sequence</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6185499</integer>
+			<key>Total Time</key><integer>382680</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521610876</integer>
+			<key>Play Date UTC</key><date>2015-08-05T08:14:36Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11957BA196D1A204</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/01%20Fibonacci%20Sequence.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12954</key>
+		<dict>
+			<key>Track ID</key><integer>12954</integer>
+			<key>Name</key><string>Zoe</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9180739</integer>
+			<key>Total Time</key><integer>567560</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521611444</integer>
+			<key>Play Date UTC</key><date>2015-08-05T08:24:04Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C450F6E99A0A0F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/02%20Zoe.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12956</key>
+		<dict>
+			<key>Track ID</key><integer>12956</integer>
+			<key>Name</key><string>Perception</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5422488</integer>
+			<key>Total Time</key><integer>335560</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521611779</integer>
+			<key>Play Date UTC</key><date>2015-08-05T08:29:39Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE0D313B6F97137D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/03%20Perception.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12958</key>
+		<dict>
+			<key>Track ID</key><integer>12958</integer>
+			<key>Name</key><string>The Fly</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9364063</integer>
+			<key>Total Time</key><integer>578880</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-15T04:43:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521697976</integer>
+			<key>Play Date UTC</key><date>2015-08-06T08:26:16Z</date>
+			<key>Normalization</key><integer>2100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Fly</string>
+			<key>Persistent ID</key><string>63CAE63B2C1B3B57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/04%20The%20Fly.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12960</key>
+		<dict>
+			<key>Track ID</key><integer>12960</integer>
+			<key>Name</key><string>Xpander</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6526237</integer>
+			<key>Total Time</key><integer>403800</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-15T04:43:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521698380</integer>
+			<key>Play Date UTC</key><date>2015-08-06T08:33:00Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F19D558C8D8FF166</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/05%20Xpander.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12962</key>
+		<dict>
+			<key>Track ID</key><integer>12962</integer>
+			<key>Name</key><string>One</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7283448</integer>
+			<key>Total Time</key><integer>450520</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521726636</integer>
+			<key>Play Date UTC</key><date>2015-08-06T16:23:56Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF2FC9E17AEDC0DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/06%20One.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12964</key>
+		<dict>
+			<key>Track ID</key><integer>12964</integer>
+			<key>Name</key><string>Headspace</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4435407</integer>
+			<key>Total Time</key><integer>274706</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521726911</integer>
+			<key>Play Date UTC</key><date>2015-08-06T16:28:31Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BC589C2ED5E6929</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/07%20Headspace.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12966</key>
+		<dict>
+			<key>Track ID</key><integer>12966</integer>
+			<key>Name</key><string>Dreamstate</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6411122</integer>
+			<key>Total Time</key><integer>396613</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521727307</integer>
+			<key>Play Date UTC</key><date>2015-08-06T16:35:07Z</date>
+			<key>Normalization</key><integer>2676</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59F0216EC4A9FF41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/08%20Dreamstate.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12968</key>
+		<dict>
+			<key>Track ID</key><integer>12968</integer>
+			<key>Name</key><string>Future In Computer Hell</string>
+			<key>Artist</key><string>Sasha</string>
+			<key>Album</key><string>Global Underground</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7156332</integer>
+			<key>Total Time</key><integer>440760</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2007-10-14T21:43:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3521782930</integer>
+			<key>Play Date UTC</key><date>2015-08-07T08:02:10Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B52E2BC3D5A417AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Sasha/Global%20Underground/09%20Future%20In%20Computer%20Hell.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>SAS</string>
+			<key>Playlist ID</key><integer>34612</integer>
+			<key>Playlist Persistent ID</key><string>62FFFF83ECF2FE47</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12932</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12938</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12942</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12948</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12962</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12964</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12968</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5726</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5728</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5766</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4598</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

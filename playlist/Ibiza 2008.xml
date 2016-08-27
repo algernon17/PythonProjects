@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:25:25Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6086</key>
+		<dict>
+			<key>Track ID</key><integer>6086</integer>
+			<key>Name</key><string>Pjanoo</string>
+			<key>Artist</key><string>Eric Prydz</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7106746</integer>
+			<key>Total Time</key><integer>214360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:15Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3525269612</integer>
+			<key>Play Date UTC</key><date>2015-09-16T16:33:32Z</date>
+			<key>Normalization</key><integer>3884</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>764DB155EE6377C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-01%20Pjanoo.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6088</key>
+		<dict>
+			<key>Track ID</key><integer>6088</integer>
+			<key>Name</key><string>Dance Wiv Me</string>
+			<key>Artist</key><string>Dizzee Rascal</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7931522</integer>
+			<key>Total Time</key><integer>240360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:16Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3525269852</integer>
+			<key>Play Date UTC</key><date>2015-09-16T16:37:32Z</date>
+			<key>Normalization</key><integer>3237</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B727D5B4413A3B11</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-02%20Dance%20Wiv%20Me.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6090</key>
+		<dict>
+			<key>Track ID</key><integer>6090</integer>
+			<key>Name</key><string>All I Ever Wanted (Wideboys Electro Remix)</string>
+			<key>Artist</key><string>Basshunter</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8670663</integer>
+			<key>Total Time</key><integer>261400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:17Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3525271368</integer>
+			<key>Play Date UTC</key><date>2015-09-16T17:02:48Z</date>
+			<key>Normalization</key><integer>3930</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6399791AFDA7D002</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-03%20All%20I%20Ever%20Wanted%20(Wideboys%20Electro%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6092</key>
+		<dict>
+			<key>Track ID</key><integer>6092</integer>
+			<key>Name</key><string>That's Not My Name (Tom Neville's Nameless Vocal Mix)</string>
+			<key>Artist</key><string>The Ting Tings</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10451723</integer>
+			<key>Total Time</key><integer>315333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3497029119</integer>
+			<key>Play Date UTC</key><date>2014-10-24T19:58:39Z</date>
+			<key>Normalization</key><integer>5248</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Ting Tings</string>
+			<key>Persistent ID</key><string>EC984C028265F1FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-04%20That's%20Not%20My%20Name%20(Tom%20Neville's%20Nameless%20Vocal%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6094</key>
+		<dict>
+			<key>Track ID</key><integer>6094</integer>
+			<key>Name</key><string>Rolex Sweep (Vandalism Remix)</string>
+			<key>Artist</key><string>Skepta</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7698468</integer>
+			<key>Total Time</key><integer>232173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3497029351</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:02:31Z</date>
+			<key>Normalization</key><integer>2208</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB31605635E57490</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-05%20Rolex%20Sweep%20(Vandalism%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6096</key>
+		<dict>
+			<key>Track ID</key><integer>6096</integer>
+			<key>Name</key><string>Crazy World (Fonzerelli Remix)</string>
+			<key>Artist</key><string>J Majik &#38; Wickaman</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10377853</integer>
+			<key>Total Time</key><integer>313280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:19Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3497029664</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:07:44Z</date>
+			<key>Normalization</key><integer>5663</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A35BF7102A8B827</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-06%20Crazy%20World%20(Fonzerelli%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6098</key>
+		<dict>
+			<key>Track ID</key><integer>6098</integer>
+			<key>Name</key><string>Can't Stop!</string>
+			<key>Artist</key><string>Jason Phats</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8160671</integer>
+			<key>Total Time</key><integer>246586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497029911</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:11:51Z</date>
+			<key>Normalization</key><integer>2616</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C77DBAB02CB8B38</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-07%20Can't%20Stop!.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6100</key>
+		<dict>
+			<key>Track ID</key><integer>6100</integer>
+			<key>Name</key><string>Hometown Glory (Axwell Club Remix)</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8234078</integer>
+			<key>Total Time</key><integer>248453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497030159</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:15:59Z</date>
+			<key>Normalization</key><integer>2381</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E65A1E8F61A9BDF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-08%20Hometown%20Glory%20(Axwell%20Club%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6102</key>
+		<dict>
+			<key>Track ID</key><integer>6102</integer>
+			<key>Name</key><string>Put Your Hands On</string>
+			<key>Artist</key><string>No Halo</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8918432</integer>
+			<key>Total Time</key><integer>268986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:21Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497030428</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:20:28Z</date>
+			<key>Normalization</key><integer>3782</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6824AC8071F0D0FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-09%20Put%20Your%20Hands%20On.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6104</key>
+		<dict>
+			<key>Track ID</key><integer>6104</integer>
+			<key>Name</key><string>Lazy (Moto Blanco Remix)</string>
+			<key>Artist</key><string>X-Press 2</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10167502</integer>
+			<key>Total Time</key><integer>306360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:21Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497030734</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:25:34Z</date>
+			<key>Normalization</key><integer>4007</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB9D0F23F4D032B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-10%20Lazy%20(Moto%20Blanco%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6106</key>
+		<dict>
+			<key>Track ID</key><integer>6106</integer>
+			<key>Name</key><string>What I Want</string>
+			<key>Artist</key><string>Bob Sinclar Presents Fireball</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5943338</integer>
+			<key>Total Time</key><integer>179333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497030914</integer>
+			<key>Play Date UTC</key><date>2014-10-24T20:28:34Z</date>
+			<key>Normalization</key><integer>4334</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66FCB0C40D29244B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-11%20What%20I%20Want.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6108</key>
+		<dict>
+			<key>Track ID</key><integer>6108</integer>
+			<key>Name</key><string>C'est La Vie</string>
+			<key>Artist</key><string>Martin Solveig</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7558209</integer>
+			<key>Total Time</key><integer>227906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3525875827</integer>
+			<key>Play Date UTC</key><date>2015-09-23T16:57:07Z</date>
+			<key>Normalization</key><integer>3525</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03B4092F081B96D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-12%20C'est%20La%20Vie.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6110</key>
+		<dict>
+			<key>Track ID</key><integer>6110</integer>
+			<key>Name</key><string>The One (Cedric Gervais Florianopolis Mix)</string>
+			<key>Artist</key><string>Sharam</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9170813</integer>
+			<key>Total Time</key><integer>276466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:23Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497180454</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:00:54Z</date>
+			<key>Normalization</key><integer>3242</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>One (Cedric Gervais Florianopolis Mix)</string>
+			<key>Persistent ID</key><string>9715645D09E41179</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-13%20The%20One%20(Cedric%20Gervais%20Florianopolis%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6112</key>
+		<dict>
+			<key>Track ID</key><integer>6112</integer>
+			<key>Name</key><string>When You Touch Me (Jean Maxwell Remix)</string>
+			<key>Artist</key><string>Freemasons</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8902598</integer>
+			<key>Total Time</key><integer>268986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:23Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497180723</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:05:23Z</date>
+			<key>Normalization</key><integer>5023</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E37DBABC65D700E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-14%20When%20You%20Touch%20Me%20(Jean%20Maxwell%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6114</key>
+		<dict>
+			<key>Track ID</key><integer>6114</integer>
+			<key>Name</key><string>Watch Out (Mac Project Remix)</string>
+			<key>Artist</key><string>Alex Gaudino</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10396548</integer>
+			<key>Total Time</key><integer>313840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497181037</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:10:37Z</date>
+			<key>Normalization</key><integer>4436</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F2F6FE59928B953</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-15%20Watch%20Out%20(Mac%20Project%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6116</key>
+		<dict>
+			<key>Track ID</key><integer>6116</integer>
+			<key>Name</key><string>Touch Me</string>
+			<key>Artist</key><string>Bingo Players Vs. Chocolate Puma</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6456322</integer>
+			<key>Total Time</key><integer>194280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497181231</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:13:51Z</date>
+			<key>Normalization</key><integer>2462</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0B54F888A1FF3D02</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-16%20Touch%20Me.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6118</key>
+		<dict>
+			<key>Track ID</key><integer>6118</integer>
+			<key>Name</key><string>24 Hours (Nice Tight Derriere) (Seamus Haji Big Love Mix)</string>
+			<key>Artist</key><string>Seamus Haji Vs. Lords Of Flatbush</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11099373</integer>
+			<key>Total Time</key><integer>334373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:25Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497181565</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:19:25Z</date>
+			<key>Normalization</key><integer>3948</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>524041B495E764C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-17%2024%20Hours%20(Nice%20Tight%20Derriere)%20(Seamus%20Haji%20Big%20Love%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6120</key>
+		<dict>
+			<key>Track ID</key><integer>6120</integer>
+			<key>Name</key><string>Love Shy (Paul Emmanuel Remix)</string>
+			<key>Artist</key><string>Platnum</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 1]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9418318</integer>
+			<key>Total Time</key><integer>285986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497181851</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:24:11Z</date>
+			<key>Normalization</key><integer>2997</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13FBDB57A7DF2E5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%201%5D/1-18%20Love%20Shy%20(Paul%20Emmanuel%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6122</key>
+		<dict>
+			<key>Track ID</key><integer>6122</integer>
+			<key>Name</key><string>Open Your Heart</string>
+			<key>Artist</key><string>Axwell &#38; Dirty South Feat. Rudy</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11128147</integer>
+			<key>Total Time</key><integer>333546</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3497182185</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:29:45Z</date>
+			<key>Normalization</key><integer>1231</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B796B837627BC869</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-01%20Open%20Your%20Heart.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6124</key>
+		<dict>
+			<key>Track ID</key><integer>6124</integer>
+			<key>Name</key><string>Gypsy</string>
+			<key>Artist</key><string>Steve Angello</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4369171</integer>
+			<key>Total Time</key><integer>128106</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:27Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3497182313</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:31:53Z</date>
+			<key>Normalization</key><integer>1231</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B38E400EAEADF4CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-02%20Gypsy.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6126</key>
+		<dict>
+			<key>Track ID</key><integer>6126</integer>
+			<key>Name</key><string>Hi Friend (Vocal Mix)</string>
+			<key>Artist</key><string>Deadmau5 Feat. MC Flipside</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9900844</integer>
+			<key>Total Time</key><integer>299973</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:27Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497182613</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:36:53Z</date>
+			<key>Normalization</key><integer>3410</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B340A83754E4AF5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-03%20Hi%20Friend%20(Vocal%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6128</key>
+		<dict>
+			<key>Track ID</key><integer>6128</integer>
+			<key>Name</key><string>Chime (Martijn Ten Velden Remix)</string>
+			<key>Artist</key><string>The Shapeshifters</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9077143</integer>
+			<key>Total Time</key><integer>273746</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497182887</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:41:27Z</date>
+			<key>Normalization</key><integer>3300</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Shapeshifters</string>
+			<key>Persistent ID</key><string>4DAD009DC4CE9FBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-04%20Chime%20(Martijn%20Ten%20Velden%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6130</key>
+		<dict>
+			<key>Track ID</key><integer>6130</integer>
+			<key>Name</key><string>Man With The Red Face</string>
+			<key>Artist</key><string>Mark Knight &#38; Funkagenda</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7906285</integer>
+			<key>Total Time</key><integer>238906</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3497183126</integer>
+			<key>Play Date UTC</key><date>2014-10-26T14:45:26Z</date>
+			<key>Normalization</key><integer>2044</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF461FF919EBDF50</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-05%20Man%20With%20The%20Red%20Face.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6132</key>
+		<dict>
+			<key>Track ID</key><integer>6132</integer>
+			<key>Name</key><string>Be</string>
+			<key>Artist</key><string>Steve Angello &#38; Laidback Luke</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8031325</integer>
+			<key>Total Time</key><integer>241680</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:29Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3484387634</integer>
+			<key>Play Date UTC</key><date>2014-05-31T12:27:14Z</date>
+			<key>Normalization</key><integer>1231</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>923813285D4CA571</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-06%20Be.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6134</key>
+		<dict>
+			<key>Track ID</key><integer>6134</integer>
+			<key>Name</key><string>88 EP</string>
+			<key>Artist</key><string>Dave Spoon</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9482102</integer>
+			<key>Total Time</key><integer>283760</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3484398818</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:33:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-06T21:32:43Z</date>
+			<key>Normalization</key><integer>1312</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDDAE32F34077EC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-07%2088%20EP.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6136</key>
+		<dict>
+			<key>Track ID</key><integer>6136</integer>
+			<key>Name</key><string>Ring Road (Laidback Luke Remix)</string>
+			<key>Artist</key><string>Underworld</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10694053</integer>
+			<key>Total Time</key><integer>322960</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:31Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3484399141</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:39:01Z</date>
+			<key>Normalization</key><integer>1958</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D11A90722665C0E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-08%20Ring%20Road%20(Laidback%20Luke%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6138</key>
+		<dict>
+			<key>Track ID</key><integer>6138</integer>
+			<key>Name</key><string>Pyramid (Dirty South Remix)</string>
+			<key>Artist</key><string>John Dahlbäck</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10333155</integer>
+			<key>Total Time</key><integer>313800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:31Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484399455</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:44:15Z</date>
+			<key>Normalization</key><integer>1773</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>637ADB26C36E1264</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-09%20Pyramid%20(Dirty%20South%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6140</key>
+		<dict>
+			<key>Track ID</key><integer>6140</integer>
+			<key>Name</key><string>Baba O'Riley (Arno Cost &#38; Normal Doray Remix)</string>
+			<key>Artist</key><string>The Cube Guys</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10695230</integer>
+			<key>Total Time</key><integer>324026</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484399779</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:49:39Z</date>
+			<key>Normalization</key><integer>1325</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Cube Guys</string>
+			<key>Persistent ID</key><string>45340E8CABDFB7AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-10%20Baba%20O'Riley%20(Arno%20Cost%20&#38;%20Normal%20Doray%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6142</key>
+		<dict>
+			<key>Track ID</key><integer>6142</integer>
+			<key>Name</key><string>Let It Go (D.O.N.S. &#38; DBN Mix)</string>
+			<key>Artist</key><string>Dirty South Feat. Rudy</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12447622</integer>
+			<key>Total Time</key><integer>373906</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:33Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484400152</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:55:52Z</date>
+			<key>Normalization</key><integer>1426</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D536EFA7B9F052C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-11%20Let%20It%20Go%20(D.O.N.S.%20&#38;%20DBN%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6144</key>
+		<dict>
+			<key>Track ID</key><integer>6144</integer>
+			<key>Name</key><string>Cheap Thrills (Laidback Luke Mix)</string>
+			<key>Artist</key><string>Hervé Feat. Plastic Little</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7330758</integer>
+			<key>Total Time</key><integer>220106</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:33Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484400373</integer>
+			<key>Play Date UTC</key><date>2014-05-31T15:59:33Z</date>
+			<key>Normalization</key><integer>2303</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8CFF6357FAFC772</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-12%20Cheap%20Thrills%20(Laidback%20Luke%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6146</key>
+		<dict>
+			<key>Track ID</key><integer>6146</integer>
+			<key>Name</key><string>Mad Kidz</string>
+			<key>Artist</key><string>Crookers</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7836475</integer>
+			<key>Total Time</key><integer>236000</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:34Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3166</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4A3C5002CDC859D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-13%20Mad%20Kidz.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6148</key>
+		<dict>
+			<key>Track ID</key><integer>6148</integer>
+			<key>Name</key><string>Star Guitar</string>
+			<key>Artist</key><string>Shinichi Osawa</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7089664</integer>
+			<key>Total Time</key><integer>213746</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:34Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4945</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF8E38A070C0886A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-14%20Star%20Guitar.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6150</key>
+		<dict>
+			<key>Track ID</key><integer>6150</integer>
+			<key>Name</key><string>Tell Me (Vandalism Remix)</string>
+			<key>Artist</key><string>DJ NG Feat. Katy B &#38; MC Versatile</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7386271</integer>
+			<key>Total Time</key><integer>223346</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:35Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3237</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>296799FEBB4C02D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-15%20Tell%20Me%20(Vandalism%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6152</key>
+		<dict>
+			<key>Track ID</key><integer>6152</integer>
+			<key>Name</key><string>Rise Of Ulysses (Dave Lievense Remix)</string>
+			<key>Artist</key><string>The Japanese Popstars</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8900399</integer>
+			<key>Total Time</key><integer>268573</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4006</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Japanese Popstars</string>
+			<key>Persistent ID</key><string>D0F5E081DF41B8A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-16%20Rise%20Of%20Ulysses%20(Dave%20Lievense%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6154</key>
+		<dict>
+			<key>Track ID</key><integer>6154</integer>
+			<key>Name</key><string>Sunshyne</string>
+			<key>Artist</key><string>James Talk &#38; Ridney</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8411762</integer>
+			<key>Total Time</key><integer>253213</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2347</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CFA160E9B169A09</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-17%20Sunshyne.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6156</key>
+		<dict>
+			<key>Track ID</key><integer>6156</integer>
+			<key>Name</key><string>Crash Jack</string>
+			<key>Artist</key><string>Darren Emerson</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 2]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6920766</integer>
+			<key>Total Time</key><integer>210920</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:37Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2143</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91568B97A98682E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%202%5D/2-18%20Crash%20Jack.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6158</key>
+		<dict>
+			<key>Track ID</key><integer>6158</integer>
+			<key>Name</key><string>Ride (Tiësto Remix)</string>
+			<key>Artist</key><string>Cary Brothers</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10199508</integer>
+			<key>Total Time</key><integer>306466</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479576356</integer>
+			<key>Play Date UTC</key><date>2014-04-05T19:59:16Z</date>
+			<key>Normalization</key><integer>2825</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D69CA019C44BAC51</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-01%20Ride%20(Tie%CC%88sto%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6160</key>
+		<dict>
+			<key>Track ID</key><integer>6160</integer>
+			<key>Name</key><string>Not Over (Robert Vadney's 3AM Goodbye Remix)</string>
+			<key>Artist</key><string>Oakenfold</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9130109</integer>
+			<key>Total Time</key><integer>276373</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479576632</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:03:52Z</date>
+			<key>Normalization</key><integer>4381</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8DDB55DB2EEE841</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-02%20Not%20Over%20(Robert%20Vadney's%203AM%20Goodbye%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6162</key>
+		<dict>
+			<key>Track ID</key><integer>6162</integer>
+			<key>Name</key><string>Going Wrong</string>
+			<key>Artist</key><string>Armin Van Buuren &#38; DJ Shah</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10143985</integer>
+			<key>Total Time</key><integer>305453</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479576937</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:08:57Z</date>
+			<key>Normalization</key><integer>3542</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DAB74E282753EAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-03%20Going%20Wrong.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6164</key>
+		<dict>
+			<key>Track ID</key><integer>6164</integer>
+			<key>Name</key><string>Organic</string>
+			<key>Artist</key><string>Marco V &#38; Sander Van Doorn</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5877744</integer>
+			<key>Total Time</key><integer>173800</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479577111</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:11:51Z</date>
+			<key>Normalization</key><integer>2426</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A881DC432DB48AB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-04%20Organic.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6166</key>
+		<dict>
+			<key>Track ID</key><integer>6166</integer>
+			<key>Name</key><string>Lost Connection</string>
+			<key>Artist</key><string>Jochen Miller</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6554801</integer>
+			<key>Total Time</key><integer>199133</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:41Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479577310</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:15:10Z</date>
+			<key>Normalization</key><integer>2876</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C8F3E2791C8C1B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-05%20Lost%20Connection.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6168</key>
+		<dict>
+			<key>Track ID</key><integer>6168</integer>
+			<key>Name</key><string>Lemon Tree (Mr Pits House Parade Remix)</string>
+			<key>Artist</key><string>Marcel Woods</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8103032</integer>
+			<key>Total Time</key><integer>244800</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:43Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479577555</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:19:15Z</date>
+			<key>Normalization</key><integer>2972</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5811DC4F5ACEBDF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-06%20Lemon%20Tree%20(Mr%20Pits%20House%20Parade%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6170</key>
+		<dict>
+			<key>Track ID</key><integer>6170</integer>
+			<key>Name</key><string>Ways &#38; Means (Paul Van Dyke Remix)</string>
+			<key>Artist</key><string>John O'Bir</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9720226</integer>
+			<key>Total Time</key><integer>292426</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479577847</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:24:07Z</date>
+			<key>Normalization</key><integer>2860</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61D11ACD667A7B71</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-07%20Ways%20&#38;%20Means%20(Paul%20Van%20Dyke%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6172</key>
+		<dict>
+			<key>Track ID</key><integer>6172</integer>
+			<key>Name</key><string>What You Need (Marco V Remix)</string>
+			<key>Artist</key><string>Nic Chagall</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9306139</integer>
+			<key>Total Time</key><integer>278240</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T21:11:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479578126</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:28:46Z</date>
+			<key>Normalization</key><integer>3231</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>802F3EC60C50DC2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-08%20What%20You%20Need%20(Marco%20V%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6174</key>
+		<dict>
+			<key>Track ID</key><integer>6174</integer>
+			<key>Name</key><string>All The Way</string>
+			<key>Artist</key><string>Ronski Speed</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10114070</integer>
+			<key>Total Time</key><integer>305200</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:47Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479578431</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:33:51Z</date>
+			<key>Normalization</key><integer>5792</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15FEE8714A688CC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-09%20All%20The%20Way.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6176</key>
+		<dict>
+			<key>Track ID</key><integer>6176</integer>
+			<key>Name</key><string>A Day That Fades (Shifted Reality Remix)</string>
+			<key>Artist</key><string>Cosmic Gate</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8571213</integer>
+			<key>Total Time</key><integer>258240</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479578689</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:38:09Z</date>
+			<key>Normalization</key><integer>4582</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Day That Fades (Shifted Reality Remix)</string>
+			<key>Persistent ID</key><string>350CA3114A51F3B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-10%20A%20Day%20That%20Fades%20(Shifted%20Reality%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6178</key>
+		<dict>
+			<key>Track ID</key><integer>6178</integer>
+			<key>Name</key><string>Stars Of Ibiza (Sean Tyas Remix)</string>
+			<key>Artist</key><string>Bubble Fish</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8270628</integer>
+			<key>Total Time</key><integer>250413</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:49Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479578940</integer>
+			<key>Play Date UTC</key><date>2014-04-05T20:42:20Z</date>
+			<key>Normalization</key><integer>5934</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B3A26601BAAA266</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-11%20Stars%20Of%20Ibiza%20(Sean%20Tyas%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6180</key>
+		<dict>
+			<key>Track ID</key><integer>6180</integer>
+			<key>Name</key><string>Carte Blanche (Cosmic Gate Remix)</string>
+			<key>Artist</key><string>Veracocha</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7030450</integer>
+			<key>Total Time</key><integer>208680</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:50Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477067422</integer>
+			<key>Play Date UTC</key><date>2014-03-07T19:03:42Z</date>
+			<key>Normalization</key><integer>2786</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4032055F56E940A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-12%20Carte%20Blanche%20(Cosmic%20Gate%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6182</key>
+		<dict>
+			<key>Track ID</key><integer>6182</integer>
+			<key>Name</key><string>Miracle (Above &#38; Beyond Remix)</string>
+			<key>Artist</key><string>Oceanlab</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11024796</integer>
+			<key>Total Time</key><integer>333880</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:51Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477137643</integer>
+			<key>Play Date UTC</key><date>2014-03-08T14:34:03Z</date>
+			<key>Normalization</key><integer>3538</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>167CFBF5DDD917B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-13%20Miracle%20(Above%20&#38;%20Beyond%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6184</key>
+		<dict>
+			<key>Track ID</key><integer>6184</integer>
+			<key>Name</key><string>Big Sky (Agnelli &#38; Nelson Remix)</string>
+			<key>Artist</key><string>John O'Callaghan</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11297837</integer>
+			<key>Total Time</key><integer>340840</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:53Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477137984</integer>
+			<key>Play Date UTC</key><date>2014-03-08T14:39:44Z</date>
+			<key>Normalization</key><integer>4881</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BB6FBAB9E4515D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-14%20Big%20Sky%20(Agnelli%20&#38;%20Nelson%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6186</key>
+		<dict>
+			<key>Track ID</key><integer>6186</integer>
+			<key>Name</key><string>Perfect (Agnelli &#38; Nelson Remix)</string>
+			<key>Artist</key><string>Markus Schulz</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10619628</integer>
+			<key>Total Time</key><integer>319973</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3479570451</integer>
+			<key>Play Date UTC</key><date>2014-04-05T18:20:51Z</date>
+			<key>Normalization</key><integer>3003</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4A086B25ADFE8B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-15%20Perfect%20(Agnelli%20&#38;%20Nelson%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6188</key>
+		<dict>
+			<key>Track ID</key><integer>6188</integer>
+			<key>Name</key><string>Falling Tides</string>
+			<key>Artist</key><string>Mark Pledger Vs. Matt Hardwick</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9199526</integer>
+			<key>Total Time</key><integer>278240</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:55Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477138582</integer>
+			<key>Play Date UTC</key><date>2014-03-08T14:49:42Z</date>
+			<key>Normalization</key><integer>4259</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>31A540A7D13EC3FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-16%20Falling%20Tides.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6190</key>
+		<dict>
+			<key>Track ID</key><integer>6190</integer>
+			<key>Name</key><string>Smack</string>
+			<key>Artist</key><string>Simon Patterson</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5995720</integer>
+			<key>Total Time</key><integer>180853</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477138763</integer>
+			<key>Play Date UTC</key><date>2014-03-08T14:52:43Z</date>
+			<key>Normalization</key><integer>5185</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>016AA30028818008</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-17%20Smack.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6192</key>
+		<dict>
+			<key>Track ID</key><integer>6192</integer>
+			<key>Name</key><string>Laid Bare (Trumpet Mix)</string>
+			<key>Artist</key><string>Judge Jules</string>
+			<key>Album</key><string>Ibiza Annual 2008 [Disc 3]</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7450357</integer>
+			<key>Total Time</key><integer>228626</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-10-31T15:11:57Z</date>
+			<key>Date Added</key><date>2014-01-31T22:30:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3477138992</integer>
+			<key>Play Date UTC</key><date>2014-03-08T14:56:32Z</date>
+			<key>Normalization</key><integer>5388</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C33A7448FC598156</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Compilations/Ibiza%20Annual%202008%20%5BDisc%203%5D/3-18%20Laid%20Bare%20(Trumpet%20Mix).m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Ibiza 2008</string>
+			<key>Playlist ID</key><integer>34377</integer>
+			<key>Playlist Persistent ID</key><string>7C95A88840F1A161</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6156</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6174</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6192</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

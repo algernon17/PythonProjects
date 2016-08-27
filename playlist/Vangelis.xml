@@ -1,0 +1,2944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:27:15Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14496</key>
+		<dict>
+			<key>Track ID</key><integer>14496</integer>
+			<key>Name</key><string>Longing</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3896439</integer>
+			<key>Total Time</key><integer>117786</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:50:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541004324</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:18:44Z</date>
+			<key>Normalization</key><integer>915</integer>
+			<key>Persistent ID</key><string>E3AC987E695628EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-01%20Longing.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14498</key>
+		<dict>
+			<key>Track ID</key><integer>14498</integer>
+			<key>Name</key><string>Unveiled Twinkling Space</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3938303</integer>
+			<key>Total Time</key><integer>119040</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:50:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541004443</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:20:43Z</date>
+			<key>Normalization</key><integer>931</integer>
+			<key>Persistent ID</key><string>E7F2CF2037D5FC78</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-02%20Unveiled%20Twinkling%20Space.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14500</key>
+		<dict>
+			<key>Track ID</key><integer>14500</integer>
+			<key>Name</key><string>Dr. Tyrell's Owl</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5290562</integer>
+			<key>Total Time</key><integer>159946</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:50:35Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541004603</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:23:23Z</date>
+			<key>Normalization</key><integer>362</integer>
+			<key>Persistent ID</key><string>57DFF2B2A52C4C75</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-03%20Dr.%20Tyrell's%20Owl.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14502</key>
+		<dict>
+			<key>Track ID</key><integer>14502</integer>
+			<key>Name</key><string>At Mr. Chew's</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9470154</integer>
+			<key>Total Time</key><integer>287066</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:50:57Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541004890</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:28:10Z</date>
+			<key>Normalization</key><integer>934</integer>
+			<key>Persistent ID</key><string>61DE006507282392</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-04%20At%20Mr.%20Chew's.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14504</key>
+		<dict>
+			<key>Track ID</key><integer>14504</integer>
+			<key>Name</key><string>Leo's Room</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4660903</integer>
+			<key>Total Time</key><integer>141226</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:51:07Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541005031</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:30:31Z</date>
+			<key>Normalization</key><integer>577</integer>
+			<key>Persistent ID</key><string>36170B8731720897</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-05%20Leo's%20Room.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14506</key>
+		<dict>
+			<key>Track ID</key><integer>14506</integer>
+			<key>Name</key><string>One Alone</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4738557</integer>
+			<key>Total Time</key><integer>142880</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:51:17Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541005174</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:32:54Z</date>
+			<key>Normalization</key><integer>753</integer>
+			<key>Persistent ID</key><string>1DC83E22E3ED1A3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-06%20One%20Alone.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14508</key>
+		<dict>
+			<key>Track ID</key><integer>14508</integer>
+			<key>Name</key><string>Deckard And Roy's Duel</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12464690</integer>
+			<key>Total Time</key><integer>376026</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:51:41Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541005550</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:39:10Z</date>
+			<key>Normalization</key><integer>1018</integer>
+			<key>Persistent ID</key><string>E94CD9812C149AF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-07%20Deckard%20And%20Roy's%20Duel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14510</key>
+		<dict>
+			<key>Track ID</key><integer>14510</integer>
+			<key>Name</key><string>Dr. Tyrell's Death</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6455228</integer>
+			<key>Total Time</key><integer>190720</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:51:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541005740</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:42:20Z</date>
+			<key>Normalization</key><integer>1187</integer>
+			<key>Persistent ID</key><string>31744CF3BC3F2295</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-08%20Dr.%20Tyrell's%20Death.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14512</key>
+		<dict>
+			<key>Track ID</key><integer>14512</integer>
+			<key>Name</key><string>Desolation Path</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11413331</integer>
+			<key>Total Time</key><integer>344933</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:52:13Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541006085</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:48:05Z</date>
+			<key>Normalization</key><integer>1092</integer>
+			<key>Persistent ID</key><string>C0331A9A73CDB307</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-09%20Desolation%20Path.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14514</key>
+		<dict>
+			<key>Track ID</key><integer>14514</integer>
+			<key>Name</key><string>Empty Streets</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12412236</integer>
+			<key>Total Time</key><integer>376493</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:52:35Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541006462</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:54:22Z</date>
+			<key>Normalization</key><integer>329</integer>
+			<key>Persistent ID</key><string>A31F4DC8BEEA0679</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-10%20Empty%20Streets.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14516</key>
+		<dict>
+			<key>Track ID</key><integer>14516</integer>
+			<key>Name</key><string>Mechanical Dolls</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5712579</integer>
+			<key>Total Time</key><integer>172080</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:52:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541006634</integer>
+			<key>Play Date UTC</key><date>2016-03-16T19:57:14Z</date>
+			<key>Normalization</key><integer>181</integer>
+			<key>Persistent ID</key><string>CDBEED072EDC5B07</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-11%20Mechanical%20Dolls.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14518</key>
+		<dict>
+			<key>Track ID</key><integer>14518</integer>
+			<key>Name</key><string>Fading Away</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>2582 Blade Runner Trilogy 25th Anniversary [Blade Runner Previously Unreleased &#38; Bonus Material]</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6663518</integer>
+			<key>Total Time</key><integer>211800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T21:52:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3541006846</integer>
+			<key>Play Date UTC</key><date>2016-03-16T20:00:46Z</date>
+			<key>Normalization</key><integer>1248</integer>
+			<key>Persistent ID</key><string>90966AD23517D5B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/2582%20Blade%20Runner%20Trilogy%2025th%20Anniversary%20%5BBlade%20Runner%20Previously%20Unreleased%20&#38;%20Bonus%20Material%5D/2-12%20Fading%20Away.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14524</key>
+		<dict>
+			<key>Track ID</key><integer>14524</integer>
+			<key>Name</key><string>Main Titles</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7321978</integer>
+			<key>Total Time</key><integer>222373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T20:40:39Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3541007068</integer>
+			<key>Play Date UTC</key><date>2016-03-16T20:04:28Z</date>
+			<key>Normalization</key><integer>1019</integer>
+			<key>Persistent ID</key><string>82FCCDC39970D70F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/01%20Main%20Titles.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14526</key>
+		<dict>
+			<key>Track ID</key><integer>14526</integer>
+			<key>Name</key><string>Blush Response</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11437962</integer>
+			<key>Total Time</key><integer>346693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T20:41:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3541007415</integer>
+			<key>Play Date UTC</key><date>2016-03-16T20:10:15Z</date>
+			<key>Normalization</key><integer>514</integer>
+			<key>Persistent ID</key><string>12C51B568F36C870</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/02%20Blush%20Response.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14528</key>
+		<dict>
+			<key>Track ID</key><integer>14528</integer>
+			<key>Name</key><string>Wait For Me</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10817168</integer>
+			<key>Total Time</key><integer>327533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T20:41:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483627833</integer>
+			<key>Play Date UTC</key><date>2014-05-22T17:23:53Z</date>
+			<key>Normalization</key><integer>969</integer>
+			<key>Persistent ID</key><string>4E5C515B3A979825</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/03%20Wait%20For%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14530</key>
+		<dict>
+			<key>Track ID</key><integer>14530</integer>
+			<key>Name</key><string>Rachel's Song</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9367711</integer>
+			<key>Total Time</key><integer>286573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T20:41:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483628120</integer>
+			<key>Play Date UTC</key><date>2014-05-22T17:28:40Z</date>
+			<key>Normalization</key><integer>402</integer>
+			<key>Persistent ID</key><string>DC13A47A0B6BFEE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/04%20Rachel's%20Song.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14532</key>
+		<dict>
+			<key>Track ID</key><integer>14532</integer>
+			<key>Name</key><string>Love Theme</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9652980</integer>
+			<key>Total Time</key><integer>297493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:42:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483674919</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:28:39Z</date>
+			<key>Normalization</key><integer>952</integer>
+			<key>Persistent ID</key><string>C3A692E851036608</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/05%20Love%20Theme.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14534</key>
+		<dict>
+			<key>Track ID</key><integer>14534</integer>
+			<key>Name</key><string>One More Kiss, Dear</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7835893</integer>
+			<key>Total Time</key><integer>237906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2010-09-23T13:42:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483675157</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:32:37Z</date>
+			<key>Normalization</key><integer>530</integer>
+			<key>Persistent ID</key><string>AC5CD4ADDE0C5897</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/06%20One%20More%20Kiss,%20Dear.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14536</key>
+		<dict>
+			<key>Track ID</key><integer>14536</integer>
+			<key>Name</key><string>Blade Runner Blues</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>17672317</integer>
+			<key>Total Time</key><integer>534400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:42:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483675691</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:41:31Z</date>
+			<key>Normalization</key><integer>281</integer>
+			<key>Persistent ID</key><string>FFB16587AE8448CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/07%20Blade%20Runner%20Blues.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14538</key>
+		<dict>
+			<key>Track ID</key><integer>14538</integer>
+			<key>Name</key><string>Memories Of Green</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10075764</integer>
+			<key>Total Time</key><integer>305026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:43:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483675996</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:46:36Z</date>
+			<key>Normalization</key><integer>482</integer>
+			<key>Persistent ID</key><string>3B1ADCBD84F697E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/08%20Memories%20Of%20Green.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14540</key>
+		<dict>
+			<key>Track ID</key><integer>14540</integer>
+			<key>Name</key><string>Tales Of The Future</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9451632</integer>
+			<key>Total Time</key><integer>286506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:43:27Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483676282</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:51:22Z</date>
+			<key>Normalization</key><integer>386</integer>
+			<key>Persistent ID</key><string>AC3DB488ECE8F20E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/09%20Tales%20Of%20The%20Future.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14542</key>
+		<dict>
+			<key>Track ID</key><integer>14542</integer>
+			<key>Name</key><string>Damask Rose</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4988453</integer>
+			<key>Total Time</key><integer>152826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:43:37Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483676435</integer>
+			<key>Play Date UTC</key><date>2014-05-23T06:53:55Z</date>
+			<key>Normalization</key><integer>74</integer>
+			<key>Persistent ID</key><string>E5C87848EBA58DE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/10%20Damask%20Rose.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14544</key>
+		<dict>
+			<key>Track ID</key><integer>14544</integer>
+			<key>Name</key><string>Blade Runner (End Titles)</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9845483</integer>
+			<key>Total Time</key><integer>279373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:43:53Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761147</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:25:47Z</date>
+			<key>Normalization</key><integer>1115</integer>
+			<key>Persistent ID</key><string>481138CE05B82355</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/11%20Blade%20Runner%20(End%20Titles).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14546</key>
+		<dict>
+			<key>Track ID</key><integer>14546</integer>
+			<key>Name</key><string>Tears In Rain</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5862746</integer>
+			<key>Total Time</key><integer>180933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T13:44:04Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761328</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:28:48Z</date>
+			<key>Normalization</key><integer>1204</integer>
+			<key>Persistent ID</key><string>97E36029F4ED2A01</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/12%20Tears%20In%20Rain.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14548</key>
+		<dict>
+			<key>Track ID</key><integer>14548</integer>
+			<key>Name</key><string>Launch Approval</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3740819</integer>
+			<key>Total Time</key><integer>113493</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:21:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761442</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:30:42Z</date>
+			<key>Normalization</key><integer>1079</integer>
+			<key>Persistent ID</key><string>E75700C737841A21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-01%20Launch%20Approval.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14550</key>
+		<dict>
+			<key>Track ID</key><integer>14550</integer>
+			<key>Name</key><string>Up And Running</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6467258</integer>
+			<key>Total Time</key><integer>188693</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:21:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761630</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:33:50Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>74E9BFDAA23438C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-02%20Up%20And%20Running.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14552</key>
+		<dict>
+			<key>Track ID</key><integer>14552</integer>
+			<key>Name</key><string>Mail From India</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6861988</integer>
+			<key>Total Time</key><integer>207466</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:22:02Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761838</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:37:18Z</date>
+			<key>Normalization</key><integer>395</integer>
+			<key>Persistent ID</key><string>E59318A587F5EE19</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-03%20Mail%20From%20India.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14554</key>
+		<dict>
+			<key>Track ID</key><integer>14554</integer>
+			<key>Name</key><string>BR Downtown</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4871318</integer>
+			<key>Total Time</key><integer>147426</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:22:13Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483761985</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:39:45Z</date>
+			<key>Normalization</key><integer>1150</integer>
+			<key>Persistent ID</key><string>7E594E00AE4B184A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-04%20BR%20Downtown.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14556</key>
+		<dict>
+			<key>Track ID</key><integer>14556</integer>
+			<key>Name</key><string>Dimitri's Bar</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7671375</integer>
+			<key>Total Time</key><integer>231986</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:22:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483762217</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:43:37Z</date>
+			<key>Normalization</key><integer>1239</integer>
+			<key>Persistent ID</key><string>9C046256466B23F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-05%20Dimitri's%20Bar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14558</key>
+		<dict>
+			<key>Track ID</key><integer>14558</integer>
+			<key>Name</key><string>Sweet Solitude</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13763339</integer>
+			<key>Total Time</key><integer>416453</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T22:22:56Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483762634</integer>
+			<key>Play Date UTC</key><date>2014-05-24T06:50:34Z</date>
+			<key>Normalization</key><integer>895</integer>
+			<key>Persistent ID</key><string>5069E19CF3948BB0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-06%20Sweet%20Solitude.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14560</key>
+		<dict>
+			<key>Track ID</key><integer>14560</integer>
+			<key>Name</key><string>No Expectation Boulevard</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>13413289</integer>
+			<key>Total Time</key><integer>404306</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T22:23:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483795975</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:06:15Z</date>
+			<key>Normalization</key><integer>1184</integer>
+			<key>Persistent ID</key><string>7E69F6092B27C808</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-07%20No%20Expectation%20Boulevard.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14562</key>
+		<dict>
+			<key>Track ID</key><integer>14562</integer>
+			<key>Name</key><string>Vadavarot</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8397351</integer>
+			<key>Total Time</key><integer>254026</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:23:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483796229</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:10:29Z</date>
+			<key>Normalization</key><integer>616</integer>
+			<key>Persistent ID</key><string>F6773421E5D90917</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-08%20Vadavarot.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14564</key>
+		<dict>
+			<key>Track ID</key><integer>14564</integer>
+			<key>Name</key><string>Perfume Exotico</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10709257</integer>
+			<key>Total Time</key><integer>319253</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:23:55Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483796548</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:15:48Z</date>
+			<key>Normalization</key><integer>1111</integer>
+			<key>Persistent ID</key><string>845943B2C535E021</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-09%20Perfume%20Exotico.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14566</key>
+		<dict>
+			<key>Track ID</key><integer>14566</integer>
+			<key>Name</key><string>Spotkanie Z Matka</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Konstanty Ildefons Galczynski</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10614126</integer>
+			<key>Total Time</key><integer>309320</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:24:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483796857</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:20:57Z</date>
+			<key>Normalization</key><integer>978</integer>
+			<key>Persistent ID</key><string>06BDE70D58FA99A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-10%20Spotkanie%20Z%20Matka.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14568</key>
+		<dict>
+			<key>Track ID</key><integer>14568</integer>
+			<key>Name</key><string>Piano In An Empty Room</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7127171</integer>
+			<key>Total Time</key><integer>216826</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:24:27Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483797074</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:24:34Z</date>
+			<key>Normalization</key><integer>367</integer>
+			<key>Persistent ID</key><string>E30FBC2DA88FFA79</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-11%20Piano%20In%20An%20Empty%20Room.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14570</key>
+		<dict>
+			<key>Track ID</key><integer>14570</integer>
+			<key>Name</key><string>Keep Asking</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2823412</integer>
+			<key>Total Time</key><integer>89333</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2010-09-23T15:24:33Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3483797163</integer>
+			<key>Play Date UTC</key><date>2014-05-24T16:26:03Z</date>
+			<key>Normalization</key><integer>82</integer>
+			<key>Persistent ID</key><string>699F1BD28E3CF329</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Blade%20Runner/3-12%20Keep%20Asking.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14572</key>
+		<dict>
+			<key>Track ID</key><integer>14572</integer>
+			<key>Name</key><string>Pulstar</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5298495</integer>
+			<key>Total Time</key><integer>324240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524315077</integer>
+			<key>Play Date UTC</key><date>2015-09-05T15:24:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-03-19T18:20:33Z</date>
+			<key>Normalization</key><integer>1242</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FFF11A78A396316</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/01%20Pulstar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14574</key>
+		<dict>
+			<key>Track ID</key><integer>14574</integer>
+			<key>Name</key><string>Hymn</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2611975</integer>
+			<key>Total Time</key><integer>163666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524315241</integer>
+			<key>Play Date UTC</key><date>2015-09-05T15:27:21Z</date>
+			<key>Normalization</key><integer>1098</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E22DFF865DF7F73B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/02%20Hymn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14576</key>
+		<dict>
+			<key>Track ID</key><integer>14576</integer>
+			<key>Name</key><string>Main Theme From 'Chariots Of Fire'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3461355</integer>
+			<key>Total Time</key><integer>210613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524319432</integer>
+			<key>Play Date UTC</key><date>2015-09-05T16:37:12Z</date>
+			<key>Normalization</key><integer>1304</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>509204765D3DC05B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/03%20Main%20Theme%20From%20'Chariots%20Of%20Fire'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14578</key>
+		<dict>
+			<key>Track ID</key><integer>14578</integer>
+			<key>Name</key><string>Main Theme From 'Missing'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3886348</integer>
+			<key>Total Time</key><integer>237026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524320108</integer>
+			<key>Play Date UTC</key><date>2015-09-05T16:48:28Z</date>
+			<key>Normalization</key><integer>979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BFB351ACE000EF62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/04%20Main%20Theme%20From%20'Missing'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14580</key>
+		<dict>
+			<key>Track ID</key><integer>14580</integer>
+			<key>Name</key><string>Love Theme From 'Blade Runner'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4856762</integer>
+			<key>Total Time</key><integer>293866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524320477</integer>
+			<key>Play Date UTC</key><date>2015-09-05T16:54:37Z</date>
+			<key>Normalization</key><integer>1067</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8C598BC62D85872</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/05%20Love%20Theme%20From%20'Blade%20Runner'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14582</key>
+		<dict>
+			<key>Track ID</key><integer>14582</integer>
+			<key>Name</key><string>End Titles From 'Blade Runner'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4132959</integer>
+			<key>Total Time</key><integer>249520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524320727</integer>
+			<key>Play Date UTC</key><date>2015-09-05T16:58:47Z</date>
+			<key>Normalization</key><integer>1223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A978C46AA8773B3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/06%20End%20Titles%20From%20'Blade%20Runner'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14584</key>
+		<dict>
+			<key>Track ID</key><integer>14584</integer>
+			<key>Name</key><string>The Tao Of Love</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2255174</integer>
+			<key>Total Time</key><integer>139600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524320866</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:01:06Z</date>
+			<key>Normalization</key><integer>686</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Tao Of Love</string>
+			<key>Persistent ID</key><string>C11C0A21373935EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/07%20The%20Tao%20Of%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14586</key>
+		<dict>
+			<key>Track ID</key><integer>14586</integer>
+			<key>Name</key><string>Theme From 'Antarctica'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3858350</integer>
+			<key>Total Time</key><integer>232506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524321099</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:04:59Z</date>
+			<key>Normalization</key><integer>1125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22DF162A6B2E3AC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/08%20Theme%20From%20'Antarctica'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14588</key>
+		<dict>
+			<key>Track ID</key><integer>14588</integer>
+			<key>Name</key><string>Theme From 'Cavafy'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2737755</integer>
+			<key>Total Time</key><integer>168440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524321267</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:07:47Z</date>
+			<key>Normalization</key><integer>300</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6219BEF0C41C2FE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/09%20Theme%20From%20'Cavafy'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14590</key>
+		<dict>
+			<key>Track ID</key><integer>14590</integer>
+			<key>Name</key><string>Opening Titles From 'Mutiny On The Bounty'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3821976</integer>
+			<key>Total Time</key><integer>230813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3524321498</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:11:38Z</date>
+			<key>Normalization</key><integer>844</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94C715141BFD580B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/10%20Opening%20Titles%20From%20'Mutiny%20On%20The%20Bounty'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14592</key>
+		<dict>
+			<key>Track ID</key><integer>14592</integer>
+			<key>Name</key><string>Conquest Of Paradise</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5872271</integer>
+			<key>Total Time</key><integer>368693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524321867</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:17:47Z</date>
+			<key>Normalization</key><integer>1051</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AEB733D54CFABFAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/11%20Conquest%20Of%20Paradise.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14594</key>
+		<dict>
+			<key>Track ID</key><integer>14594</integer>
+			<key>Name</key><string>La Petite Fille De La Mer</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5811799</integer>
+			<key>Total Time</key><integer>354000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524322221</integer>
+			<key>Play Date UTC</key><date>2015-09-05T17:23:41Z</date>
+			<key>Normalization</key><integer>687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E11160525C4C5925</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/12%20La%20Petite%20Fille%20De%20La%20Mer.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14596</key>
+		<dict>
+			<key>Track ID</key><integer>14596</integer>
+			<key>Name</key><string>L'Enfant</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4785597</integer>
+			<key>Total Time</key><integer>297866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524326552</integer>
+			<key>Play Date UTC</key><date>2015-09-05T18:35:52Z</date>
+			<key>Normalization</key><integer>1106</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92EB21A4A07A664E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/13%20L'Enfant.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14598</key>
+		<dict>
+			<key>Track ID</key><integer>14598</integer>
+			<key>Name</key><string>Alpha</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5191746</integer>
+			<key>Total Time</key><integer>313240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3524326865</integer>
+			<key>Play Date UTC</key><date>2015-09-05T18:41:05Z</date>
+			<key>Normalization</key><integer>868</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C310140127BA4F3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/14%20Alpha.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14600</key>
+		<dict>
+			<key>Track ID</key><integer>14600</integer>
+			<key>Name</key><string>Celtic Dawn</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3908786</integer>
+			<key>Total Time</key><integer>245973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524327111</integer>
+			<key>Play Date UTC</key><date>2015-09-05T18:45:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-10-30T19:41:18Z</date>
+			<key>Normalization</key><integer>1037</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A52523DFCA85BF82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/15%20Celtic%20Dawn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14602</key>
+		<dict>
+			<key>Track ID</key><integer>14602</integer>
+			<key>Name</key><string>Movement One From 'Mythodea'</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5098307</integer>
+			<key>Total Time</key><integer>322493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524327433</integer>
+			<key>Play Date UTC</key><date>2015-09-05T18:50:33Z</date>
+			<key>Normalization</key><integer>1082</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E61AE67A3F06CDFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/16%20Movement%20One%20From%20'Mythodea'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14604</key>
+		<dict>
+			<key>Track ID</key><integer>14604</integer>
+			<key>Name</key><string>I'll Find My Way Home (Featuring Jon Anderson)</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4345884</integer>
+			<key>Total Time</key><integer>270253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524327704</integer>
+			<key>Play Date UTC</key><date>2015-09-05T18:55:04Z</date>
+			<key>Normalization</key><integer>1241</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2CB394F579212B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/17%20I'll%20Find%20My%20Way%20Home%20(Featuring%20Jon%20Anderson).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14606</key>
+		<dict>
+			<key>Track ID</key><integer>14606</integer>
+			<key>Name</key><string>State Of Independence (Featuring Jon Anderson)</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4809088</integer>
+			<key>Total Time</key><integer>299960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328004</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:00:04Z</date>
+			<key>Normalization</key><integer>1083</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>606357D078DD4AF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Odyssey/18%20State%20Of%20Independence%20(Featuring%20Jon%20Anderson).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14608</key>
+		<dict>
+			<key>Track ID</key><integer>14608</integer>
+			<key>Name</key><string>Bon Voyage</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2186981</integer>
+			<key>Total Time</key><integer>134706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328138</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:02:18Z</date>
+			<key>Normalization</key><integer>1193</integer>
+			<key>Persistent ID</key><string>E164809BA60A491D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/01%20Bon%20Voyage.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14610</key>
+		<dict>
+			<key>Track ID</key><integer>14610</integer>
+			<key>Name</key><string>Dreams Of Surf</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2588231</integer>
+			<key>Total Time</key><integer>159560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328298</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:04:58Z</date>
+			<key>Normalization</key><integer>581</integer>
+			<key>Persistent ID</key><string>921528166507FE71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/02%20Dreams%20Of%20Surf.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14612</key>
+		<dict>
+			<key>Track ID</key><integer>14612</integer>
+			<key>Name</key><string>Opening</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>927595</integer>
+			<key>Total Time</key><integer>56973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328355</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:05:55Z</date>
+			<key>Normalization</key><integer>104</integer>
+			<key>Persistent ID</key><string>E6D94B8EF7F24783</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/03%20Opening.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14614</key>
+		<dict>
+			<key>Track ID</key><integer>14614</integer>
+			<key>Name</key><string>Conquest Of Paradise</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4572985</integer>
+			<key>Total Time</key><integer>282066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328637</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:10:37Z</date>
+			<key>Normalization</key><integer>908</integer>
+			<key>Persistent ID</key><string>AA666FF3CEDF1A8B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/04%20Conquest%20Of%20Paradise.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14616</key>
+		<dict>
+			<key>Track ID</key><integer>14616</integer>
+			<key>Name</key><string>Monastery Of La Rubida</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3678602</integer>
+			<key>Total Time</key><integer>226866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524328864</integer>
+			<key>Play Date UTC</key><date>2015-09-05T19:14:24Z</date>
+			<key>Normalization</key><integer>472</integer>
+			<key>Persistent ID</key><string>48F694BBADE4E95B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/05%20Monastery%20Of%20La%20Rubida.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14618</key>
+		<dict>
+			<key>Track ID</key><integer>14618</integer>
+			<key>Name</key><string>Come To Me</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4258417</integer>
+			<key>Total Time</key><integer>262600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484059103</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:11:43Z</date>
+			<key>Normalization</key><integer>507</integer>
+			<key>Persistent ID</key><string>42628B9E8EBDB0C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/06%20Come%20To%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14620</key>
+		<dict>
+			<key>Track ID</key><integer>14620</integer>
+			<key>Name</key><string>Light And Shadow</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3710582</integer>
+			<key>Total Time</key><integer>228760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484059332</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:15:32Z</date>
+			<key>Normalization</key><integer>948</integer>
+			<key>Persistent ID</key><string>77FD8ED23447F9D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/07%20Light%20And%20Shadow.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14622</key>
+		<dict>
+			<key>Track ID</key><integer>14622</integer>
+			<key>Name</key><string>Fields Of Coral</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3568712</integer>
+			<key>Total Time</key><integer>220040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484059552</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:19:12Z</date>
+			<key>Normalization</key><integer>440</integer>
+			<key>Persistent ID</key><string>DB33C1A07BD575A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/08%20Fields%20Of%20Coral.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14624</key>
+		<dict>
+			<key>Track ID</key><integer>14624</integer>
+			<key>Name</key><string>Movement 5</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3511084</integer>
+			<key>Total Time</key><integer>216466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484059769</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:22:49Z</date>
+			<key>Normalization</key><integer>364</integer>
+			<key>Persistent ID</key><string>D6D8DCC9CC6887E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/09%20Movement%205.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14626</key>
+		<dict>
+			<key>Track ID</key><integer>14626</integer>
+			<key>Name</key><string>Movement 6</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4665723</integer>
+			<key>Total Time</key><integer>287800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484060056</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:27:36Z</date>
+			<key>Normalization</key><integer>596</integer>
+			<key>Persistent ID</key><string>469F7456E7976166</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/10%20Movement%206.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14628</key>
+		<dict>
+			<key>Track ID</key><integer>14628</integer>
+			<key>Name</key><string>West Across The Ocean Sea</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2796527</integer>
+			<key>Total Time</key><integer>172333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484060229</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:30:29Z</date>
+			<key>Normalization</key><integer>452</integer>
+			<key>Persistent ID</key><string>A5AAA46E54669D56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/11%20West%20Across%20The%20Ocean%20Sea.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14630</key>
+		<dict>
+			<key>Track ID</key><integer>14630</integer>
+			<key>Name</key><string>Theme From "Bitter Moon"</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3575430</integer>
+			<key>Total Time</key><integer>220493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T14:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484060449</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:34:09Z</date>
+			<key>Normalization</key><integer>884</integer>
+			<key>Persistent ID</key><string>9DBFD4D66F8C966F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/12%20Theme%20From%20_Bitter%20Moon_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14632</key>
+		<dict>
+			<key>Track ID</key><integer>14632</integer>
+			<key>Name</key><string>Rachel's Song</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4359326</integer>
+			<key>Total Time</key><integer>268866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484060718</integer>
+			<key>Play Date UTC</key><date>2014-05-27T17:38:38Z</date>
+			<key>Normalization</key><integer>827</integer>
+			<key>Persistent ID</key><string>96E5F1903190B7E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/13%20Rachel's%20Song.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14634</key>
+		<dict>
+			<key>Track ID</key><integer>14634</integer>
+			<key>Name</key><string>Movement 4</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6242404</integer>
+			<key>Total Time</key><integer>385133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484144298</integer>
+			<key>Play Date UTC</key><date>2014-05-28T16:51:38Z</date>
+			<key>Normalization</key><integer>1065</integer>
+			<key>Persistent ID</key><string>1D3004E3157AA728</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/14%20Movement%204.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14636</key>
+		<dict>
+			<key>Track ID</key><integer>14636</integer>
+			<key>Name</key><string>Psalmus Ode</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4619897</integer>
+			<key>Total Time</key><integer>284973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484144583</integer>
+			<key>Play Date UTC</key><date>2014-05-28T16:56:23Z</date>
+			<key>Normalization</key><integer>1245</integer>
+			<key>Persistent ID</key><string>DD1FB516973D785E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/15%20Psalmus%20Ode.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14638</key>
+		<dict>
+			<key>Track ID</key><integer>14638</integer>
+			<key>Name</key><string>Dawn</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4504288</integer>
+			<key>Total Time</key><integer>277826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484144860</integer>
+			<key>Play Date UTC</key><date>2014-05-28T17:01:00Z</date>
+			<key>Normalization</key><integer>459</integer>
+			<key>Persistent ID</key><string>FA6AAB7D43083E56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/16%20Dawn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14640</key>
+		<dict>
+			<key>Track ID</key><integer>14640</integer>
+			<key>Name</key><string>Prelude</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Reprise 1990 - 1999</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4691071</integer>
+			<key>Total Time</key><integer>289373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-06-07T07:54:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3484145150</integer>
+			<key>Play Date UTC</key><date>2014-05-28T17:05:50Z</date>
+			<key>Normalization</key><integer>463</integer>
+			<key>Persistent ID</key><string>BA0882E77129FDD5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Reprise%201990%20-%201999/17%20Prelude.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14646</key>
+		<dict>
+			<key>Track ID</key><integer>14646</integer>
+			<key>Name</key><string>Side 1</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Spiral</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19982323</integer>
+			<key>Total Time</key><integer>1248888</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2012-07-21T12:16:09Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4176B942C684D4D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Spiral/Side%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14648</key>
+		<dict>
+			<key>Track ID</key><integer>14648</integer>
+			<key>Name</key><string>Side 2</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album</key><string>Spiral</string>
+			<key>Genre</key><string>Vinyl</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17871211</integer>
+			<key>Total Time</key><integer>1116943</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2012-04-16T12:21:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BCCBE5BF33C47C2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Spiral/Side%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14650</key>
+		<dict>
+			<key>Track ID</key><integer>14650</integer>
+			<key>Name</key><string>End Titles From Blade Runner</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Evangelos Papathanassiou</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10450624</integer>
+			<key>Total Time</key><integer>299026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:17:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498284256</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:37:36Z</date>
+			<key>Normalization</key><integer>1205</integer>
+			<key>Persistent ID</key><string>F9F81CA36799DF86</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/01%20End%20Titles%20From%20Blade%20Runner.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14652</key>
+		<dict>
+			<key>Track ID</key><integer>14652</integer>
+			<key>Name</key><string>Main Theme From Missing</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7886901</integer>
+			<key>Total Time</key><integer>241466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:18:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498284498</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:41:38Z</date>
+			<key>Normalization</key><integer>1192</integer>
+			<key>Persistent ID</key><string>A5F8BE84AD7AC21A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/02%20Main%20Theme%20From%20Missing.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14654</key>
+		<dict>
+			<key>Track ID</key><integer>14654</integer>
+			<key>Name</key><string>L'Enfant</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10074917</integer>
+			<key>Total Time</key><integer>302373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:18:37Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498284800</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:46:40Z</date>
+			<key>Normalization</key><integer>1172</integer>
+			<key>Persistent ID</key><string>E8C2A1D6BFC2770F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/03%20L'Enfant.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14656</key>
+		<dict>
+			<key>Track ID</key><integer>14656</integer>
+			<key>Name</key><string>Hymn</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5547295</integer>
+			<key>Total Time</key><integer>167560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:18:49Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498284968</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:49:28Z</date>
+			<key>Normalization</key><integer>994</integer>
+			<key>Persistent ID</key><string>37B003F7FE4532FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/04%20Hymn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14658</key>
+		<dict>
+			<key>Track ID</key><integer>14658</integer>
+			<key>Name</key><string>Chung Kuo</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Evangelos Papathanassiou</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11068073</integer>
+			<key>Total Time</key><integer>332000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:19:11Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498285300</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:55:00Z</date>
+			<key>Normalization</key><integer>976</integer>
+			<key>Persistent ID</key><string>6CE7916DFD81011A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/05%20Chung%20Kuo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14660</key>
+		<dict>
+			<key>Track ID</key><integer>14660</integer>
+			<key>Name</key><string>The Tao Of Love</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5439898</integer>
+			<key>Total Time</key><integer>167000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:19:21Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498285467</integer>
+			<key>Play Date UTC</key><date>2014-11-08T08:57:47Z</date>
+			<key>Normalization</key><integer>987</integer>
+			<key>Sort Name</key><string>Tao Of Love</string>
+			<key>Persistent ID</key><string>DE5BEE495BEAEA70</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/06%20The%20Tao%20Of%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14662</key>
+		<dict>
+			<key>Track ID</key><integer>14662</integer>
+			<key>Name</key><string>Theme From Antartica</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8493580</integer>
+			<key>Total Time</key><integer>234466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:19:36Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498285701</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:01:41Z</date>
+			<key>Normalization</key><integer>1241</integer>
+			<key>Persistent ID</key><string>51498929D07B8C6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/07%20Theme%20From%20Antartica.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14664</key>
+		<dict>
+			<key>Track ID</key><integer>14664</integer>
+			<key>Name</key><string>Love Theme From Blade Runner</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9748757</integer>
+			<key>Total Time</key><integer>300573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:19:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498286002</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:06:42Z</date>
+			<key>Normalization</key><integer>619</integer>
+			<key>Persistent ID</key><string>270658660C3EB5E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/08%20Love%20Theme%20From%20Blade%20Runner.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14666</key>
+		<dict>
+			<key>Track ID</key><integer>14666</integer>
+			<key>Name</key><string>Opening Titles From The Bounty</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8434640</integer>
+			<key>Total Time</key><integer>258493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:20:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498286260</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:11:00Z</date>
+			<key>Normalization</key><integer>1125</integer>
+			<key>Persistent ID</key><string>88FA6E6229D0A538</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/09%20Opening%20Titles%20From%20The%20Bounty.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14668</key>
+		<dict>
+			<key>Track ID</key><integer>14668</integer>
+			<key>Name</key><string>Closing Titles From The Bounty</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Evangelos Papathanassiou</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9843555</integer>
+			<key>Total Time</key><integer>300000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:20:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498286560</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:16:00Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>A0D0DDA15F74BEFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/10%20Closing%20Titles%20From%20The%20Bounty.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14670</key>
+		<dict>
+			<key>Track ID</key><integer>14670</integer>
+			<key>Name</key><string>Memories Of Green</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Evangelos Papathanassiou</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11059254</integer>
+			<key>Total Time</key><integer>344973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:20:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498286905</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:21:45Z</date>
+			<key>Normalization</key><integer>1254</integer>
+			<key>Persistent ID</key><string>80415F419BC36D6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/11%20Memories%20Of%20Green.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14672</key>
+		<dict>
+			<key>Track ID</key><integer>14672</integer>
+			<key>Name</key><string>La Petite Fille De La Mer</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11660095</integer>
+			<key>Total Time</key><integer>354026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:21:09Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498287259</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:27:39Z</date>
+			<key>Normalization</key><integer>525</integer>
+			<key>Persistent ID</key><string>0896E0B472779AB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/12%20La%20Petite%20Fille%20De%20La%20Mer.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14674</key>
+		<dict>
+			<key>Track ID</key><integer>14674</integer>
+			<key>Name</key><string>Five Circles</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10497610</integer>
+			<key>Total Time</key><integer>320773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-21T04:21:29Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3498287580</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:33:00Z</date>
+			<key>Normalization</key><integer>825</integer>
+			<key>Persistent ID</key><string>BE2D3F9BF32272D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/13%20Five%20Circles.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14676</key>
+		<dict>
+			<key>Track ID</key><integer>14676</integer>
+			<key>Name</key><string>Chariots Of Fire</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Themes</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6943112</integer>
+			<key>Total Time</key><integer>211226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2012-04-21T04:21:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3498287792</integer>
+			<key>Play Date UTC</key><date>2014-11-08T09:36:32Z</date>
+			<key>Normalization</key><integer>1420</integer>
+			<key>Persistent ID</key><string>5C31EB8097ED0C21</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Vangelis/Themes/14%20Chariots%20Of%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Vangelis</string>
+			<key>Playlist ID</key><integer>34777</integer>
+			<key>Playlist Persistent ID</key><string>9D0F05DCAAD86CBC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14524</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14578</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14614</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14652</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14654</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14662</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14672</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14648</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

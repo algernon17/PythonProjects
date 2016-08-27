@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-20T17:25:47Z</date>
+	<key>Application Version</key><string>11.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/</string>
+	<key>Library Persistent ID</key><string>F4D9C67457F8A298</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11702</key>
+		<dict>
+			<key>Track ID</key><integer>11702</integer>
+			<key>Name</key><string>Intro</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>391472</integer>
+			<key>Total Time</key><integer>22813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-18T01:19:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3525238204</integer>
+			<key>Play Date UTC</key><date>2015-09-16T07:50:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-04-22T20:24:29Z</date>
+			<key>Normalization</key><integer>149</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8650ED07952078F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/01%20Intro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11704</key>
+		<dict>
+			<key>Track ID</key><integer>11704</integer>
+			<key>Name</key><string>Apocalypse Please</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4105736</integer>
+			<key>Total Time</key><integer>252853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3525238457</integer>
+			<key>Play Date UTC</key><date>2015-09-16T07:54:17Z</date>
+			<key>Normalization</key><integer>6487</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>213C42ADD4184854</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/02%20Apocalypse%20Please.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11706</key>
+		<dict>
+			<key>Track ID</key><integer>11706</integer>
+			<key>Name</key><string>Time Is Running Out</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3850919</integer>
+			<key>Total Time</key><integer>236306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525238693</integer>
+			<key>Play Date UTC</key><date>2015-09-16T07:58:13Z</date>
+			<key>Normalization</key><integer>5736</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6670E62765268AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/03%20Time%20Is%20Running%20Out.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11708</key>
+		<dict>
+			<key>Track ID</key><integer>11708</integer>
+			<key>Name</key><string>Sing For Absolution</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4803096</integer>
+			<key>Total Time</key><integer>294853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525238988</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:03:08Z</date>
+			<key>Normalization</key><integer>4825</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2925F887EC39441</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/04%20Sing%20For%20Absolution.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11710</key>
+		<dict>
+			<key>Track ID</key><integer>11710</integer>
+			<key>Name</key><string>Stockholm Syndrome</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4828293</integer>
+			<key>Total Time</key><integer>297466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525239285</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:08:05Z</date>
+			<key>Normalization</key><integer>7304</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3D6746B4917D05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/05%20Stockholm%20Syndrome.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11712</key>
+		<dict>
+			<key>Track ID</key><integer>11712</integer>
+			<key>Name</key><string>Falling Away With You</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4573728</integer>
+			<key>Total Time</key><integer>280640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525239566</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:12:46Z</date>
+			<key>Normalization</key><integer>3497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>983D227E7D5597C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/06%20Falling%20Away%20With%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11714</key>
+		<dict>
+			<key>Track ID</key><integer>11714</integer>
+			<key>Name</key><string>Interlude</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>635705</integer>
+			<key>Total Time</key><integer>37640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525239603</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:13:23Z</date>
+			<key>Normalization</key><integer>664</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51030F94602936DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/07%20Interlude.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11716</key>
+		<dict>
+			<key>Track ID</key><integer>11716</integer>
+			<key>Name</key><string>Hysteria</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3693585</integer>
+			<key>Total Time</key><integer>227400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-18T01:19:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525239831</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:17:11Z</date>
+			<key>Normalization</key><integer>7637</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F5FECFB1631EF24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/08%20Hysteria.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11718</key>
+		<dict>
+			<key>Track ID</key><integer>11718</integer>
+			<key>Name</key><string>Blackout</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4269397</integer>
+			<key>Total Time</key><integer>262186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525240093</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:21:33Z</date>
+			<key>Normalization</key><integer>1782</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52DCA9000C3DFD8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/09%20Blackout.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11720</key>
+		<dict>
+			<key>Track ID</key><integer>11720</integer>
+			<key>Name</key><string>Butterflies &#38; Hurricanes</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4897414</integer>
+			<key>Total Time</key><integer>301733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3525240394</integer>
+			<key>Play Date UTC</key><date>2015-09-16T08:26:34Z</date>
+			<key>Normalization</key><integer>3925</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75EC119988EE50D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/10%20Butterflies%20&#38;%20Hurricanes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11722</key>
+		<dict>
+			<key>Track ID</key><integer>11722</integer>
+			<key>Name</key><string>The Small Print</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3393397</integer>
+			<key>Total Time</key><integer>208386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:24Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499869551</integer>
+			<key>Play Date UTC</key><date>2014-11-26T16:59:11Z</date>
+			<key>Normalization</key><integer>9549</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Small Print</string>
+			<key>Persistent ID</key><string>BA04DA5C7094762F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/11%20The%20Small%20Print.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11724</key>
+		<dict>
+			<key>Track ID</key><integer>11724</integer>
+			<key>Name</key><string>Endlessly</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3732751</integer>
+			<key>Total Time</key><integer>230000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:26Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499869781</integer>
+			<key>Play Date UTC</key><date>2014-11-26T17:03:01Z</date>
+			<key>Normalization</key><integer>2577</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E496856BCBD82AC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/12%20Endlessly.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11726</key>
+		<dict>
+			<key>Track ID</key><integer>11726</integer>
+			<key>Name</key><string>Thoughts Of A Dying Atheist</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3055189</integer>
+			<key>Total Time</key><integer>188960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499869970</integer>
+			<key>Play Date UTC</key><date>2014-11-26T17:06:10Z</date>
+			<key>Normalization</key><integer>7124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7CFECF8CFECCC4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/13%20Thoughts%20Of%20A%20Dying%20Atheist.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11728</key>
+		<dict>
+			<key>Track ID</key><integer>11728</integer>
+			<key>Name</key><string>Ruled By Secrecy</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4757959</integer>
+			<key>Total Time</key><integer>294133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-06-17T18:19:28Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499870264</integer>
+			<key>Play Date UTC</key><date>2014-11-26T17:11:04Z</date>
+			<key>Normalization</key><integer>1465</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE2A3A2BDD284B64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Absolution/14%20Ruled%20By%20Secrecy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11730</key>
+		<dict>
+			<key>Track ID</key><integer>11730</integer>
+			<key>Name</key><string>Take A Bow</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4467797</integer>
+			<key>Total Time</key><integer>275493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:14:54Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501133632</integer>
+			<key>Play Date UTC</key><date>2014-12-11T08:07:12Z</date>
+			<key>Normalization</key><integer>6175</integer>
+			<key>Persistent ID</key><string>B1B0EF179CE97BC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/01%20Take%20A%20Bow.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11732</key>
+		<dict>
+			<key>Track ID</key><integer>11732</integer>
+			<key>Name</key><string>Starlight</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>MUSE/Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3888126</integer>
+			<key>Total Time</key><integer>239800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:15:08Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501133872</integer>
+			<key>Play Date UTC</key><date>2014-12-11T08:11:12Z</date>
+			<key>Normalization</key><integer>7223</integer>
+			<key>Persistent ID</key><string>439A4A8018D84A9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/02%20Starlight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11734</key>
+		<dict>
+			<key>Track ID</key><integer>11734</integer>
+			<key>Name</key><string>Supermassive Black Hole</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>MUSE/Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3392732</integer>
+			<key>Total Time</key><integer>209333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:15:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501134081</integer>
+			<key>Play Date UTC</key><date>2014-12-11T08:14:41Z</date>
+			<key>Normalization</key><integer>6287</integer>
+			<key>Persistent ID</key><string>DDE73FB83FD4B4A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/03%20Supermassive%20Black%20Hole.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11736</key>
+		<dict>
+			<key>Track ID</key><integer>11736</integer>
+			<key>Name</key><string>Map Of The Problematique</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4180568</integer>
+			<key>Total Time</key><integer>258866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:15:34Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501134340</integer>
+			<key>Play Date UTC</key><date>2014-12-11T08:19:00Z</date>
+			<key>Normalization</key><integer>9812</integer>
+			<key>Persistent ID</key><string>D7747B653B01B557</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/04%20Map%20Of%20The%20Problematique.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11738</key>
+		<dict>
+			<key>Track ID</key><integer>11738</integer>
+			<key>Name</key><string>Soldier's Poem</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2010807</integer>
+			<key>Total Time</key><integer>123906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:15:40Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3500615399</integer>
+			<key>Play Date UTC</key><date>2014-12-05T08:09:59Z</date>
+			<key>Normalization</key><integer>2064</integer>
+			<key>Persistent ID</key><string>FF9DADD62428E8C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/05%20Soldier's%20Poem.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11740</key>
+		<dict>
+			<key>Track ID</key><integer>11740</integer>
+			<key>Name</key><string>Invincible</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4866321</integer>
+			<key>Total Time</key><integer>300200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:15:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3500615699</integer>
+			<key>Play Date UTC</key><date>2014-12-05T08:14:59Z</date>
+			<key>Normalization</key><integer>5370</integer>
+			<key>Persistent ID</key><string>F2D3089743892FF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/06%20Invincible.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11742</key>
+		<dict>
+			<key>Track ID</key><integer>11742</integer>
+			<key>Name</key><string>Assassin</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>MUSE</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3419913</integer>
+			<key>Total Time</key><integer>211133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:16:10Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3500615910</integer>
+			<key>Play Date UTC</key><date>2014-12-05T08:18:30Z</date>
+			<key>Normalization</key><integer>9355</integer>
+			<key>Persistent ID</key><string>D1028C7911DB46EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/07%20Assassin.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11744</key>
+		<dict>
+			<key>Track ID</key><integer>11744</integer>
+			<key>Name</key><string>Exo-Politics</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3781161</integer>
+			<key>Total Time</key><integer>233266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:16:22Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499923243</integer>
+			<key>Play Date UTC</key><date>2014-11-27T07:54:03Z</date>
+			<key>Normalization</key><integer>7307</integer>
+			<key>Persistent ID</key><string>EF8D867C6B582514</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/08%20Exo-Politics.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11746</key>
+		<dict>
+			<key>Track ID</key><integer>11746</integer>
+			<key>Name</key><string>City Of Delusion</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4674563</integer>
+			<key>Total Time</key><integer>288866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:16:38Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3501166272</integer>
+			<key>Play Date UTC</key><date>2014-12-11T17:11:12Z</date>
+			<key>Normalization</key><integer>7635</integer>
+			<key>Persistent ID</key><string>6A65CE05764B2D74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/09%20City%20Of%20Delusion.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11748</key>
+		<dict>
+			<key>Track ID</key><integer>11748</integer>
+			<key>Name</key><string>Hoodoo</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3615012</integer>
+			<key>Total Time</key><integer>223333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-18T02:16:52Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3501166495</integer>
+			<key>Play Date UTC</key><date>2014-12-11T17:14:55Z</date>
+			<key>Normalization</key><integer>3028</integer>
+			<key>Persistent ID</key><string>4DFE999E03B776F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/10%20Hoodoo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11750</key>
+		<dict>
+			<key>Track ID</key><integer>11750</integer>
+			<key>Name</key><string>Knights Of Cydonia</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy/MUSE</string>
+			<key>Album</key><string>Black Holes &#38; Revelations</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5939063</integer>
+			<key>Total Time</key><integer>366800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-06-17T19:17:12Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3501166862</integer>
+			<key>Play Date UTC</key><date>2014-12-11T17:21:02Z</date>
+			<key>Normalization</key><integer>8284</integer>
+			<key>Persistent ID</key><string>4707D0507E728D44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Black%20Holes%20&#38;%20Revelations/11%20Knights%20Of%20Cydonia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11752</key>
+		<dict>
+			<key>Track ID</key><integer>11752</integer>
+			<key>Name</key><string>Intro</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1769741</integer>
+			<key>Total Time</key><integer>105906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499958686</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:44:46Z</date>
+			<key>Normalization</key><integer>904</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81F3DA776105754F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/01%20Intro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11754</key>
+		<dict>
+			<key>Track ID</key><integer>11754</integer>
+			<key>Name</key><string>Knights Of Cydonia</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6373334</integer>
+			<key>Total Time</key><integer>397773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500009318</integer>
+			<key>Play Date UTC</key><date>2014-11-28T07:48:38Z</date>
+			<key>Normalization</key><integer>9440</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F38F8F8CD8A52144</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/02%20Knights%20Of%20Cydonia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11756</key>
+		<dict>
+			<key>Track ID</key><integer>11756</integer>
+			<key>Name</key><string>Hysteria</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4184264</integer>
+			<key>Total Time</key><integer>259173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500009578</integer>
+			<key>Play Date UTC</key><date>2014-11-28T07:52:58Z</date>
+			<key>Normalization</key><integer>8343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DFE4D4C0EF723D72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/03%20Hysteria.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11758</key>
+		<dict>
+			<key>Track ID</key><integer>11758</integer>
+			<key>Name</key><string>Supermassive Black Hole</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3957148</integer>
+			<key>Total Time</key><integer>240933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500009819</integer>
+			<key>Play Date UTC</key><date>2014-11-28T07:56:59Z</date>
+			<key>Normalization</key><integer>4944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CDB34F0B3172189</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/04%20Supermassive%20Black%20Hole.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11760</key>
+		<dict>
+			<key>Track ID</key><integer>11760</integer>
+			<key>Name</key><string>Map Of The Problematique</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5231989</integer>
+			<key>Total Time</key><integer>322706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500010141</integer>
+			<key>Play Date UTC</key><date>2014-11-28T08:02:21Z</date>
+			<key>Normalization</key><integer>8563</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6FE348D8D2EED5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/05%20Map%20Of%20The%20Problematique.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11762</key>
+		<dict>
+			<key>Track ID</key><integer>11762</integer>
+			<key>Name</key><string>Butterflies &#38; Hurricanes</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5725528</integer>
+			<key>Total Time</key><integer>356906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500010498</integer>
+			<key>Play Date UTC</key><date>2014-11-28T08:08:18Z</date>
+			<key>Normalization</key><integer>6497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4E417B84EC97DD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/06%20Butterflies%20&#38;%20Hurricanes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11764</key>
+		<dict>
+			<key>Track ID</key><integer>11764</integer>
+			<key>Name</key><string>Invincible</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6104003</integer>
+			<key>Total Time</key><integer>375920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500010874</integer>
+			<key>Play Date UTC</key><date>2014-11-28T08:14:34Z</date>
+			<key>Normalization</key><integer>5234</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8FA746C05151686</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/07%20Invincible.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11766</key>
+		<dict>
+			<key>Track ID</key><integer>11766</integer>
+			<key>Name</key><string>Starlight</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4077418</integer>
+			<key>Total Time</key><integer>254133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500038683</integer>
+			<key>Play Date UTC</key><date>2014-11-28T15:58:03Z</date>
+			<key>Normalization</key><integer>5607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88A6183C7D7B385D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/08%20Starlight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11768</key>
+		<dict>
+			<key>Track ID</key><integer>11768</integer>
+			<key>Name</key><string>Time Is Running Out</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4257377</integer>
+			<key>Total Time</key><integer>263346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500038947</integer>
+			<key>Play Date UTC</key><date>2014-11-28T16:02:27Z</date>
+			<key>Normalization</key><integer>7303</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>780CCCA339D56835</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/09%20Time%20Is%20Running%20Out.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11770</key>
+		<dict>
+			<key>Track ID</key><integer>11770</integer>
+			<key>Name</key><string>New Born</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7990126</integer>
+			<key>Total Time</key><integer>496933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500039444</integer>
+			<key>Play Date UTC</key><date>2014-11-28T16:10:44Z</date>
+			<key>Normalization</key><integer>8734</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>484C8E940A893EA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/10%20New%20Born.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11772</key>
+		<dict>
+			<key>Track ID</key><integer>11772</integer>
+			<key>Name</key><string>Unintended</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4446762</integer>
+			<key>Total Time</key><integer>275666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500039719</integer>
+			<key>Play Date UTC</key><date>2014-11-28T16:15:19Z</date>
+			<key>Normalization</key><integer>2219</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A2258D760F220EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/11%20Unintended.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11774</key>
+		<dict>
+			<key>Track ID</key><integer>11774</integer>
+			<key>Name</key><string>Micro Cuts</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3701272</integer>
+			<key>Total Time</key><integer>227440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-04T04:17:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3500039947</integer>
+			<key>Play Date UTC</key><date>2014-11-28T16:19:07Z</date>
+			<key>Normalization</key><integer>6940</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAA58EB6AB035A73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/12%20Micro%20Cuts.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11776</key>
+		<dict>
+			<key>Track ID</key><integer>11776</integer>
+			<key>Name</key><string>Stockholm Syndrome</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7362944</integer>
+			<key>Total Time</key><integer>457653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8186</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C11BE1C05580A902</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/13%20Stockholm%20Syndrome.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11778</key>
+		<dict>
+			<key>Track ID</key><integer>11778</integer>
+			<key>Name</key><string>Take A Bow</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Matthew Bellamy</string>
+			<key>Album</key><string>H.A.A.R.P [Live]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4535324</integer>
+			<key>Total Time</key><integer>284840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-03T21:17:44Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5061</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AEDC056A6F53E5B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/H.A.A.R.P%20%5BLive%5D/14%20Take%20A%20Bow.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11780</key>
+		<dict>
+			<key>Track ID</key><integer>11780</integer>
+			<key>Name</key><string>New Born</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5884653</integer>
+			<key>Total Time</key><integer>363266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:00:46Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501167225</integer>
+			<key>Play Date UTC</key><date>2014-12-11T17:27:05Z</date>
+			<key>Normalization</key><integer>8639</integer>
+			<key>Persistent ID</key><string>75C6BE8C7ADA461F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/01%20New%20Born.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11782</key>
+		<dict>
+			<key>Track ID</key><integer>11782</integer>
+			<key>Name</key><string>Bliss</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4092804</integer>
+			<key>Total Time</key><integer>252466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:01:00Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3501167478</integer>
+			<key>Play Date UTC</key><date>2014-12-11T17:31:18Z</date>
+			<key>Normalization</key><integer>7614</integer>
+			<key>Persistent ID</key><string>6186AF625465621A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/02%20Bliss.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11784</key>
+		<dict>
+			<key>Track ID</key><integer>11784</integer>
+			<key>Name</key><string>Space Dementia</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6172761</integer>
+			<key>Total Time</key><integer>380800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:01:20Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499956475</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:07:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-17T08:27:51Z</date>
+			<key>Normalization</key><integer>4052</integer>
+			<key>Persistent ID</key><string>79A1D139C13B10D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/03%20Space%20Dementia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11786</key>
+		<dict>
+			<key>Track ID</key><integer>11786</integer>
+			<key>Name</key><string>Hyper Music</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3267182</integer>
+			<key>Total Time</key><integer>201373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:01:30Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499956676</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:11:16Z</date>
+			<key>Normalization</key><integer>8763</integer>
+			<key>Persistent ID</key><string>473E060B860A63C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/04%20Hyper%20Music.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11788</key>
+		<dict>
+			<key>Track ID</key><integer>11788</integer>
+			<key>Name</key><string>Plug in Baby</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3564233</integer>
+			<key>Total Time</key><integer>219800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-05T04:01:42Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499956896</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:14:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-17T08:28:20Z</date>
+			<key>Normalization</key><integer>10143</integer>
+			<key>Persistent ID</key><string>36F7A0379FC060DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/05%20Plug%20in%20Baby.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11790</key>
+		<dict>
+			<key>Track ID</key><integer>11790</integer>
+			<key>Name</key><string>Citizen Erased</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7121151</integer>
+			<key>Total Time</key><integer>439306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:02:06Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499957335</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:22:15Z</date>
+			<key>Normalization</key><integer>3873</integer>
+			<key>Persistent ID</key><string>2AC61BEFFB483EC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/06%20Citizen%20Erased.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11792</key>
+		<dict>
+			<key>Track ID</key><integer>11792</integer>
+			<key>Name</key><string>Micro Cuts</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3541776</integer>
+			<key>Total Time</key><integer>218426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-05T04:02:18Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499957554</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:25:54Z</date>
+			<key>Normalization</key><integer>6566</integer>
+			<key>Persistent ID</key><string>A54962381B7912F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/07%20Micro%20Cuts.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11794</key>
+		<dict>
+			<key>Track ID</key><integer>11794</integer>
+			<key>Name</key><string>Screenager</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4218351</integer>
+			<key>Total Time</key><integer>260173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:02:32Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499957814</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:30:14Z</date>
+			<key>Normalization</key><integer>1604</integer>
+			<key>Persistent ID</key><string>F2DEF038C79DDACC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/08%20Screenager.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11796</key>
+		<dict>
+			<key>Track ID</key><integer>11796</integer>
+			<key>Name</key><string>Darkshines</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4661235</integer>
+			<key>Total Time</key><integer>287560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:02:48Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3499958102</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:35:02Z</date>
+			<key>Normalization</key><integer>6836</integer>
+			<key>Persistent ID</key><string>9F1ABB7A41922227</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/09%20Darkshines.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11798</key>
+		<dict>
+			<key>Track ID</key><integer>11798</integer>
+			<key>Name</key><string>Feeling Good</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Newley/Anthony Newley/Leslie Bricusse</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3239570</integer>
+			<key>Total Time</key><integer>199760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:02:58Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499958301</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:38:21Z</date>
+			<key>Normalization</key><integer>4040</integer>
+			<key>Persistent ID</key><string>ED7459607A04478A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/10%20Feeling%20Good.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11800</key>
+		<dict>
+			<key>Track ID</key><integer>11800</integer>
+			<key>Name</key><string>Megalomania</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Mattew Bellamy</string>
+			<key>Album</key><string>Origin Of Symmetry</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4480182</integer>
+			<key>Total Time</key><integer>278266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2007-08-04T21:03:14Z</date>
+			<key>Date Added</key><date>2014-01-31T22:32:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3499958580</integer>
+			<key>Play Date UTC</key><date>2014-11-27T17:43:00Z</date>
+			<key>Normalization</key><integer>1493</integer>
+			<key>Persistent ID</key><string>DDF23EDFAD241FA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Iomega%20HDD/iTunes-Media/Music/Muse/Origin%20Of%20Symmetry/11%20Megalomania.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Muse</string>
+			<key>Playlist ID</key><integer>34457</integer>
+			<key>Playlist Persistent ID</key><string>FC8AFE7029A09CE0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11710</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11714</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11726</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11728</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11780</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11786</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11788</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11790</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11766</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11772</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11778</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
